@@ -1,0 +1,46 @@
+name: 掲載の追加・訂正
+description: 会社や事例の追加、内容の誤りの訂正を受け付けます。
+title: "[訂正] "
+labels: ["訂正"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        追加や訂正は、公開されている出典で確かめてから反映します。出典のURLを必ず書いてください。
+  - type: input
+    id: company
+    attributes:
+      label: 会社名
+      placeholder: 例：大成建設
+    validations:
+      required: true
+  - type: input
+    id: code
+    attributes:
+      label: 証券コード
+      placeholder: 例：1801
+    validations:
+      required: true
+  - type: input
+    id: row
+    attributes:
+      label: どの行か
+      description: ファイル名と、事例IDか証券コードを書いてください。新しく足してほしいときは「追加」と書いてください。
+      placeholder: 例：data/cases.csv の 1801-0001
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: 正しい内容
+      description: どの列を、どう直すとよいかを書いてください。
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 出典のURL
+      description: 会社の発表・IR資料・報道など、公開されているページのURLを書いてください。
+      placeholder: https://
+    validations:
+      required: true

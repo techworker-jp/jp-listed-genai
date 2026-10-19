@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "このデータを使うときは、次のように出典を書いてください。出典：TechWorker『国内上場企業の生成AI活用データ』https://github.com/techworker-jp/jp-listed-genai"
+type: dataset
+title: "国内上場企業の生成AI活用データ"
+authors:
+  - name: "株式会社TechWorker"
+    website: "https://techworker.co.jp"
+repository-code: "https://github.com/techworker-jp/jp-listed-genai"
+url: "https://github.com/techworker-jp/jp-listed-genai"
+license: CC-BY-4.0
+keywords:
+  - 生成AI
+  - 上場企業
+  - 事例
+  - オープンデータ
