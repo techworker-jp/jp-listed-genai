@@ -29,10 +29,15 @@
         "url": "https://www.umios.com/jp/corporate/ir/library/pdf/report2025.pdf",
         "title": "ダブルウェーブレポート2025(株主通信 第81期報告・第82期中間報告)",
         "publishedAt": "2025-12"
+      },
+      {
+        "url": "https://aws.amazon.com/jp/blogs/news/umios-chronos2/",
+        "title": "Umios(旧マルハニチロ) が時系列基盤モデル Chronos-2 で実現する販売計画 AI – 作業4,200時間削減への裏側",
+        "publishedAt": "2026-09-10"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -1333,10 +1338,15 @@
         "url": "https://sfc.jp/information/dx/",
         "title": "住友林業 DXサイト",
         "publishedAt": "2025"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000126.000026498.html",
+        "title": "Sapeet、住友林業ホームサービスにAIロープレシステム「SAPI ロープレ」を提供",
+        "publishedAt": "2026-10-06"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 3,
+    "caseCount": 4,
     "yuhoYears": []
   },
   {
@@ -2099,10 +2109,15 @@
         "url": "https://mixi.co.jp/news/2025/0415/40432/",
         "title": "MIXI、ChatGPT Enterpriseを全従業員に導入",
         "publishedAt": "2025-04-15"
+      },
+      {
+        "url": "https://mixi.co.jp/news/2026/1013/57848/",
+        "title": "MIXI、「Databricks Data+AI プラットフォーム」で全社データの統合を加速 人とAIエージェントがともに活用する全社基盤の構築へ",
+        "publishedAt": "2026-10-13"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -3180,17 +3195,22 @@
     "name": "博報堂ＤＹホールディングス",
     "industry33": "サービス業",
     "market": "プライム",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2025-08-04",
     "sources": [
       {
         "url": "https://prtimes.jp/main/html/rd/p/000000153.000036543.html",
         "title": "博報堂ＤＹホールディングス、REVISIOの広告視聴質データを活用した生成AIによる「CM企画&映像(Vコン)自動生成ツール」を開発、社内PoCを開始",
         "publishedAt": "2025-08-04"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000502.000031201.html",
+        "title": "ソウルドアウト、AI-BPR基盤『So Compass（エスオーコンパス）』を本格始動！生成AIとAIエージェントでデジタルマーケティング業務を再設計",
+        "publishedAt": "2026-10-07"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2022
     ]
@@ -3864,10 +3884,15 @@
         "url": "https://iret.media/144869",
         "title": "【AI Agent Summit ’25 Spring】現場発！店舗スタッフを全員マーケター化した、アンドエスティの STAFF VOICE の取り組み",
         "publishedAt": "2025-03-14"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000056.000097252.html",
+        "title": "AI model、アダストリアのAI共創ブランドELMIRAの立ち上げ支援を開始",
+        "publishedAt": "2026-10-08"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -4117,6 +4142,24 @@
     "yuhoYears": []
   },
   {
+    "code": "2780",
+    "name": "コメ兵ホールディングス",
+    "industry33": "小売業",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-10-08",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000652.000012138.html",
+        "title": "ナウキャスト、コメ兵へ店舗開発AIエージェント「DataLens店舗開発」を提供",
+        "publishedAt": "2026-10-08"
+      }
+    ],
+    "checkedAt": "2026-10-19",
+    "caseCount": 1,
+    "yuhoYears": []
+  },
+  {
     "code": "2784",
     "name": "アルフレッサ　ホールディングス",
     "industry33": "卸売業",
@@ -4228,6 +4271,24 @@
     ],
     "checkedAt": "2026-10-19",
     "caseCount": 0,
+    "yuhoYears": []
+  },
+  {
+    "code": "2811",
+    "name": "カゴメ",
+    "industry33": "食料品",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-10-06",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000038.000070594.html",
+        "title": "プラスゼロとアップセルテクノロジィーズ、通信販売「カゴメ健康直送便」のコンタクトセンターにAIオペレーター「miraio」を提供開始",
+        "publishedAt": "2026-10-06"
+      }
+    ],
+    "checkedAt": "2026-10-19",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -4721,10 +4782,15 @@
         "url": "https://tech-blog.monotaro.com/entry/2025/04/24/091000",
         "title": "モノタロウのAI駆動開発の全貌をご紹介します",
         "publishedAt": "2025-04-24"
+      },
+      {
+        "url": "https://peoplex.jp/news/20261013/",
+        "title": "MonotaRO、PeopleXの対話型AI面接サービス「PeopleX AI面接」を導入",
+        "publishedAt": "2026-10-13"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -4863,17 +4929,22 @@
     "name": "東洋紡",
     "industry33": "化学",
     "market": "プライム",
-    "stage": "検討・計画",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2025",
     "sources": [
       {
         "url": "https://www.toyobo.co.jp/pdf/sustainability/report/toyobo_report_2025_jp.pdf",
         "title": "技術革新の方針に生成AI活用を位置付け（出典）",
         "publishedAt": "2025"
+      },
+      {
+        "url": "https://dcross.impress.co.jp/docs/usecase/004866.html",
+        "title": "東洋紡、現場が言葉を“教えて育てる”AIエージェントで製造の知見を引き出す",
+        "publishedAt": "2026-10-07"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -5314,10 +5385,15 @@
         "url": "https://www.nomura-solutions.co.jp/news/pdf/20231129.pdf",
         "title": "11月29日より「AI ANSWER Plus(ベータ版)」の提供開始 生成AIを活用した対話型チャットサービスで顧客サービスを拡充",
         "publishedAt": "2023-11-29"
+      },
+      {
+        "url": "https://www.pkshatech.com/news/20260930/",
+        "title": "野村不動産HD、約10,000名への全社依頼を「PKSHA AIバックオフィス」で自動配信・進捗管理",
+        "publishedAt": "2026-09-30"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -6355,10 +6431,15 @@
         "url": "https://pepabo.com/news/media/202604101730/",
         "title": "Google Cloud の「生成AI活用事例集」にGMOペパボが掲載されました",
         "publishedAt": "2026-04-10"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000005329.000000136.html",
+        "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
+        "publishedAt": "2026-10-07"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2024,
       2025
@@ -7058,6 +7139,27 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "3778",
+    "name": "さくらインターネット",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-10-06",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000165.000025663.html",
+        "title": "カラクリの顧客対応AIエージェント「GeN」、さくらインターネットで自己解決率約80％を実現",
+        "publishedAt": "2026-10-06"
+      }
+    ],
+    "checkedAt": "2026-10-19",
+    "caseCount": 1,
+    "yuhoYears": [
+      2024,
       2025
     ]
   },
@@ -7806,10 +7908,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000398.000049287.html",
         "title": "うるる、全従業員を対象とした「AI活用方針」を策定 エンジニア先行のAI活用を全社へ拡張",
         "publishedAt": "2026-09-03"
+      },
+      {
+        "url": "https://aws.amazon.com/jp/builders-flash/202610/add-llm-workflow-bedrock-agentcore-runtime/",
+        "title": "既存プロダクトに Amazon Bedrock AgentCore runtime でLLM ワークフロー基盤を後付けした設計判断",
+        "publishedAt": "2026-10-05"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2025
     ]
@@ -7936,10 +8043,15 @@
         "url": "https://note.moneyforward.com/n/nbf62431c7aee?gs=fd4580dc2ec6a05d0e4504c6beac4485",
         "title": "【全文書き起こし】マネーフォワードのAI戦略「Money Forward AI Vision 2025」発表会",
         "publishedAt": "2025-04-08"
+      },
+      {
+        "url": "https://japan.zdnet.com/article/35253101/",
+        "title": "マネーフォワード、「Notion」と「Notion AI」を導入--AIネイティブな組織体制の構築と働き方を推進",
+        "publishedAt": "2026-09-30"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2023,
       2024
@@ -7977,10 +8089,15 @@
         "url": "https://www.resonac.com/jp/news/2024/01/18/2849.html",
         "title": "生成AIで手書き文章も含めた社内資料を活用する独自システムChat Resonacを開発",
         "publishedAt": "2024-01-18"
+      },
+      {
+        "url": "https://www.resonac.com/jp/news/2026/07/15/3926.html",
+        "title": "現場発のAIエージェントを標準化・全社展開する独自モデルを構築 ～生成AI導入半年で活用率95%・月当たり4.7億円相当の業務削減を達成～",
+        "publishedAt": "2026-07-15"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2024,
       2025
@@ -8885,6 +9002,24 @@
     ]
   },
   {
+    "code": "4205",
+    "name": "日本ゼオン",
+    "industry33": "化学",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://classmethod.jp/cases/zeon-aidd/",
+        "title": "AI駆動開発の全社展開に向けて、実践的なトレーニングで体系的な知識を習得",
+        "publishedAt": "2026-10-15"
+      }
+    ],
+    "checkedAt": "2026-10-19",
+    "caseCount": 1,
+    "yuhoYears": []
+  },
+  {
     "code": "4206",
     "name": "アイカ工業",
     "industry33": "化学",
@@ -9230,10 +9365,15 @@
         "url": "https://www.dentsu.co.jp/news/release/2024/0805-010761.html",
         "title": "電通コピーライターが長年培ってきた思考プロセスを学習したAI広告コピー生成ツール「AICO2」を開発",
         "publishedAt": "2024-08-05"
+      },
+      {
+        "url": "https://www.dentsudigital.co.jp/news/release/services/2026-1014-000354",
+        "title": "国内電通グループ、3,000人規模のFDE・FDMスキル開発を開始",
+        "publishedAt": "2026-10-14"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -11026,10 +11166,25 @@
         "url": "https://www.lycorp.co.jp/ja/news/release/007755/",
         "title": "LINEヤフー、個人向けサービスを中心に16件で生成AIを活用 従業員約2万人に生成AIアシスタントを提供",
         "publishedAt": "2024-02"
+      },
+      {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020864/",
+        "title": "「LINE」、AIが友だちとの予定決めをサポートする「日程調整エージェント」機能を提供開始",
+        "publishedAt": "2026-10-05"
+      },
+      {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020874/",
+        "title": "スポーツナビ、生成AIがプロ野球の試合状況を解説する新機能「AI野球解説（β版）」の提供を開始",
+        "publishedAt": "2026-10-07"
+      },
+      {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020891/",
+        "title": "Agent i 、子育てのやるべきことをAIがサポートする「子育て」エージェントを提供開始",
+        "publishedAt": "2026-10-14"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 3,
     "yuhoYears": [
       2025
     ]
@@ -11227,17 +11382,22 @@
     "name": "京進",
     "industry33": "サービス業",
     "market": "スタンダード",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2025-02-10",
     "sources": [
       {
         "url": "https://group.kyoshin.co.jp/news/739019/",
         "title": "世界で初めて、オックスフォード大学出版局のAI学習ツール「LAURA」京進の英会話ユニバーサルキャンパスにて導入開始",
         "publishedAt": "2025-02-10"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000156.000062186.html",
+        "title": "京進、教育と介護分野におけるAIを活用した対人サービス支援技術で特許出願～AI開発プラットフォーム「Dify」提供元との共同PoCが完了～",
+        "publishedAt": "2026-10-05"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -13408,10 +13568,15 @@
         "url": "https://www.iyogin-hd.co.jp/ir/disclosure/pdf/2025_rep.pdf",
         "title": "いよぎんホールディングス 統合報告書2025",
         "publishedAt": "2025"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000001946.000011650.html",
+        "title": "TISI、伊予銀行のCRMデータを活用し、生成AIによる営業高度化に向けた実証実験を開始",
+        "publishedAt": "2026-07-08"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -13902,10 +14067,15 @@
         "url": "https://ai-keiei.shift-ai.co.jp/interview-f6-bengo4-com/",
         "title": "ROIは起点にしない 弁護士ドットコムが進めた生成AIの標準装備",
         "publishedAt": "2026-02-04"
+      },
+      {
+        "url": "https://www.bengo4.com/corporate/news/article/4c0yjybeb6az/",
+        "title": "弁護士ドットコム、弁護士ドットコム事業における「AI戦略」を発表",
+        "publishedAt": "2026-10-02"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -15502,17 +15672,27 @@
     "name": "日立製作所",
     "industry33": "電気機器",
     "market": "プライム",
-    "stage": "検討・計画",
+    "stage": "試している",
     "firstPublishedAt": "2023-05-15",
     "sources": [
       {
         "url": "https://www.hitachi.com/ja-jp/press/articles/2023/05/0515/",
         "title": "新組織「Generative AIセンター」により、生成AIの社内外での利活用を推進",
         "publishedAt": "2023-05-15"
+      },
+      {
+        "url": "https://aws.amazon.com/jp/blogs/news/hiics-ai-sdlc-workshop/",
+        "title": "【開催報告】組み込みソフトウェア開発でも AI エージェントは活用できる ─ 日立産業制御ソリューションズ様とのワークショップ",
+        "publishedAt": "2026-09-30"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000020.000104416.html",
+        "title": "日立コンサルティング、LayerXの「Ai Workforce」を活用した知識基盤の構築を開始",
+        "publishedAt": "2026-09-30"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 2,
     "yuhoYears": [
       2023,
       2024,
@@ -16131,17 +16311,22 @@
     "name": "富士通",
     "industry33": "電気機器",
     "market": "プライム",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2026-05-27",
     "sources": [
       {
         "url": "https://prtimes.jp/main/html/rd/p/000000572.000093942.html",
         "title": "富士通とAnthropic、戦略的パートナーシップ契約を締結",
         "publishedAt": "2026-05-27"
+      },
+      {
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news022.html",
+        "title": "富士通では「Copilot」10万ライセンスの利用率が“9割超え” 「導入したけど使われない」をどう防いだ？",
+        "publishedAt": "2026-10-08"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2025
     ]
@@ -16910,17 +17095,22 @@
     "name": "村田製作所",
     "industry33": "電気機器",
     "market": "プライム",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2023-07-03",
     "sources": [
       {
         "url": "https://www.media-ir.com/news/?p=105686",
         "title": "村田製作所、Azure OpenAI Serviceを活用した生成AIサービス『Murata Copilot powered by ChatGPT』を国内従業員約3万人を対象にトライアル運用開始",
         "publishedAt": "2023-07-03"
+      },
+      {
+        "url": "https://news.mynavi.jp/techplus/article/20261007-5025505/",
+        "title": "データとAIが組織を変える、“知の循環”を目指す村田製作所の取り組みとは",
+        "publishedAt": "2026-10-07"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -18036,17 +18226,22 @@
     "name": "ＳＵＢＡＲＵ",
     "industry33": "輸送用機器",
     "market": "プライム",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2023-10-19",
     "sources": [
       {
         "url": "https://ridge-i.com/news/4019/",
         "title": "株式会社SUBARUに生成AI活用コンサルティングサービスの提供を開始 ～設計開発業務における生成AI活用余地を共同で検証～",
         "publishedAt": "2023-10-19"
+      },
+      {
+        "url": "https://news.mynavi.jp/techplus/article/20261006-5019658/",
+        "title": "小さな成功体験を組織の力に変える、SUBARUが進めるDX・AI時代の全社変革とは",
+        "publishedAt": "2026-10-06"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2025
     ]
@@ -18232,10 +18427,15 @@
         "url": "https://aws.amazon.com/jp/solutions/case-studies/sbi-life-case-study/",
         "title": "SBI 生命保険が、Amazon Kendra と生成 AI を使って文書検索ソリューションを開発し、セルフボットでコールセンターを効率化",
         "publishedAt": "2024"
+      },
+      {
+        "url": "https://www.sbiig.co.jp/information/files/261014_01_AIK.pdf",
+        "title": "SBI生命、引受査定業務の品質・生産性向上に向け生成AIを活用した実証実験を開始",
+        "publishedAt": "2026-10-14"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2023,
       2024,
@@ -19603,10 +19803,20 @@
         "url": "https://www.canon-its.co.jp/corporate/station/randd-reports/vol-03",
         "title": "お客さまの課題解決につなげる生成AIの活用(R&D News+Reports vol-03)",
         "publishedAt": "2025-06-10"
+      },
+      {
+        "url": "https://global.canon/ja/news/2026/20261001-2.html",
+        "title": "家庭用インクジェットプリンター向け新サポートサービスを提供開始",
+        "publishedAt": "2026-10-01"
+      },
+      {
+        "url": "https://global.canon/ja/news/2026/20261001.html",
+        "title": "プリンティング製品向け「クラウド型機能拡張プラットフォーム」を始動 生成AIとイメージング技術で目的や用途に応じたプリント・スキャン体験を提供",
+        "publishedAt": "2026-10-01"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 2,
     "yuhoYears": [
       2025
     ]
@@ -19623,10 +19833,15 @@
         "url": "https://jp.ricoh.com/release/2024/1128_1",
         "title": "リコー、生成AIアプリ開発プラットフォーム「Dify」を活用した社内実践を開始し、AIの市民開発に向けた取り組みを加速",
         "publishedAt": "2024-11-28"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000217.000019319.html",
+        "title": "アジアクエスト、リコーとAIエージェント×基幹システム連携の共同実証実験開始",
+        "publishedAt": "2026-10-19"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2023,
       2024,
@@ -20197,10 +20412,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000712.000048998.html",
         "title": "約3,000のGPTアイデアから選抜して「GPT-Lab」で実装開始",
         "publishedAt": "2023-09-27"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000154.000070957.html",
+        "title": "AIがお客様ごとの「最適な購買」を導き出す。消耗品購買最適化診断ツール「サプナビ」にAI機能を搭載し運用開始",
+        "publishedAt": "2026-10-06"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2025
     ]
@@ -20587,10 +20807,15 @@
         "url": "https://www.sumitomocorp.com/-/media/Files/hq/news/important/2026/20260527/white_paper_2025_ja.pdf",
         "title": "デジタル・AI白書2025",
         "publishedAt": "2026-05-27"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000394.000041550.html",
+        "title": "SCSK、Salesforceの「Agentforce」を活用し営業AIエージェントを内製化",
+        "publishedAt": "2026-10-08"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -21352,10 +21577,15 @@
         "url": "https://www.resona-gr.co.jp/holdings/news/newsrelease_c/detail/20250529_315.html",
         "title": "日本マイクロソフト株式会社との戦略的枠組みに関する契約締結について",
         "publishedAt": "2025-05-29"
+      },
+      {
+        "url": "https://it.impress.co.jp/articles/-/29869",
+        "title": "りそなアセットマネジメント、投信の商品概要書と約款の作成・改定を自動化",
+        "publishedAt": "2026-10-07"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2025
     ]
@@ -21393,10 +21623,15 @@
         "url": "https://www.smfg.co.jp/news/pdf/j20230411_01.pdf",
         "title": "SMBCグループの専用環境におけるAIアシスタントツール「SMBC-GPT」の実証実験の開始について",
         "publishedAt": "2023-04-11"
+      },
+      {
+        "url": "https://www.smbc.co.jp/news/pdf/j20261001_02.pdf",
+        "title": "生成AIの安全・安心な活用拡大に向けたAIガバナンスソリューションの導入について",
+        "publishedAt": "2026-10-01"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -21788,10 +22023,15 @@
         "url": "https://www.kiyobank.co.jp/personal/get_pdf.php?f=00002647",
         "title": "生成AI「ChatGPT」の試行導入について",
         "publishedAt": "2024-01-10"
+      },
+      {
+        "url": "https://www.kiyobank.co.jp/personal/get_pdf.php?f=00003295",
+        "title": "「ナレッジワークＡＩ営業ロープレ」および「営業支援ＡＩ」の実証実験開始について",
+        "publishedAt": "2026-10-14"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -22002,17 +22242,32 @@
     "name": "みずほフィナンシャルグループ",
     "industry33": "銀行業",
     "market": "プライム",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2026-03-05",
     "sources": [
       {
         "url": "https://prtimes.jp/main/html/rd/p/000000002.000177612.html",
         "title": "金融特化LLM構築に関するプレスリリース",
         "publishedAt": "2026-03-05"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000010.000177612.html",
+        "title": "みずほ銀行、対話型AIアシスタント「あおまるバンク」を2026年9月(予定)より提供開始",
+        "publishedAt": "2026-05-18"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000022.000177612.html",
+        "title": "生成AIとの「対話」からAIに「業務を任せる」働き方へ－自律型AIエージェント基盤「みずほCowork」を開発し、業務適用に向けたPoCを開始",
+        "publishedAt": "2026-10-05"
+      },
+      {
+        "url": "https://www.ctc-g.co.jp/news/release/20261006-02152.html",
+        "title": "CTC、みずほフィナンシャルグループのAI駆動開発基盤の構築を支援",
+        "publishedAt": "2026-10-06"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 3,
     "yuhoYears": []
   },
   {
@@ -22704,10 +22959,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000382.000001545.html",
         "title": "生成AIを活用した社内向けツールを開発し、社内照会業務効率化に向けた運用を開始",
         "publishedAt": "2025-02-07"
+      },
+      {
+        "url": "https://sonybank.jp/corporate/disclosure/press/2026/0914-01.html",
+        "title": "ソニー銀行と富士通、勘定系システムの実開発に生成AIを本格適用",
+        "publishedAt": "2026-09-14"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -22715,17 +22975,22 @@
     "name": "第一ライフグループ",
     "industry33": "保険業",
     "market": "プライム",
-    "stage": "検討・計画",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2023-11-01",
     "sources": [
       {
         "url": "https://www.dai-ichi-life.co.jp/company/news/pdf/2023_032.pdf",
         "title": "「exaBase Studio」の導入 ～生成AIの安全かつ効率的な活用の実現に向けて～",
         "publishedAt": "2023-11-01"
+      },
+      {
+        "url": "https://www.dai-ichi-life.co.jp/company/news/pdf/2026_015.pdf",
+        "title": "人と AI の協働で、お客さま一人ひとりに寄り添うコンサルティングへ ～伴走支援型 AI「デジタルバディ」を全国の生涯設計デザイナーに導入～",
+        "publishedAt": "2026-08-28"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -22818,10 +23083,15 @@
         "url": "https://www.mitsuifudosan.co.jp/corporate/news/2023/1010/",
         "title": "自社特化型AIチャットツール「&Chat」を開発 ～全従業員約2,500人を対象に運用を開始～",
         "publishedAt": "2023-10-10"
+      },
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1001/",
+        "title": "三井不動産とestie 不動産事業におけるAI・DX推進に向けた戦略的パートナーシップの基本合意書を締結",
+        "publishedAt": "2026-10-01"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -23047,17 +23317,22 @@
     "name": "青山財産ネットワークス",
     "industry33": "不動産業",
     "market": "スタンダード",
-    "stage": "検討・計画",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2026-02-13",
     "sources": [
       {
         "url": "https://www2.jpx.co.jp/disc/89290/140120260206550384.pdf",
         "title": "2025年12月期 決算短信〔日本基準〕(連結)",
         "publishedAt": "2026-02-13"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000056.000089580.html",
+        "title": "財産コンサルティングの暗黙知を、個人の経験から組織の共通資産へ 青山財産ネットワークス、現場社員14名が実業務のAIエージェント7件を開発",
+        "publishedAt": "2026-10-08"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2025
     ]
@@ -23389,10 +23664,15 @@
         "url": "https://www.westjr.co.jp/press/article/2026/06/10/items/260610_00_press_waxa.pdf",
         "title": "“With 生成AI”時代におけるJR西日本のDX・AI人財育成”WAXA”について",
         "publishedAt": "2026-06-10"
+      },
+      {
+        "url": "https://www.westjr.co.jp/press/article/2026/09/30/items/260930_01_press_mitococa_suu.pdf",
+        "title": "生成AI技術を活用した画像解析ソリューション「mitococa SUU（ミトコカ スー）」～鉄道やホテル、異業種で実証を進め、2027年初旬の製品版リリースを目指す～",
+        "publishedAt": "2026-09-30"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 10,
+    "caseCount": 11,
     "yuhoYears": [
       2024
     ]
@@ -23834,10 +24114,15 @@
         "url": "https://www.yamato-hd.co.jp/investors/library/briefing/pdf/4q_setsumei_2026_03.pdf",
         "title": "ヤマトグループ 決算説明資料<2026年3月期 通期>",
         "publishedAt": "2026-04-30"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000342.000023180.html",
+        "title": "「AIプラストーク」で、ヤマトコンタクトサービスの新人研修を2週間から3日へ短縮",
+        "publishedAt": "2026-10-06"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 3,
+    "caseCount": 4,
     "yuhoYears": [
       2025
     ]
@@ -24311,10 +24596,15 @@
         "url": "https://www.anahd.co.jp/group/pr/202511/20251120-3.html",
         "title": "ANA XとADDIXが生成AIによるホテル・観光向け動画コンテンツの共同PoCを開始",
         "publishedAt": "2025-11-20"
+      },
+      {
+        "url": "https://www.ecbeing.net/contents/detail/p/695",
+        "title": "「ANAのふるさと納税」に生成AIチャットボット「AIデジタルスタッフ」導入",
+        "publishedAt": "2026-10-01"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 6,
+    "caseCount": 7,
     "yuhoYears": []
   },
   {
@@ -24884,6 +25174,24 @@
     "yuhoYears": []
   },
   {
+    "code": "9361",
+    "name": "伏木海陸運送",
+    "industry33": "倉庫・運輸関連業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-09-30",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z59R",
+        "title": "有価証券報告書－第109期(2025/07/01－2026/06/30)",
+        "publishedAt": "2026-09-30"
+      }
+    ],
+    "checkedAt": "2026-10-19",
+    "caseCount": 1,
+    "yuhoYears": []
+  },
+  {
     "code": "9364",
     "name": "上組",
     "industry33": "倉庫・運輸関連業",
@@ -25152,10 +25460,15 @@
         "url": "https://biz.kddi.com/beconnected/feature/2024/240306/",
         "title": "KDDIが実践する「生成AI活用」の現在地と未来",
         "publishedAt": "2024-03-06"
+      },
+      {
+        "url": "https://aws.amazon.com/jp/blogs/news/esg-decision-support-with-amazon-bedrock-agentcore/",
+        "title": "Amazon Bedrock AgentCore で ESG 対応の意思決定を支援 – 人の判断を記憶する AI エージェント",
+        "publishedAt": "2026-10-14"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2023,
       2024,
@@ -25267,10 +25580,15 @@
         "url": "https://group.gmo/news/article/9513/",
         "title": "GMOインターネットグループ、AI人財の支援に年間約10億円を投資「GMO AIブースト支援金」を創設",
         "publishedAt": "2025-05-19"
+      },
+      {
+        "url": "https://group.gmo/news/article/10235/",
+        "title": "GMOインターネットグループ、Google Cloud と AI推進プロジェクトを展開",
+        "publishedAt": "2026-10-09"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": [
       2023,
       2024,
@@ -25340,17 +25658,22 @@
     "name": "東京電力ホールディングス",
     "industry33": "電気・ガス業",
     "market": "プライム",
-    "stage": "検討・計画",
+    "stage": "試している",
     "firstPublishedAt": "2023-08-07",
     "sources": [
       {
         "url": "https://www.denkishimbun.com/sp/305189",
         "title": "大手電力、生成AI活用へ",
         "publishedAt": "2023-08-07"
+      },
+      {
+        "url": "https://www.ctc-g.co.jp/news/release/20261005-02150.html",
+        "title": "東京電力HDに原子力申請書作成支援システムのPoC環境を導入",
+        "publishedAt": "2026-10-05"
       }
     ],
     "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -25481,6 +25804,44 @@
     ],
     "checkedAt": "2026-10-19",
     "caseCount": 0,
+    "yuhoYears": []
+  },
+  {
+    "code": "9531",
+    "name": "東京瓦斯",
+    "industry33": "電気・ガス業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-10-14",
+    "sources": [
+      {
+        "url": "https://www.hitachi-solutions.co.jp/company/press/news/2026/1014",
+        "title": "東京ガスのIT戦略を担う東京ガスｉネットが、エージェンティックAIで熟練PMの暗黙知を継承",
+        "publishedAt": "2026-10-14"
+      }
+    ],
+    "checkedAt": "2026-10-19",
+    "caseCount": 1,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "9532",
+    "name": "大阪瓦斯",
+    "industry33": "電気・ガス業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-10-15",
+    "sources": [
+      {
+        "url": "https://www.osakagas.co.jp/company/press/pr2026/1827210_60967.html",
+        "title": "都市ガス製造所における「自律飛行ドローン×生成AI」を活用した災害時点検システムの本格運用を開始",
+        "publishedAt": "2026-10-15"
+      }
+    ],
+    "checkedAt": "2026-10-19",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
