@@ -318,6 +318,26 @@
     "yuhoYears": []
   },
   {
+    "code": "143A",
+    "name": "イシン",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHBL",
+        "title": "有価証券報告書－第21期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "1446",
     "name": "キャンディル",
     "industry33": "建設業",
@@ -406,6 +426,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "151A",
+    "name": "ダイブグループ",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-09-24",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WQCJ",
+        "title": "有価証券報告書－第25期(2024/07/01－2025/06/30)",
+        "publishedAt": "2025-09-24"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "155A",
@@ -2197,6 +2237,26 @@
     "yuhoYears": []
   },
   {
+    "code": "2146",
+    "name": "ＵＴグループ",
+    "industry33": "サービス業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-29",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKK1",
+        "title": "有価証券報告書－第19期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-29"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "2148",
     "name": "アイティメディア",
     "industry33": "サービス業",
@@ -2404,6 +2464,26 @@
     ]
   },
   {
+    "code": "2180",
+    "name": "サニーサイドアップグループ",
+    "industry33": "サービス業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-09-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WQST",
+        "title": "有価証券報告書－第40期(2024/07/01－2025/06/30)",
+        "publishedAt": "2025-09-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "2181",
     "name": "パーソルホールディングス",
     "industry33": "サービス業",
@@ -2519,6 +2599,32 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "2208",
+    "name": "ブルボン",
+    "industry33": "食料品",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2025-06-20",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W09C",
+        "title": "有価証券報告書－第149期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-20"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YEFS",
+        "title": "有価証券報告書－第150期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-19"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
+    ]
   },
   {
     "code": "2209",
@@ -2743,6 +2849,26 @@
     ]
   },
   {
+    "code": "228A",
+    "name": "オプロ",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "試している",
+    "firstPublishedAt": "2026-02-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XN26",
+        "title": "有価証券報告書－第29期(2024/12/01－2025/11/30)",
+        "publishedAt": "2026-02-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "2293",
     "name": "滝沢ハム",
     "industry33": "食料品",
@@ -2759,6 +2885,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "2301",
+    "name": "学情",
+    "industry33": "サービス業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-01-22",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XGG2",
+        "title": "有価証券報告書－第48期(2024/11/01－2025/10/31)",
+        "publishedAt": "2026-01-22"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "2311",
@@ -2911,6 +3057,26 @@
     "yuhoYears": []
   },
   {
+    "code": "2334",
+    "name": "イオレ",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-30",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMZU",
+        "title": "有価証券報告書－第25期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-30"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "2335",
     "name": "キューブシステム",
     "industry33": "情報・通信業",
@@ -3006,6 +3172,53 @@
     "caseCount": 0,
     "yuhoYears": [
       2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "code": "2359",
+    "name": "コア",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-18",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YE3S",
+        "title": "有価証券報告書－第57期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-18"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2025
+    ]
+  },
+  {
+    "code": "2371",
+    "name": "カカクコム",
+    "industry33": "サービス業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-06-19",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VYJ6",
+        "title": "有価証券報告書－第28期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-19"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YBGN",
+        "title": "有価証券報告書－第29期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-17"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
       2024,
       2025
     ]
@@ -3189,6 +3402,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "2432",
+    "name": "ディー・エヌ・エー",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-26",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YLDV",
+        "title": "有価証券報告書－第28期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-26"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "2433",
@@ -4310,6 +4543,46 @@
     "yuhoYears": []
   },
   {
+    "code": "288A",
+    "name": "ラクサス・テクノロジーズ",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YI4C",
+        "title": "有価証券報告書－第20期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "2894",
+    "name": "石井食品",
+    "industry33": "食料品",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-29",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMHZ",
+        "title": "有価証券報告書－第85期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-29"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "2897",
     "name": "日清食品ホールディングス",
     "industry33": "食料品",
@@ -4437,6 +4710,32 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "2936",
+    "name": "ベースフード",
+    "industry33": "食料品",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2025-05-29",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VUG5",
+        "title": "有価証券報告書－第9期(2024/03/01－2025/02/28)",
+        "publishedAt": "2025-05-29"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y7A4",
+        "title": "有価証券報告書－第10期(2025/03/01－2026/02/28)",
+        "publishedAt": "2026-05-28"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
       2025
     ]
   },
@@ -4769,6 +5068,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "3058",
+    "name": "三洋堂ホールディングス",
+    "industry33": "小売業",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-22",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFXN",
+        "title": "有価証券報告書－第49期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-22"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "3064",
@@ -5623,6 +5942,26 @@
     "yuhoYears": []
   },
   {
+    "code": "331A",
+    "name": "メディックス",
+    "industry33": "サービス業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHLO",
+        "title": "有価証券報告書－第43期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "3320",
     "name": "クロスプラス",
     "industry33": "卸売業",
@@ -6122,6 +6461,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "350A",
+    "name": "デジタルグリッド",
+    "industry33": "電気・ガス業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2025-10-30",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WXET",
+        "title": "有価証券報告書－第9期(2024/08/01－2025/07/31)",
+        "publishedAt": "2025-10-30"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "3542",
@@ -6750,6 +7109,26 @@
     ]
   },
   {
+    "code": "3673",
+    "name": "ブロードリーフ",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-03-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XS43",
+        "title": "有価証券報告書－第17期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "3675",
     "name": "クロス・マーケティンググループ",
     "industry33": "情報・通信業",
@@ -6820,6 +7199,26 @@
       }
     ],
     "checkedAt": "2026-10-19",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "3682",
+    "name": "エンカレッジ・テクノロジ",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-18",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YD54",
+        "title": "有価証券報告書－第24期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-18"
+      }
+    ],
+    "checkedAt": "2026-10-20",
     "caseCount": 0,
     "yuhoYears": [
       2025
@@ -7087,6 +7486,26 @@
     "yuhoYears": []
   },
   {
+    "code": "3766",
+    "name": "システムズ・デザイン",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-22",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGLS",
+        "title": "有価証券報告書－第60期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-22"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "3768",
     "name": "リスクモンスター",
     "industry33": "情報・通信業",
@@ -7313,6 +7732,26 @@
     "yuhoYears": []
   },
   {
+    "code": "3836",
+    "name": "アバントグループ",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2023-09-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100RVSO",
+        "title": "有価証券報告書－第27期(2022/07/01－2023/06/30)",
+        "publishedAt": "2023-09-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023
+    ]
+  },
+  {
     "code": "3837",
     "name": "アドソル日進",
     "industry33": "情報・通信業",
@@ -7331,6 +7770,26 @@
     "yuhoYears": [
       2023,
       2024
+    ]
+  },
+  {
+    "code": "3839",
+    "name": "ＯＤＫソリューションズ",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHN8",
+        "title": "有価証券報告書－第63期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
     ]
   },
   {
@@ -7390,6 +7849,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "3850",
+    "name": "エヌ・ティ・ティ・データ・イントラマート",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-18",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YBTF",
+        "title": "有価証券報告書－第27期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-18"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "3858",
@@ -7576,6 +8055,26 @@
     "yuhoYears": []
   },
   {
+    "code": "3910",
+    "name": "エムケイシステム",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL5Q",
+        "title": "有価証券報告書－第38期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "3911",
     "name": "Ａｉｍｉｎｇ",
     "industry33": "情報・通信業",
@@ -7614,6 +8113,26 @@
     ]
   },
   {
+    "code": "3914",
+    "name": "ＪＩＧ－ＳＡＷ",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-03-28",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VHMW",
+        "title": "有価証券報告書－第24期(2024/01/01－2024/12/31)",
+        "publishedAt": "2025-03-28"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024
+    ]
+  },
+  {
     "code": "3916",
     "name": "デジタル・インフォメーション・テクノロジー",
     "industry33": "情報・通信業",
@@ -7630,6 +8149,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "3917",
+    "name": "アイリッジ",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-22",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YG4N",
+        "title": "有価証券報告書－第18期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-22"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "3918",
@@ -8253,6 +8792,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "4028",
+    "name": "石原産業",
+    "industry33": "化学",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2024-06-27",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TUK7",
+        "title": "有価証券報告書－第101期(2023/04/01－2024/03/31)",
+        "publishedAt": "2024-06-27"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023
+    ]
   },
   {
     "code": "4041",
@@ -9223,6 +9782,26 @@
     "yuhoYears": []
   },
   {
+    "code": "4260",
+    "name": "ハイブリッドテクノロジーズ",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-12-19",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XBWA",
+        "title": "有価証券報告書－第10期(2024/10/01－2025/09/30)",
+        "publishedAt": "2025-12-19"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "4261",
     "name": "アジアクエスト",
     "industry33": "情報・通信業",
@@ -9293,6 +9872,52 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "4290",
+    "name": "プレステージ・インターナショナル",
+    "industry33": "サービス業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-22",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YFPN",
+        "title": "有価証券報告書－第40期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-22"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "4293",
+    "name": "セプテーニ・ホールディングス",
+    "industry33": "サービス業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-03-26",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VGJB",
+        "title": "有価証券報告書－第34期(2024/01/01－2024/12/31)",
+        "publishedAt": "2025-03-26"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XT7F",
+        "title": "有価証券報告書－第35期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
+    ]
   },
   {
     "code": "4299",
@@ -9447,6 +10072,32 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "4344",
+    "name": "ソースネクスト",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2024-06-20",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TOC0",
+        "title": "有価証券報告書－第28期(2023/04/01－2024/03/31)",
+        "publishedAt": "2024-06-20"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XSUV",
+        "title": "有価証券報告書－第30期(2025/04/01－2025/12/31)",
+        "publishedAt": "2026-03-24"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2025
+    ]
   },
   {
     "code": "4346",
@@ -9741,6 +10392,46 @@
     "yuhoYears": []
   },
   {
+    "code": "4387",
+    "name": "ＺＵＵ",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKM3",
+        "title": "有価証券報告書－第13期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "438A",
+    "name": "インフキュリオン",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YL3J",
+        "title": "有価証券報告書－第20期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "4391",
     "name": "ロジザード",
     "industry33": "情報・通信業",
@@ -9793,6 +10484,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "4410",
+    "name": "ハリマ化成グループ",
+    "industry33": "化学",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YEIE",
+        "title": "有価証券報告書－第84期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "4417",
@@ -9979,6 +10690,26 @@
     "yuhoYears": []
   },
   {
+    "code": "4436",
+    "name": "ミンカブ・ジ・インフォノイド",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2024-06-28",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TY7D",
+        "title": "有価証券報告書－第18期(2023/04/01－2024/03/31)",
+        "publishedAt": "2024-06-28"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023
+    ]
+  },
+  {
     "code": "4437",
     "name": "ｇｏｏｄｄａｙｓホールディングス",
     "industry33": "情報・通信業",
@@ -9995,6 +10726,32 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "4440",
+    "name": "ヴィッツ",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "試している",
+    "firstPublishedAt": "2024-11-28",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100UUYP",
+        "title": "有価証券報告書－第28期(2023/09/01－2024/08/31)",
+        "publishedAt": "2024-11-28"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100X6ND",
+        "title": "有価証券報告書－第29期(2024/09/01－2025/08/31)",
+        "publishedAt": "2025-11-26"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
+    ]
   },
   {
     "code": "4442",
@@ -10776,6 +11533,26 @@
     "yuhoYears": []
   },
   {
+    "code": "4559",
+    "name": "ゼリア新薬工業",
+    "industry33": "医薬品",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKC2",
+        "title": "有価証券報告書－第72期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "4565",
     "name": "ネクセラファーマ",
     "industry33": "医薬品",
@@ -10979,6 +11756,26 @@
     "yuhoYears": []
   },
   {
+    "code": "462A",
+    "name": "ＦＵＮＤＩＮＮＯ",
+    "industry33": "証券、商品先物取引業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-01-29",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XI5B",
+        "title": "有価証券報告書－第10期(2024/11/01－2025/10/31)",
+        "publishedAt": "2026-01-29"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "4631",
     "name": "ＤＩＣ",
     "industry33": "化学",
@@ -11013,6 +11810,46 @@
       }
     ],
     "checkedAt": "2026-10-19",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "4641",
+    "name": "アルプス技研",
+    "industry33": "サービス業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-03-27",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VHAL",
+        "title": "有価証券報告書－第44期(2024/01/01－2024/12/31)",
+        "publishedAt": "2025-03-27"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024
+    ]
+  },
+  {
+    "code": "4642",
+    "name": "オリジナル設計",
+    "industry33": "サービス業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-03-26",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XU33",
+        "title": "有価証券報告書－第64期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-26"
+      }
+    ],
+    "checkedAt": "2026-10-20",
     "caseCount": 0,
     "yuhoYears": [
       2025
@@ -11153,6 +11990,32 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "4685",
+    "name": "菱友システムズ",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-06-24",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W39X",
+        "title": "有価証券報告書－第57期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-24"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YH80",
+        "title": "有価証券報告書－第58期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
+    ]
   },
   {
     "code": "4689",
@@ -11401,6 +12264,26 @@
     "yuhoYears": []
   },
   {
+    "code": "4736",
+    "name": "日本ラッド",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGDA",
+        "title": "有価証券報告書－第55期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "4743",
     "name": "アイティフォー",
     "industry33": "情報・通信業",
@@ -11646,6 +12529,90 @@
     ]
   },
   {
+    "code": "4792",
+    "name": "山田コンサルティンググループ",
+    "industry33": "サービス業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2024-06-28",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TXUL",
+        "title": "有価証券報告書－第35期(2023/04/01－2024/03/31)",
+        "publishedAt": "2024-06-28"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1KY",
+        "title": "有価証券報告書－第36期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-20"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YF7Q",
+        "title": "有価証券報告書－第37期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-19"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "code": "4800",
+    "name": "オリコン",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2024-06-26",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TS8B",
+        "title": "有価証券報告書－第25期(2023/04/01－2024/03/31)",
+        "publishedAt": "2024-06-26"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5XN",
+        "title": "有価証券報告書－第26期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-26"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJQT",
+        "title": "有価証券報告書－第27期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "code": "480A",
+    "name": "リブ・コンサルティング",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-03-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XT4I",
+        "title": "有価証券報告書－第14期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "4811",
     "name": "ドリーム・アーツ",
     "industry33": "情報・通信業",
@@ -11662,6 +12629,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "4814",
+    "name": "ネクストウェア",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-06-30",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W94E",
+        "title": "有価証券報告書－第35期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-30"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024
+    ]
   },
   {
     "code": "4819",
@@ -11752,6 +12739,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "4840",
+    "name": "トライアイズ",
+    "industry33": "サービス業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-03-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XU05",
+        "title": "有価証券報告書－第31期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "4845",
@@ -12292,6 +13299,47 @@
     "yuhoYears": []
   },
   {
+    "code": "5026",
+    "name": "トリプルアイズ",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2023-11-29",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100SDFA",
+        "title": "有価証券報告書－第15期(2022/09/01－2023/08/31)",
+        "publishedAt": "2023-11-29"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023
+    ]
+  },
+  {
+    "code": "5027",
+    "name": "ＡｎｙＭｉｎｄ　Ｇｒｏｕｐ",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-03-26",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XUHG",
+        "title": "有価証券報告書－第7期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-26"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2025
+    ]
+  },
+  {
     "code": "5029",
     "name": "サークレイス",
     "industry33": "情報・通信業",
@@ -12567,6 +13615,26 @@
     "yuhoYears": []
   },
   {
+    "code": "5133",
+    "name": "テリロジーホールディングス",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGVT",
+        "title": "有価証券報告書－第4期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "5138",
     "name": "Ｒｅｂａｓｅ",
     "industry33": "情報・通信業",
@@ -12605,6 +13673,26 @@
     "yuhoYears": []
   },
   {
+    "code": "5185",
+    "name": "フコク",
+    "industry33": "ゴム製品",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-22",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YG75",
+        "title": "有価証券報告書－第73期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-22"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "5192",
     "name": "三ツ星ベルト",
     "industry33": "ゴム製品",
@@ -12619,6 +13707,26 @@
       }
     ],
     "checkedAt": "2026-10-19",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "519A",
+    "name": "ベーシック",
+    "industry33": "情報・通信業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-03-30",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XVIQ",
+        "title": "有価証券報告書－第22期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-30"
+      }
+    ],
+    "checkedAt": "2026-10-20",
     "caseCount": 0,
     "yuhoYears": [
       2025
@@ -13075,6 +14183,46 @@
     "yuhoYears": []
   },
   {
+    "code": "5482",
+    "name": "愛知製鋼",
+    "industry33": "鉄鋼",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-06-27",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7BL",
+        "title": "有価証券報告書－第121期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-27"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024
+    ]
+  },
+  {
+    "code": "5484",
+    "name": "東北特殊鋼",
+    "industry33": "鉄鋼",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-30",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YNM9",
+        "title": "有価証券報告書－第127期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-30"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "548A",
     "name": "システムエグゼ",
     "industry33": "情報・通信業",
@@ -13111,6 +14259,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "550A",
+    "name": "ソフトテックス",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "試している",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YA88",
+        "title": "有価証券報告書－第43期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "5533",
@@ -13375,6 +14543,26 @@
     "yuhoYears": []
   },
   {
+    "code": "5698",
+    "name": "エンビプロ・ホールディングス",
+    "industry33": "鉄鋼",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-09-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100WR6T",
+        "title": "有価証券報告書－第16期(2024/07/01－2025/06/30)",
+        "publishedAt": "2025-09-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "5703",
     "name": "日本軽金属ホールディングス",
     "industry33": "非鉄金属",
@@ -13537,6 +14725,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "5803",
+    "name": "フジクラ",
+    "industry33": "非鉄金属",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGP3",
+        "title": "有価証券報告書－第178期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "5805",
@@ -13760,6 +14968,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "5871",
+    "name": "ＳＯＬＩＺＥ　Ｈｏｌｄｉｎｇｓ",
+    "industry33": "サービス業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-03-26",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VGEQ",
+        "title": "有価証券報告書－第35期(2024/01/01－2024/12/31)",
+        "publishedAt": "2025-03-26"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024
+    ]
   },
   {
     "code": "5884",
@@ -14054,6 +15282,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "6023",
+    "name": "ダイハツインフィニアース",
+    "industry33": "輸送用機器",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YCLQ",
+        "title": "有価証券報告書－第66期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "6027",
@@ -14665,6 +15913,32 @@
     ]
   },
   {
+    "code": "6180",
+    "name": "ＧＭＯメディア",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-03-19",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VFEL",
+        "title": "有価証券報告書－第25期(2024/01/01－2024/12/31)",
+        "publishedAt": "2025-03-19"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XR40",
+        "title": "有価証券報告書－第26期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-16"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
+    ]
+  },
+  {
     "code": "6183",
     "name": "ベルシステム２４ホールディングス",
     "industry33": "サービス業",
@@ -14942,6 +16216,32 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "6301",
+    "name": "小松製作所",
+    "industry33": "機械",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-06-16",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VXAI",
+        "title": "有価証券報告書－第156期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-16"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YD25",
+        "title": "有価証券報告書－第157期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-18"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
       2025
     ]
   },
@@ -15375,6 +16675,27 @@
     "yuhoYears": []
   },
   {
+    "code": "6430",
+    "name": "ダイコク電機",
+    "industry33": "機械",
+    "market": "プライム",
+    "stage": "試している",
+    "firstPublishedAt": "2025-06-27",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W7Y5",
+        "title": "有価証券報告書－第52期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-27"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
+    ]
+  },
+  {
     "code": "6432",
     "name": "竹内製作所",
     "industry33": "機械",
@@ -15737,6 +17058,32 @@
     "caseCount": 0,
     "yuhoYears": [
       2024
+    ]
+  },
+  {
+    "code": "6506",
+    "name": "安川電機",
+    "industry33": "電気機器",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2025-05-29",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VUHZ",
+        "title": "有価証券報告書－第109期(2024/03/01－2025/02/28)",
+        "publishedAt": "2025-05-29"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y69H",
+        "title": "有価証券報告書－第110期(2025/03/01－2026/02/28)",
+        "publishedAt": "2026-05-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
     ]
   },
   {
@@ -16464,6 +17811,46 @@
     ]
   },
   {
+    "code": "6753",
+    "name": "シャープ",
+    "industry33": "電気機器",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHZV",
+        "title": "有価証券報告書－第132期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "6758",
+    "name": "ソニーグループ",
+    "industry33": "電気機器",
+    "market": "プライム",
+    "stage": "試している",
+    "firstPublishedAt": "2026-06-18",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YE2C",
+        "title": "有価証券報告書－第109期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-18"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "6762",
     "name": "ＴＤＫ",
     "industry33": "電気機器",
@@ -16480,6 +17867,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "6770",
+    "name": "アルプスアルパイン",
+    "industry33": "電気機器",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-18",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YB8V",
+        "title": "有価証券報告書－第93期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-18"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "6794",
@@ -16994,6 +18401,26 @@
     ]
   },
   {
+    "code": "6954",
+    "name": "ファナック",
+    "industry33": "電気機器",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-22",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YG3Q",
+        "title": "有価証券報告書－第57期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-22"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "6955",
     "name": "ＦＤＫ",
     "industry33": "電気機器",
@@ -17279,6 +18706,26 @@
     "yuhoYears": []
   },
   {
+    "code": "7036",
+    "name": "イーエムネットジャパン",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2024-03-21",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100T2Y5",
+        "title": "有価証券報告書－第11期(2023/01/01－2023/12/31)",
+        "publishedAt": "2024-03-21"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023
+    ]
+  },
+  {
     "code": "7038",
     "name": "フロンティア・マネジメント",
     "industry33": "サービス業",
@@ -17356,6 +18803,32 @@
     "yuhoYears": [
       2023,
       2024
+    ]
+  },
+  {
+    "code": "7057",
+    "name": "エヌ・シー・エヌ",
+    "industry33": "サービス業",
+    "market": "スタンダード",
+    "stage": "試している",
+    "firstPublishedAt": "2025-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W5ZH",
+        "title": "有価証券報告書－第30期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-25"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YCPU",
+        "title": "有価証券報告書－第31期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-16"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
     ]
   },
   {
@@ -17472,6 +18945,44 @@
     "yuhoYears": []
   },
   {
+    "code": "7078",
+    "name": "ＩＮＣＬＵＳＩＶＥ　Ｈｏｌｄｉｎｇｓ",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2023-06-28",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100R8CJ",
+        "title": "有価証券報告書－第16期(2022/04/01－2023/03/31)",
+        "publishedAt": "2023-06-28"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TYU1",
+        "title": "有価証券報告書－第17期(2023/04/01－2024/03/31)",
+        "publishedAt": "2024-07-01"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W9O2",
+        "title": "有価証券報告書－第18期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-30"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YMA3",
+        "title": "有価証券報告書－第19期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-26"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
     "code": "7080",
     "name": "スポーツフィールド",
     "industry33": "サービス業",
@@ -17562,6 +19073,32 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "7089",
+    "name": "フォースタートアップス",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W265",
+        "title": "有価証券報告書－第9期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-23"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIA4",
+        "title": "有価証券報告書－第10期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
+    ]
   },
   {
     "code": "7095",
@@ -18357,6 +19894,32 @@
     "yuhoYears": []
   },
   {
+    "code": "7309",
+    "name": "シマノ",
+    "industry33": "輸送用機器",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2025-03-28",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VGFP",
+        "title": "有価証券報告書－第118期(2024/01/01－2024/12/31)",
+        "publishedAt": "2025-03-28"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XQSE",
+        "title": "有価証券報告書－第119期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-17"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
+    ]
+  },
+  {
     "code": "7318",
     "name": "セレンディップ・ホールディングス",
     "industry33": "輸送用機器",
@@ -18649,6 +20212,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "7360",
+    "name": "オンデック",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-02-24",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XMTU",
+        "title": "有価証券報告書－第18期(2024/12/01－2025/11/30)",
+        "publishedAt": "2026-02-24"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "7362",
@@ -19006,6 +20589,26 @@
     ]
   },
   {
+    "code": "7427",
+    "name": "エコートレーディング",
+    "industry33": "卸売業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-05-26",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y67Z",
+        "title": "有価証券報告書－第55期(2025/03/01－2026/02/28)",
+        "publishedAt": "2026-05-26"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "7433",
     "name": "伯東",
     "industry33": "卸売業",
@@ -19226,6 +20829,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "7521",
+    "name": "ムサシ",
+    "industry33": "卸売業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-24",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YHDE",
+        "title": "有価証券報告書－第105期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-24"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "7522",
@@ -19885,6 +21508,26 @@
     "yuhoYears": []
   },
   {
+    "code": "7793",
+    "name": "イメージ・マジック",
+    "industry33": "その他製品",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-03-30",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XVC1",
+        "title": "有価証券報告書－第31期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-30"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "7806",
     "name": "ＭＴＧ",
     "industry33": "その他製品",
@@ -19901,6 +21544,32 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "7818",
+    "name": "トランザクション",
+    "industry33": "その他製品",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2024-11-28",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100UUQV",
+        "title": "有価証券報告書－第38期(2023/09/01－2024/08/31)",
+        "publishedAt": "2024-11-28"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100X6MS",
+        "title": "有価証券報告書－第39期(2024/09/01－2025/08/31)",
+        "publishedAt": "2025-11-26"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024,
+      2025
+    ]
   },
   {
     "code": "7823",
@@ -20047,6 +21716,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "7874",
+    "name": "レック",
+    "industry33": "化学",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-24",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YIJB",
+        "title": "有価証券報告書－第44期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-24"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "7885",
@@ -20307,6 +21996,26 @@
     "yuhoYears": []
   },
   {
+    "code": "7951",
+    "name": "ヤマハ",
+    "industry33": "その他製品",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YJE7",
+        "title": "有価証券報告書－第202期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "7956",
     "name": "ピジョン",
     "industry33": "その他製品",
@@ -20421,6 +22130,26 @@
     ],
     "checkedAt": "2026-10-19",
     "caseCount": 1,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "7987",
+    "name": "ナカバヤシ",
+    "industry33": "その他製品",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKAO",
+        "title": "有価証券報告書－第76期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
     "yuhoYears": [
       2025
     ]
@@ -20919,6 +22648,32 @@
     ]
   },
   {
+    "code": "8077",
+    "name": "トルク",
+    "industry33": "卸売業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2024-01-31",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100SP3E",
+        "title": "有価証券報告書－第83期(2022/11/01－2023/10/31)",
+        "publishedAt": "2024-01-31"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100V5FN",
+        "title": "有価証券報告書－第84期(2023/11/01－2024/10/31)",
+        "publishedAt": "2025-01-30"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2024
+    ]
+  },
+  {
     "code": "8078",
     "name": "阪和興業",
     "industry33": "卸売業",
@@ -20971,6 +22726,46 @@
       }
     ],
     "checkedAt": "2026-10-19",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "8093",
+    "name": "極東貿易",
+    "industry33": "卸売業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-22",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YESK",
+        "title": "有価証券報告書－第106期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-22"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "8095",
+    "name": "アステナホールディングス",
+    "industry33": "卸売業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-02-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XN2T",
+        "title": "有価証券報告書－第86期(2024/12/01－2025/11/30)",
+        "publishedAt": "2026-02-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
     "caseCount": 0,
     "yuhoYears": [
       2025
@@ -21183,6 +22978,33 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "8157",
+    "name": "都築電気",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2025-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W41O",
+        "title": "有価証券報告書－第85期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-25"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YE5P",
+        "title": "有価証券報告書－第86期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-19"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2024,
+      2025
+    ]
   },
   {
     "code": "8159",
@@ -21918,6 +23740,26 @@
     ]
   },
   {
+    "code": "8361",
+    "name": "大垣共立銀行",
+    "industry33": "銀行業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-19",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YELN",
+        "title": "有価証券報告書－第214期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-19"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "8362",
     "name": "福井銀行",
     "industry33": "銀行業",
@@ -22378,6 +24220,26 @@
       }
     ],
     "checkedAt": "2026-10-19",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "8522",
+    "name": "名古屋銀行",
+    "industry33": "銀行業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-18",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YCZ0",
+        "title": "有価証券報告書－第108期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-18"
+      }
+    ],
+    "checkedAt": "2026-10-20",
     "caseCount": 0,
     "yuhoYears": [
       2025
@@ -22894,6 +24756,26 @@
     ]
   },
   {
+    "code": "8707",
+    "name": "岩井コスモホールディングス",
+    "industry33": "証券、商品先物取引業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YG9I",
+        "title": "有価証券報告書－第87期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "8713",
     "name": "フィデアホールディングス",
     "industry33": "銀行業",
@@ -22969,6 +24851,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 1,
     "yuhoYears": []
+  },
+  {
+    "code": "8739",
+    "name": "スパークス・グループ",
+    "industry33": "証券、商品先物取引業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-05-29",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Y7MV",
+        "title": "有価証券報告書－第37期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-05-29"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "8750",
@@ -24537,6 +26439,26 @@
     "yuhoYears": []
   },
   {
+    "code": "9171",
+    "name": "栗林商船",
+    "industry33": "海運業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-25",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YKD9",
+        "title": "有価証券報告書－第153期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "9201",
     "name": "日本航空",
     "industry33": "空運業",
@@ -24624,6 +26546,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 1,
     "yuhoYears": []
+  },
+  {
+    "code": "9211",
+    "name": "エフ・コード",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-03-30",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XVKK",
+        "title": "有価証券報告書－第20期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-30"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "9213",
@@ -24721,6 +26663,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "9241",
+    "name": "フューチャーリンクネットワーク",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2024-11-29",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100UVHG",
+        "title": "有価証券報告書－第25期(2023/09/01－2024/08/31)",
+        "publishedAt": "2024-11-29"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024
+    ]
   },
   {
     "code": "9242",
@@ -25138,6 +27100,26 @@
     "yuhoYears": []
   },
   {
+    "code": "9343",
+    "name": "アイビス",
+    "industry33": "サービス業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-03-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100XS2D",
+        "title": "有価証券報告書－第27期(2025/01/01－2025/12/31)",
+        "publishedAt": "2026-03-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "9344",
     "name": "アクシスコンサルティング",
     "industry33": "サービス業",
@@ -25512,6 +27494,32 @@
     "yuhoYears": []
   },
   {
+    "code": "9436",
+    "name": "沖縄セルラー電話",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2024-06-13",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TLJA",
+        "title": "有価証券報告書－第33期(2023/04/01－2024/03/31)",
+        "publishedAt": "2024-06-13"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100VWV1",
+        "title": "有価証券報告書－第34期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-10"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2024
+    ]
+  },
+  {
     "code": "9438",
     "name": "エムティーアイ",
     "industry33": "情報・通信業",
@@ -25648,6 +27656,26 @@
       }
     ],
     "checkedAt": "2026-10-19",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
+    "code": "9478",
+    "name": "ＳＥホールディングス・アンド・インキュベーションズ",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-06-18",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YD1K",
+        "title": "有価証券報告書－第41期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-18"
+      }
+    ],
+    "checkedAt": "2026-10-20",
     "caseCount": 0,
     "yuhoYears": [
       2025
@@ -25843,6 +27871,46 @@
     "checkedAt": "2026-10-19",
     "caseCount": 1,
     "yuhoYears": []
+  },
+  {
+    "code": "9533",
+    "name": "東邦瓦斯",
+    "industry33": "電気・ガス業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-06-24",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W1IJ",
+        "title": "有価証券報告書－第154期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-24"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2024
+    ]
+  },
+  {
+    "code": "9534",
+    "name": "北海道瓦斯",
+    "industry33": "電気・ガス業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100YGOL",
+        "title": "有価証券報告書－第180期(2025/04/01－2026/03/31)",
+        "publishedAt": "2026-06-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2025
+    ]
   },
   {
     "code": "9535",
@@ -26235,6 +28303,27 @@
     "yuhoYears": []
   },
   {
+    "code": "9658",
+    "name": "ビジネスブレイン太田昭和",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "stage": "試している",
+    "firstPublishedAt": "2024-06-24",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TPRX",
+        "title": "有価証券報告書－第57期(2023/04/01－2024/03/31)",
+        "publishedAt": "2024-06-24"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2024
+    ]
+  },
+  {
     "code": "9678",
     "name": "カナモト",
     "industry33": "サービス業",
@@ -26369,6 +28458,32 @@
     "yuhoYears": []
   },
   {
+    "code": "9709",
+    "name": "ＮＣＳ＆Ａ",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2024-06-21",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100TOW7",
+        "title": "有価証券報告書－第58期(2023/04/01－2024/03/31)",
+        "publishedAt": "2024-06-21"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100W0HA",
+        "title": "有価証券報告書－第59期(2024/04/01－2025/03/31)",
+        "publishedAt": "2025-06-20"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023,
+      2024
+    ]
+  },
+  {
     "code": "9715",
     "name": "トランス・コスモス",
     "industry33": "サービス業",
@@ -26464,6 +28579,26 @@
     "checkedAt": "2026-10-19",
     "caseCount": 0,
     "yuhoYears": []
+  },
+  {
+    "code": "9746",
+    "name": "ＴＫＣ",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2023-12-18",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100SH8G",
+        "title": "有価証券報告書－第57期(2022/10/01－2023/09/30)",
+        "publishedAt": "2023-12-18"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 0,
+    "yuhoYears": [
+      2023
+    ]
   },
   {
     "code": "9755",
