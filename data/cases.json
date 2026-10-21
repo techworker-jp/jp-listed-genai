@@ -1082,6 +1082,58 @@
     "lastChangedVersion": "2026-10-21"
   },
   {
+    "id": "1435-0001",
+    "code": "1435",
+    "name": "ｒｏｂｏｔ　ｈｏｍｅ",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "管理物件のゴミ庫を防犯カメラの画像と生成AIで毎日確かめ、違反や不法投棄を見つける",
+    "summary": "子会社のrh laboが、グループの管理物件に付いている防犯カメラのゴミ庫の画像を毎日集め、生成AIで分別違反や粗大ゴミの投棄が起きていないかを判定する仕組みを作った。見つけると管理担当者に知らせ、巡回清掃のグループ会社が確認して片付ける。",
+    "problem": "ゴミ庫の問題は入居者や近所からの通報か、巡回のときの目視でしか分からず、気付くまでに時間がかかった。物件ごとの起きる頻度も把握できなかった。",
+    "approach": "2025年9月から約3か月検証してから本番に移した。",
+    "outcome": "2026年3月に本番で動かし始め、2026年7月時点で約150棟が対象。通報を待たずに対応を始められ、ゴミ庫の様子が毎日記録されるようになった。",
+    "limitations": "使っている生成AIのモデルや判定の精度は書かれていない。AWSの生成AI実用化推進プログラムの参加企業として催しに登壇するお知らせの中での紹介。",
+    "areaMain": "製造・品質・保守",
+    "areas": [
+      "製造・品質・保守",
+      "店舗・現場運営"
+    ],
+    "useMain": "チェック・審査",
+    "uses": [
+      "チェック・審査"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2026-08-18",
+    "startedAt": "2025-09",
+    "sources": [
+      {
+        "url": "https://corp.robothome.jp/news/press/22649",
+        "title": "robot homeグループのrh labo、AWS主催「第8回 AWSジャパン 生成AI Frontier Meetup」に登壇決定 ― 生成AIによるゴミ事象検知システムの実用化事例を紹介",
+        "publisher": "株式会社robot home",
+        "publishedAt": "2026-08-18",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000406.000004078.html",
+        "title": "robot homeグループのrh labo、AWS主催「第8回 AWSジャパン 生成AI Frontier Meetup」に登壇決定",
+        "publisher": "PR TIMES（株式会社robot home配信）",
+        "publishedAt": "2026-08-18",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
     "id": "1436-0001",
     "code": "1436",
     "name": "グリーンエナジー＆カンパニー",
@@ -5263,6 +5315,169 @@
     "checkedAt": "2026-09-27",
     "firstVersion": "2026-09-27",
     "lastChangedVersion": "2026-09-28"
+  },
+  {
+    "id": "1878-0001",
+    "code": "1878",
+    "name": "大東建託",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "社内専用のChatGPT「DK Chat」を本社の全社員が使えるようにする",
+    "summary": "Azure OpenAI Service（GPT-3.5）を使った社内向けのチャット「DK Chat」を作り、2023年11月15日からグループの本社に所属する全社員が使えるようにした。2023年8月から一部の部門で試し、実用性が高いという声が多かったため広げた。",
+    "problem": "生成AIを仕事で使うときに、社内の情報が外へ漏れないようにする必要があった。",
+    "approach": "社内のネットワークからだけ使えるようにし、入力した内容をAIの学習に使わせない設定にした。活用例と、入力する情報の扱いの注意点を社内に公開し、使い方のセミナーも開いた。",
+    "outcome": "情報収集、メールや提案資料の文章の校正、問い合わせのチャットボットなどの使い方を示している。",
+    "limitations": "対象は本社に所属する社員で、支店などを含むかは書かれていない。利用の数や効果は書かれていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答",
+      "文章の作成・下書き"
+    ],
+    "audience": "社内の業務",
+    "scope": "複数部署",
+    "stage": "本番運用",
+    "policyTypes": [
+      "全社への導入"
+    ],
+    "providers": [
+      "Microsoft",
+      "OpenAI"
+    ],
+    "products": [
+      "DK Chat powered by ChatGPT",
+      "Azure OpenAI Service"
+    ],
+    "publishedAt": "2024-02-01",
+    "startedAt": "2023-08",
+    "sources": [
+      {
+        "url": "https://www.kentaku.co.jp/corporate/csr/torikumi/dx/20240201_dk-chat.html",
+        "title": "大東建託グループ専用ChatGPT「DK Chat powered by ChatGPT」の利用を開始しました！",
+        "publisher": "大東建託",
+        "publishedAt": "2024-02-01",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "1878-0002",
+    "code": "1878",
+    "name": "大東建託",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "営業担当が土地オーナー役のAIと商談を練習する「生成型AI課長」",
+    "summary": "営業担当者の育成のため、土地オーナーの年齢や関心、性格などに合わせてAIが筋書きなしで受け答えする研修用の仕組み「生成型AI課長」を作り、2025年4月から使い始めると発表した。会話での関係づくりや聞き取りを評価して助言する機能もある。",
+    "problem": "先輩社員が指導や相談に多くの時間と手間をかけていた。",
+    "approach": "2024年10月に、決まった筋書きで初めての訪問を練習する「台本型AI課長」を入れていた。生成型の第1弾は初めての顧客訪問の場面で、4月以降に再訪問や提案などの場面も順に作る。",
+    "outcome": "",
+    "limitations": "効果の数字や使っている生成AIの製品は書かれていない。将来は過去の成功例から行動計画を提案する機能も作る予定。",
+    "areaMain": "人事・採用・育成",
+    "areas": [
+      "人事・採用・育成",
+      "営業・マーケティング"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "チェック・審査"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "自社開発"
+    ],
+    "products": [
+      "生成型AI課長",
+      "台本型AI課長"
+    ],
+    "publishedAt": "2025-03-28",
+    "startedAt": "2025-04",
+    "sources": [
+      {
+        "url": "https://www.kentaku.co.jp/news/release/2024/release_aikacho_250328.html",
+        "title": "人工知能を活用した独自システム「生成型AI課長」を4月から導入",
+        "publisher": "大東建託",
+        "publishedAt": "2025-03-28",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000001311.000035668.html",
+        "title": "人工知能を活用した独自システム「生成型AI課長」を4月から導入",
+        "publisher": "大東建託株式会社(PRTimes)",
+        "publishedAt": "2025-03-28",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "1878-0003",
+    "code": "1878",
+    "name": "大東建託",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "社内の規定やマニュアルに答えるチャットボット「AI社長」をグループの全社員に広げる",
+    "summary": "社内の事務手順やルール、マニュアルについて質問すると、社長を模したキャラクターが社内掲示板の情報をもとに答え、元の資料へのリンクも示す生成AIのチャットボット「AI社長」を作った。2025年秋に設計・施工部門の約2,500人で使い始め、2026年4月からグループ社員の約1万8,000人を対象に本格導入した。",
+    "problem": "規定を調べるのに手間がかかり、支店の社員などはどの部署に聞けばよいか分からないこともあった。災害時の対応ルールをすぐ確かめられる仕組みが要ると社長が指摘したのがきっかけ。",
+    "approach": "社内の基盤だった Microsoft の「Power Platform」を使い、社員1人と外部の3人で約2か月で形にした。社内データを検索して答えるRAGを社内で初めて使った。使う大規模言語モデルをOpenAIからClaudeへ替えられる作りにしている。",
+    "outcome": "先行した設計・施工部門では月平均で約半数が1回以上使った。対応するデータは約4万5千件。質問が具体的なら7〜8割の精度で答える。",
+    "limitations": "単語だけの質問やあいまいな質問では精度が5〜6割に下がり、情報の区切り方を改善している。",
+    "areaMain": "総務・社内の問い合わせ・ナレッジ",
+    "areas": [
+      "総務・社内の問い合わせ・ナレッジ"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答"
+    ],
+    "audience": "社内の業務",
+    "scope": "グループ全体",
+    "stage": "全社展開",
+    "policyTypes": [],
+    "providers": [
+      "Microsoft",
+      "OpenAI",
+      "自社開発"
+    ],
+    "products": [
+      "AI社長（AI-Kちゃん）",
+      "Power Platform"
+    ],
+    "publishedAt": "2026-03-06",
+    "startedAt": "2025-10",
+    "sources": [
+      {
+        "url": "https://www.jiji.com/jc/article?g=eco&k=2026030501195",
+        "title": "大東建託でも「AI社長」 4月本格導入、チャットで業務支援",
+        "publisher": "時事通信",
+        "publishedAt": "2026-03-06",
+        "kind": "報道"
+      },
+      {
+        "url": "https://kentaku-eyes.com/article/20260908_01/",
+        "title": "約5万件の社内データからパッと検索！ 社長発案のチャットボット「AI社長」の秘密とは",
+        "publisher": "大東建託（ケンタク・アイズ）",
+        "publishedAt": "2026-09-08",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "1882-0001",
@@ -13772,6 +13987,50 @@
     "lastChangedVersion": "2026-10-21"
   },
   {
+    "id": "2391-0001",
+    "code": "2391",
+    "name": "プラネット",
+    "industry33": "サービス業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "商品パッケージの表示を生成AIで読み取り、商品情報を作る研究",
+    "summary": "研究開発活動として、商品のパッケージに載っている固有の情報を生成AIに学ばせ、商品情報として作り出す研究を行った。高い精度で生成できるようになったとし、その成果を関係会社のプロダクト・レジストリ・サービスにも渡して業界の課題解決につなげることを目指している。",
+    "problem": "一般消費財の業界では商品のマスタ情報の精度が長く課題だった。パッケージの記載は形も書き方もまちまちで、機械で正しく読み取るのが難しかった。",
+    "approach": "",
+    "outcome": "有価証券報告書では、非常に高い精度で商品情報を生成できるようになったと書いている（数値の記載はない）。",
+    "limitations": "有価証券報告書の研究開発活動の記載で、研究の段階。使ったモデル・製品や、サービスへの組み込みの時期は書かれていない。",
+    "areaMain": "研究開発",
+    "areas": [
+      "研究開発"
+    ],
+    "useMain": "データ分析",
+    "uses": [
+      "データ分析"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "不明",
+    "stage": "計画・開発中",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2026-10-21",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z91A",
+        "title": "有価証券報告書－第41期(2025/08/01－2026/07/31)",
+        "publisher": "株式会社プラネット",
+        "publishedAt": "2026-10-21",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-22",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
     "id": "2408-0001",
     "code": "2408",
     "name": "ＫＧ情報",
@@ -21330,6 +21589,561 @@
     "lastChangedVersion": "2026-10-21"
   },
   {
+    "id": "2978-0001",
+    "code": "2978",
+    "name": "ツクルバ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "全エンジニアに GitHub Copilot を使える環境を用意し、ChatGPT の社内実証も始める",
+    "summary": "2023年3月30日から、全エンジニアが開発の補助ツール「GitHub Copilot」を使えるようにした。あわせて、ChatGPTなどの大規模言語モデルを業務システムや客向けのサービスに使えるかを確かめる社内の実証も始めた。",
+    "problem": "エンジニアの生産性を上げたい。使いこなすまでの速さが大事と考えた。",
+    "approach": "GitHubの発表と実際に使った結果から効果があると判断し、全エンジニアに環境を渡して利用を促す。「GitHub Copilot X」も入れる予定とした。",
+    "outcome": "",
+    "limitations": "効果の数字は書かれていない。ChatGPTなどの活用は検討のための実証の段階。",
+    "areaMain": "ソフトウェア開発・IT",
+    "areas": [
+      "ソフトウェア開発・IT"
+    ],
+    "useMain": "コード生成",
+    "uses": [
+      "コード生成"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Microsoft",
+      "OpenAI"
+    ],
+    "products": [
+      "GitHub Copilot",
+      "ChatGPT"
+    ],
+    "publishedAt": "2023-04-04",
+    "startedAt": "2023-03",
+    "sources": [
+      {
+        "url": "https://tsukuruba.com/news/post-2542",
+        "title": "ツクルバ、「GitHub Copilot」の利用環境を全エンジニアに提供開始、エンジニアの生産性向上を目指す",
+        "publisher": "株式会社ツクルバ",
+        "publishedAt": "2023-04-04",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "2978-0002",
+    "code": "2978",
+    "name": "ツクルバ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "開発のAIエージェント（Claude Code・Cursor・Devin）を全エンジニアに入れ、採用や進行の管理にも使う",
+    "summary": "各種の開発AIエージェントを試して開発量が増える結果を得たため、2025年8月に全エンジニアを対象に本格的に入れた。仕様の検討、設計、コーディング、コードレビューのほか、エンジニアの採用管理や進行管理、メンバーの貢献の見える化にも使う。",
+    "problem": "",
+    "approach": "オンボーディングや周りの環境を整え、安心して使えるようにした。技術の変化に合わせて使うツールを入れ替える方針。",
+    "outcome": "",
+    "limitations": "効果の数字は書かれていない。全社の業務への広げ方は今後の検討。",
+    "areaMain": "ソフトウェア開発・IT",
+    "areas": [
+      "ソフトウェア開発・IT",
+      "人事・採用・育成"
+    ],
+    "useMain": "コード生成",
+    "uses": [
+      "コード生成",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Anthropic",
+      "海外のその他の企業"
+    ],
+    "products": [
+      "Claude Code",
+      "Cursor",
+      "Devin"
+    ],
+    "publishedAt": "2025-09-02",
+    "startedAt": "2025-08",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000177.000043247.html",
+        "title": "ツクルバ、開発AIエージェントを全エンジニアに導入、非コーディング領域も含めた積極活用により、開発組織全体の生産性を向上",
+        "publisher": "株式会社ツクルバ",
+        "publishedAt": "2025-09-02",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://japan.zdnet.com/article/35237440/",
+        "title": "不動産テック企業のツクルバが開発AIエージェントを全エンジニアに導入",
+        "publisher": "ZDNET Japan",
+        "publishedAt": "2025-09-02",
+        "kind": "報道"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "2980-0001",
+    "code": "2980",
+    "name": "ＳＲＥホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "7種類の生成AIツールを全社に入れ、社長が先頭に立って業務へのAIの実装を進める",
+    "summary": "2025年6月に「リアル産業×AIエージェント」への変革を宣言した。2026年8月の決算説明資料で、Claude・ChatGPT・Gemini・Genspark・Notion・NotebookLM・Copilot の7種類の生成AIツールを入れ、全社で業務へのAIの実装（AX）を進める体制を作り終えたと説明した。",
+    "problem": "人手不足の中で生産性を上げ、人でなくてもできる定型の仕事をAIに任せたい。",
+    "approach": "社長が自ら推進し、各組織の長も先頭に立つ。本社から各事業にAIツールで期待する効果を示す。2026年3月には、生成AIの進歩が事業ごとにどう効くかの見通しを公表した。",
+    "outcome": "自社の事業の中での検証で、実証の期間に売上が約20%上がった（ほかの条件は一定とした前提）。効果の大きかった事業部では、採用・人件費を前の計画より20%減らせる見込み。",
+    "limitations": "売上の数字は実証の期間の、ほかの条件を一定とした前提の値。人件費は見込み。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "全社展開",
+    "policyTypes": [
+      "全社への導入",
+      "推進組織・体制"
+    ],
+    "providers": [
+      "Anthropic",
+      "OpenAI",
+      "Google",
+      "Microsoft",
+      "海外のその他の企業"
+    ],
+    "products": [
+      "Claude",
+      "ChatGPT",
+      "Gemini",
+      "Genspark",
+      "Notion",
+      "NotebookLM",
+      "Copilot"
+    ],
+    "publishedAt": "2026-08-05",
+    "startedAt": "2025-06",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/29800/140120260805509517.pdf",
+        "title": "2027年3月期 第1四半期 決算説明資料",
+        "publisher": "SREホールディングス",
+        "publishedAt": "2026-08-05",
+        "kind": "IR・経営資料"
+      },
+      {
+        "url": "https://sre-group.co.jp/news/2025/250625.html",
+        "title": "SREホールディングス株式会社、リアル産業×AIエージェントへの変革を宣言〜第一弾としてヘルスケア施設向けの実証実験を開始〜",
+        "publisher": "SREホールディングス株式会社",
+        "publishedAt": "2025-06-25",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://sre-group.co.jp/news/2026/260318.html",
+        "title": "当社のAI戦略と競争優位性に関する考え方について",
+        "publisher": "SREホールディングス株式会社",
+        "publishedAt": "2026-03-18",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "2980-0002",
+    "code": "2980",
+    "name": "ＳＲＥホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "不動産の営業にAIエージェントを試し、対象の組織で売上が計画より20%増える",
+    "summary": "自社の不動産の営業で、社内資料や暗黙知を学ばせたAIエージェントを試した。商談の前に論点と話す内容を整え、録音から独自の基準で商談を評価して改善点を出す。利用の記録を集め、使い方と営業成績の関係も分析する。",
+    "problem": "",
+    "approach": "",
+    "outcome": "実証した組織で、期首の計画と比べて売上高+20%・営業利益+30%・人件費▲10%。訪問から媒介契約に進む率が2026年4月と比べて約1.2倍になった。",
+    "limitations": "実証した組織での数字で、通期の見通しには織り込み済み。生成AIの明記は同じ資料の構成図にあり、AIエージェントの土台として、自社のデータで Gemini・ChatGPT・Claude を調整して使うと書く。成果はBPaaS（業務の受託）として外にも売る予定。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "人事・採用・育成"
+    ],
+    "useMain": "業務の自動化・AIエージェント",
+    "uses": [
+      "業務の自動化・AIエージェント",
+      "チェック・審査"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "Google",
+      "OpenAI",
+      "Anthropic",
+      "自社開発"
+    ],
+    "products": [
+      "Gemini",
+      "ChatGPT",
+      "Claude"
+    ],
+    "publishedAt": "2026-08-05",
+    "startedAt": "2026",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/29800/140120260805509517.pdf",
+        "title": "2027年3月期 第1四半期 決算説明資料",
+        "publisher": "SREホールディングス",
+        "publishedAt": "2026-08-05",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "2980-0003",
+    "code": "2980",
+    "name": "ＳＲＥホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "不動産事業のミドルオフィスで、部長を補う「AI副部長」と契約書を作るAIエージェントを試す",
+    "summary": "生成AIで不動産事業のミドルオフィスの仕事の流れを見直した。部長を補う「AI副部長」とAIエージェントが資料やマニュアルの作成、資料の確認を受け持ち、部長1人で5人分の仕事をこなす流れを作った。過去の契約書を学ばせたAIエージェントで、物件ごとの売買契約書の作成と相手方の案の修正も自動にした。",
+    "problem": "",
+    "approach": "",
+    "outcome": "AI副部長で生産性5倍、契約書の関連業務は50%の効率化。対象部署のミドルオフィスの仕事に要る人数が減る。",
+    "limitations": "数字は約2か月のトライアルの協力者の事例による社内の測定で、第三者の確認は受けていない。契約書のAIエージェントはBPaaSの商品にも組み込む予定。",
+    "areaMain": "法務・審査・リスク",
+    "areas": [
+      "法務・審査・リスク",
+      "総務・社内の問い合わせ・ナレッジ"
+    ],
+    "useMain": "文章の作成・下書き",
+    "uses": [
+      "文章の作成・下書き",
+      "チェック・審査",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "自社開発"
+    ],
+    "products": [
+      "AI副部長"
+    ],
+    "publishedAt": "2026-08-05",
+    "startedAt": "2026",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/29800/140120260805509517.pdf",
+        "title": "2027年3月期 第1四半期 決算説明資料",
+        "publisher": "SREホールディングス",
+        "publishedAt": "2026-08-05",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "2981-0001",
+    "code": "2981",
+    "name": "ランディックス",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "AI不動産査定エンジンに Claude API を本番で使う",
+    "summary": "新規事業推進部のエンジニアの求人で、AI不動産査定エンジンに Claude API を本番で入れていると書く。担当する仕事の一つに、Python/FastAPI と LLM で価格の査定を自動にする査定エンジンの開発を挙げ、生成AIを前提に自社ポータルなどの作り直しや業務の自動化を進めるとしている。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "求人の職務の説明からの事例で、会社の発表ではない。Claude API はAI不動産査定エンジンに本番で入れたと書くが、機能の中身や効果は書かれていない。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "ソフトウェア開発・IT"
+    ],
+    "useMain": "データ分析",
+    "uses": [
+      "データ分析",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Anthropic",
+      "自社開発"
+    ],
+    "products": [
+      "Claude API"
+    ],
+    "publishedAt": "2026-08-20",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.r-agent.com/viewjob/jk6e4ed2ffbb8186bf/",
+        "title": "【フルリモート可】生成AIで不動産DXを牽引するフルスタックエンジニア募集",
+        "publisher": "リクルートエージェント（株式会社ランディックス掲載）",
+        "publishedAt": "2026-08-20",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "2981-0002",
+    "code": "2981",
+    "name": "ランディックス",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "新規事業推進部のエンジニアが Claude Code や Cursor を日常的に使う",
+    "summary": "新規事業推進部のエンジニアの求人で、生成AIを前提にした「AI Native」な開発環境として、Claude Code や Cursor を日常的に使えると書いている。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "求人の説明からの事例で、使っている人数や効果は書かれていない。",
+    "areaMain": "ソフトウェア開発・IT",
+    "areas": [
+      "ソフトウェア開発・IT"
+    ],
+    "useMain": "コード生成",
+    "uses": [
+      "コード生成"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Anthropic",
+      "海外のその他の企業"
+    ],
+    "products": [
+      "Claude Code",
+      "Cursor"
+    ],
+    "publishedAt": "2026-08-20",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.r-agent.com/viewjob/jk6e4ed2ffbb8186bf/",
+        "title": "【フルリモート可】生成AIで不動産DXを牽引するフルスタックエンジニア募集",
+        "publisher": "リクルートエージェント（株式会社ランディックス掲載）",
+        "publishedAt": "2026-08-20",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "2983-0001",
+    "code": "2983",
+    "name": "アールプランナー",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "全社方針",
+    "title": "全社員に「ChatGPTWork」を入れ、提案資料の一次案や事務の自動化にAIエージェントを使う",
+    "summary": "全社員を対象に「ChatGPTWork」を入れ、ChatGPTの上で動く専用のAIエージェントを使い始めた。来場予約から商談までの分析やプラン提案資料の一次案づくり、議事録や顧客の分析シートの作成、業者の見積の取り込み、電子契約の手続きを支える。専門の部署には Claude Code も入れた。",
+    "problem": "定型の仕事を減らし、社員が客への提案や考える仕事に時間を使えるようにしたい。判断の速さと部署の間の知識の共有も高めたい。",
+    "approach": "情報セキュリティのガイドラインを作り、全社で研修をしてから使い始めた。今後もAIリテラシーの教育を続け、部署ごとの使い方を社内で共有する。",
+    "outcome": "",
+    "limitations": "使い始めたばかりで、利用の数や効果は書かれていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）",
+      "営業・マーケティング"
+    ],
+    "useMain": "業務の自動化・AIエージェント",
+    "uses": [
+      "業務の自動化・AIエージェント",
+      "文章の作成・下書き",
+      "要約・議事録"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "全社展開",
+    "policyTypes": [
+      "全社への導入",
+      "社内ルール・ガイドライン",
+      "研修・人材育成"
+    ],
+    "providers": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "products": [
+      "ChatGPTWork",
+      "ChatGPT",
+      "Claude Code"
+    ],
+    "publishedAt": "2026-09-03",
+    "startedAt": "2026-09",
+    "sources": [
+      {
+        "url": "https://ir.arrplanner.co.jp/ja/ir/news/auto_20260903531077/pdfFile.pdf",
+        "title": "全社規模での「AIエージェント」運用開始！ChatGPT WorkおよびClaude Codeを導入",
+        "publisher": "株式会社アールプランナー",
+        "publishedAt": "2026-09-03",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000157.000073788.html",
+        "title": "全社規模での「AIエージェント」運用開始！ChatGPTWorkおよびClaude Codeを導入",
+        "publisher": "株式会社アールプランナー",
+        "publishedAt": "2026-09-03",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://ir.arrplanner.co.jp/ja/ir/news/auto_20260909533552/pdfFile.pdf",
+        "title": "2027年1月期 第2四半期決算説明資料",
+        "publisher": "株式会社アールプランナー",
+        "publishedAt": "2026-09-10",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "2984-0001",
+    "code": "2984",
+    "name": "ヤマイチエステート",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "生成AIのアバターで、決算説明や物件紹介などの会社の発信を始める",
+    "summary": "生成AIを使って会社の情報の発信を強める取り組みを始めた。社員が出ていたSNSや動画を生成AIのアバターに替え、決算説明の資料・原稿づくりと撮影の手間を減らす。外国人向けの多言語の発信や、話し言葉による商品・物件の紹介にも使う。",
+    "problem": "社員が自分でSNSや動画に出ると、個人情報や肖像の面で配慮が要った。決算説明では資料づくりや撮影のための移動に時間がかかった。",
+    "approach": "さまざまなAIツールを使い、ブログ記事やSNSの投稿、自動応答の仕組みにも広げる。発信はホームページと公式SNSで行う。",
+    "outcome": "",
+    "limitations": "使うツールの名前や効果の数字は書かれていない。社名は2025年7月にヤマイチエステートに変わった。",
+    "areaMain": "広報・コンテンツ制作",
+    "areas": [
+      "広報・コンテンツ制作",
+      "経理・財務・IR"
+    ],
+    "useMain": "画像・動画・デザインの生成",
+    "uses": [
+      "画像・動画・デザインの生成",
+      "文章の作成・下書き",
+      "翻訳"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-02-26",
+    "startedAt": "2025-02",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/29840/140120250226582260.pdf",
+        "title": "生成AI技術を活用した企業情報発信の開始について",
+        "publisher": "ヤマイチ・ユニハイムエステート",
+        "publishedAt": "2025-02-26",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "2998-0001",
+    "code": "2998",
+    "name": "クリアル",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "システム開発の計画の研究開発に、生成AIでの顧客サポートの効率化を挙げる",
+    "summary": "事業計画の資料のシステム開発のロードマップで、研究開発の項目として「生成AIを用いた顧客サポートの効率化」を挙げている。2023年の資料では同じ欄を「AI活用（ChatGPTほか）」としていた。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "ロードマップに項目があるだけで、中身・時期・効果は書かれていない。ChatGPTの名前は2023年の資料の記載。",
+    "areaMain": "顧客対応・問い合わせ",
+    "areas": [
+      "顧客対応・問い合わせ"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "計画・開発中",
+    "policyTypes": [],
+    "providers": [
+      "OpenAI"
+    ],
+    "products": [
+      "ChatGPT"
+    ],
+    "publishedAt": "2025-06-24",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/29980/140120250624597380.pdf",
+        "title": "事業計画及び成長可能性に関する事項",
+        "publisher": "クリアル株式会社",
+        "publishedAt": "2025-06-24",
+        "kind": "IR・経営資料"
+      },
+      {
+        "url": "https://www2.jpx.co.jp/disc/29980/140120230629514929.pdf",
+        "title": "事業計画及び成長可能性に関する事項",
+        "publisher": "クリアル株式会社(TDnet)",
+        "publishedAt": "2023-06-29",
+        "kind": "IR・経営資料"
+      },
+      {
+        "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_241115_creal.pdf",
+        "title": "個人投資家向けオンライン会社説明会 〜クリアルの魅力と成長戦略〜",
+        "publisher": "クリアル株式会社(SBI証券サイト掲載)",
+        "publishedAt": "2024-11",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
     "id": "3001-0001",
     "code": "3001",
     "name": "片倉工業",
@@ -24984,6 +25798,290 @@
     "lastChangedVersion": "2026-10-19"
   },
   {
+    "id": "3231-0002",
+    "code": "3231",
+    "name": "野村不動産ホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "不動産情報サイト「ノムコム」で、生成AIに売買の相談ができる「ノムコムAIアドバイザー」を出す",
+    "summary": "LIFULLと共同で作った、生成AIと自然な言葉でやりとりできる売買の相談サービスを「ノムコム」で出している。2023年11月にベータ版「AI ANSWER Plus」を始め、2024年7月に希望の聞き取りから提案までできる正式版「ノムコムAIアドバイザー」にした。2025年3月にはLINEでも使えるようにした。",
+    "problem": "不動産の売買は営業担当に相談するハードルが高い。前の版は一問一答に近いやりとりにとどまっていた。",
+    "approach": "生成AIがノムコムの物件情報や住まいのコンテンツを参照して答える。国土交通省の取引価格データと不動産情報ライブラリを参照して取引価格や小中学校区も示し、画像認識で間取り図も説明する。LINE版は答えを短くし、トーク画面で物件を探して提案できるようにした。",
+    "outcome": "個人情報を明かさずに24時間相談できる。",
+    "limitations": "利用者数や効果の数字は書かれていない。データの拡充と答えの精度の向上を続けるとしている。",
+    "areaMain": "顧客対応・問い合わせ",
+    "areas": [
+      "顧客対応・問い合わせ",
+      "営業・マーケティング"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "検索・質問への回答"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "自社開発",
+      "国内のAI企業"
+    ],
+    "products": [
+      "ノムコムAIアドバイザー",
+      "AI ANSWER Plus"
+    ],
+    "publishedAt": "2024-07-30",
+    "startedAt": "2023-11",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000648.000025694.html",
+        "title": "LIFULLと共同開発の生成AIを活用した対話型チャットサービス「ノムコムAIアドバイザー」の提供を開始",
+        "publisher": "PRTIMES(野村不動産ホールディングス)",
+        "publishedAt": "2024-07-30",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000732.000025694.html",
+        "title": "生成AIを活用した不動産売買相談の対話型チャットサービス「ノムコムAIアドバイザーLINE版」の提供を開始",
+        "publisher": "PRTIMES(野村不動産ホールディングス)",
+        "publishedAt": "2025-03-18",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://www.nomura-solutions.co.jp/news/pdf/20231129.pdf",
+        "title": "11月29日より「AI ANSWER Plus(ベータ版)」の提供開始 生成AIを活用した対話型チャットサービスで顧客サービスを拡充",
+        "publisher": "野村不動産ソリューションズ株式会社",
+        "publishedAt": "2023-11-29",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3231-0003",
+    "code": "3231",
+    "name": "野村不動産ホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "分譲住宅の販売戦略の骨子をつくるマルチAIエージェント「販売戦略エージェント」",
+    "summary": "住宅事業本部が、営業担当ごとの経験に頼りがちだった分譲住宅の販売戦略づくりを支えるため、どの層にどんな戦略で物件の魅力を伝えるかの骨子をつくる「販売戦略エージェント」をInsight Edgeと作った。住宅事業本部で初めての生成AIのPoCだった。",
+    "problem": "営業が自ら街を歩いて調べた結果をもとにSWOT分析などで戦略を立てるが、担当者の主観や経験で差が出ていた。",
+    "approach": "過去の物件の振り返り資料、エリアごとの客層の特徴、外部の情報を参照させた。第1段階で試作品を作り、第2段階で精度と品質を上げた。2週間ごとに進み具合を確かめ、AIに任せる所と人が担う所の線引きを話し合った。",
+    "outcome": "2025年12月から、用地取得が済み商品企画を始める物件で使っている。担当者はエージェントの出力を見てから現地に行くようになり、ベテランの評価も高いと社員が話している。",
+    "limitations": "開発した会社の取材記事（2026年2月の取材）。効果の数字は書かれていない。答えを誤るリスクは運用で補う。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング"
+    ],
+    "useMain": "業務の自動化・AIエージェント",
+    "uses": [
+      "業務の自動化・AIエージェント",
+      "データ分析",
+      "アイデア出し"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [
+      "販売戦略エージェント"
+    ],
+    "publishedAt": "2026-06-01",
+    "startedAt": "2025-12",
+    "sources": [
+      {
+        "url": "https://insightedge.jp/projects/8969/",
+        "title": "野村不動産×Insight Edgeが挑んだ、土地の魅力を最大化する「網羅的視点」をAIで再現 マルチAIエージェント",
+        "publisher": "Insight Edge",
+        "publishedAt": "2026-06-01",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3231-0004",
+    "code": "3231",
+    "name": "野村不動産ホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "経費精算の画面に生成AIを載せ、領収書の税区分などの判定と明細の入力を手伝わせる",
+    "summary": "野村不動産ホールディングスを含むグループ6社が、今の業務システムの上に生成AIを後から載せられる「テックタッチ AI Hub」を経費精算システム（Concur）に入れた。添付した領収書をAI-OCRが読み、複数の税率が混じるときの明細化や適格事業者番号の有無の判定をその場で行う。",
+    "problem": "法人カードの利用は9割を超えたが、領収書のある精算では社員が判断して入力する項目があり、間違いによる差し戻しが起きていた。",
+    "approach": "システムを作り直さずに、各社の経費の規程に合わせたAIを画面に埋め込んだ。グループのDX宣言の一環。",
+    "outcome": "年に約17万件ある領収書付きの申請のミスを防ぎ、年におよそ4,000時間の効率化を見込む。",
+    "limitations": "数字は導入時の見込みで、実績ではない。提供した会社の発表。",
+    "areaMain": "経理・財務・IR",
+    "areas": [
+      "経理・財務・IR"
+    ],
+    "useMain": "チェック・審査",
+    "uses": [
+      "チェック・審査",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "社内の業務",
+    "scope": "グループ全体",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "国内のAI企業"
+    ],
+    "products": [
+      "テックタッチ AI Hub",
+      "Concur"
+    ],
+    "publishedAt": "2026-06-16",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000428.000048939.html",
+        "title": "野村不動産、経費精算を生成AIで効率化。「テックタッチ AI Hub」で複数税区分・適格事業者番号の有無などの判定・明細化もAIがリアルタイムに実行。",
+        "publisher": "PRTIMES(テックタッチ株式会社)",
+        "publishedAt": "2026-06-16",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3232-0001",
+    "code": "3232",
+    "name": "三重交通グループホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "社内の仕事で2025年から生成AIを使い始める",
+    "summary": "統合報告書のDXの取り組みの説明で、社内の仕事ではペーパーレス化とRPAでの自動化に加え、2025年から生成AIの活用も始め、仕事の効率と社員の負担の軽さにつなげているとした。",
+    "problem": "",
+    "approach": "定期的なDX研修でグループ全体の意識も高めている。",
+    "outcome": "",
+    "limitations": "使っている製品、用途、範囲、効果は書かれていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "導入を発表",
+    "policyTypes": [
+      "経営計画での方針"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-11-05",
+    "startedAt": "2025",
+    "sources": [
+      {
+        "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20251105/fm0x06/140120251104586966.pdf",
+        "title": "三重交通グループ 統合報告書2025 INTEGRATED REPORT",
+        "publisher": "三重交通グループホールディングス株式会社(TDnet)",
+        "publishedAt": "2025-11-05",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3241-0001",
+    "code": "3241",
+    "name": "ウィル",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "生成AIが査定価格と根拠を示し、売却の相談にも答える「AIウィルくん」の査定サービス",
+    "summary": "LIFULLと共同で、生成AIを使った売却の査定サービスを作った。物件の所在地や間取りなどを入れると、生成AIが査定価格とその根拠を示し、質問を重ねると高く売るための工夫なども説明する。2025年5月に自社のLINEでマンションを対象に始め、12月に戸建てや土地も対象にした自社サイトのβ版に移した。",
+    "problem": "一括査定では複数の会社から営業の連絡が来るうえ、価格の根拠が分かりにくい。従来の機械学習の査定は価格を示すだけだった。",
+    "approach": "営業担当と会わずに、個人情報を入れずに使える（自社サイトの版は無料の会員登録が要る）。自社が集めた成約物件約75万件などのデータを使う。サイトの版は、条件に合う購入希望者やライバルの物件も示す。",
+    "outcome": "",
+    "limitations": "生成AIを使うため答えが不正確な場合があると断っている。査定価格は鑑定評価の代わりではなく、売れる価格の保証でもない。対象は自社の営業エリア。LINEの版は2025年12月26日で終えた。利用の数は書かれていない。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "顧客対応・問い合わせ"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "データ分析"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "自社開発",
+      "国内のAI企業"
+    ],
+    "products": [
+      "AIウィルくんのマンション査定 BETA",
+      "AIによる不動産価格査定サービス（β版）"
+    ],
+    "publishedAt": "2025-05-20",
+    "startedAt": "2025-05",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000018.000048991.html",
+        "title": "日本初、生成AIで自宅価格を即推定。売却検討時、LINEで気軽に相談。ウィル、新サービス開始",
+        "publisher": "株式会社ウィル(PRTimes)",
+        "publishedAt": "2025-05-20",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://www.wills.co.jp/corp/news/1675/",
+        "title": "新サービス『AIウィルくんのマンション査定 BETA(LINE)』を公開しました。",
+        "publisher": "株式会社ウィル",
+        "publishedAt": "2025-05-20",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://www.wills.co.jp/corp/news/1751/",
+        "title": "新サービス「AIによる不動産価格査定サービス(β版)」を開始しました",
+        "publisher": "株式会社ウィル",
+        "publishedAt": "2025-12-19",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000021.000048991.html",
+        "title": "「なぜ、この価格になるのか?」査定価格と共に、査定根拠や売却戦略までを生成AIが可視化。不動産売却の助っ人サービス開始",
+        "publisher": "株式会社ウィル(PRTimes)",
+        "publishedAt": "2025-12-22",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://www.wills.co.jp/sell/ai/",
+        "title": "AIによる不動産価格査定サービス",
+        "publisher": "株式会社ウィル",
+        "publishedAt": "",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
     "id": "3267-0001",
     "code": "3267",
     "name": "フィル・カンパニー",
@@ -25026,6 +26124,512 @@
     "checkedAt": "2026-09-27",
     "firstVersion": "2026-09-27",
     "lastChangedVersion": "2026-09-27"
+  },
+  {
+    "id": "3284-0001",
+    "code": "3284",
+    "name": "フージャースホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "分譲マンションのLINEの接客に「ZEALS AI Agent」を足し、自由な質問に答える",
+    "summary": "新築分譲マンション「Duo Hills」などを売る子会社が、約2年前から使っていたLINEのチャット接客に、ジールスの接客AIエージェント「ZEALS AI Agent」を足した。GPTなどのLLMを土台に、物件の情報を参照して客の自由な質問に答え、資料請求や来場予約へ案内する。",
+    "problem": "高額な不動産は最後は人が接客するという考えが強く、業界のデジタル化が遅れていた。",
+    "approach": "今のLINEの接客に機能を足す形にし、費用や体制を大きく変えずに小さく始めた。導入は2週間で決まった。",
+    "outcome": "導入後、LINEでの自由な発話による対話が約10倍に増えた。初めの2週間ほどで、AIとのやりとりから直接資料請求に至った例が数件あった。",
+    "limitations": "用意した答えに無い質問には答えられないという返事が他の業種より多い。駅からの距離、周りの施設、構造、ペットの可否など細かな条件に答えるためのデータの拡充が課題。ジールスの発表と催しの記事による。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "顧客対応・問い合わせ"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "国内のAI企業",
+      "OpenAI"
+    ],
+    "products": [
+      "ZEALS AI Agent"
+    ],
+    "publishedAt": "2024-12-19",
+    "startedAt": "2024-12",
+    "sources": [
+      {
+        "url": "https://zeals.ai/jp/news/20241219/",
+        "title": "ジールス、接客AIエージェントを新築分譲マンション「Duo Hills」を手がけるフージャースコーポレーションにLINE上で提供開始",
+        "publisher": "株式会社ZEALS",
+        "publishedAt": "2024-12-19",
+        "kind": "提供企業の導入事例"
+      },
+      {
+        "url": "https://zeals.ai/blog/aiagent-story-hoosiers",
+        "title": "フージャースが挑む「接客AIエージェント」で創る新しい顧客体験",
+        "publisher": "株式会社ZEALS",
+        "publishedAt": "2025-02-26",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3284-0002",
+    "code": "3284",
+    "name": "フージャースホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "DXの報告書で、生成AIやAIエージェントの利用を広げ、人とAIが一緒に働くことを社内に根付かせる方針を示す",
+    "summary": "DX Report 2026で、IT基盤を高める重点の一つに「AI活用拡大」を挙げ、生成AI、AIエージェントなどのAIが人と一緒に働くのを当たり前にするため、利用を広げ続けるとした。個人の業務から部門の業務、事業の改善や経営判断へと段階的に広げる。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "方針の記載で、使っている製品や部門、効果は書かれていない。資料に日付の記載が無い。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "方針・推進",
+    "policyTypes": [
+      "経営計画での方針"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.hoosiers.co.jp/files/csr/dx_report_2026.pdf",
+        "title": "DX Report 2026",
+        "publisher": "株式会社フージャースホールディングス",
+        "publishedAt": "",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3288-0001",
+    "code": "3288",
+    "name": "オープンハウスグループ",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "Azure OpenAI Service で、物件の提案や契約書類の作成支援などに生成AIを使えるか試す",
+    "summary": "2023年7月、アジアクエストを技術の助言役に、Azure OpenAI Service を使って生成AIを事業に生かす実証を始めた。客の希望から勧める物件を作る提案サービス、設計図や重要事項説明書・契約書づくりの補助、入居後の問い合わせに自動で答える窓口、子会社でのアバターの自動生成を検討の対象にした。",
+    "problem": "",
+    "approach": "生成AIを調整しながら業務の課題への手立てを確かめる。環境づくりと開発は自社が担い、アジアクエストは定期的な話し合いで助言する。",
+    "outcome": "",
+    "limitations": "実証の開始の発表で、結果や本番での利用は書かれていない。情報の正しさや権利の侵害などの課題にも触れている。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "顧客対応・問い合わせ",
+      "法務・審査・リスク"
+    ],
+    "useMain": "文章の作成・下書き",
+    "uses": [
+      "文章の作成・下書き",
+      "対話での応対",
+      "画像・動画・デザインの生成"
+    ],
+    "audience": "両方",
+    "scope": "複数部署",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "Microsoft",
+      "OpenAI"
+    ],
+    "products": [
+      "Azure OpenAI Service"
+    ],
+    "publishedAt": "2023-07-11",
+    "startedAt": "2023-07",
+    "sources": [
+      {
+        "url": "https://openhouse-group.co.jp/news/release/pdf/20230711_1.pdf",
+        "title": "オープンハウスグループ、生成AI活用の実証実験を開始 DX支援企業のアジアクエストが技術アドバイザーとして支援",
+        "publisher": "株式会社オープンハウスグループ",
+        "publishedAt": "2023-07-11",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://xtech.nikkei.com/atcl/nxt/news/18/15601/",
+        "title": "オープンハウスグループが生成AIの実証実験、推奨物件を自動生成",
+        "publisher": "日経クロステック",
+        "publishedAt": "2023-07-24",
+        "kind": "報道"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3288-0002",
+    "code": "3288",
+    "name": "オープンハウスグループ",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "建設業務の自社システム「Optimus」の改善に生成AIを使う",
+    "summary": "子会社のオープンハウス・アーキテクトのDX推進部が、施工管理や発注・請求をまとめて扱う自社開発の建設業務システム「Optimus」を中心に、生成AIの活用を含めて業務システムを改善している。システムの提供会社が開いたオンラインセミナーの告知で、その取り組みと「テックタッチ」のAI機能「AI Hub」の活用を紹介した。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "セミナーの告知で、生成AIを何に使っているか、効果の数字は書かれていない。",
+    "areaMain": "ソフトウェア開発・IT",
+    "areas": [
+      "ソフトウェア開発・IT",
+      "店舗・現場運営"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "不明",
+    "policyTypes": [],
+    "providers": [
+      "国内のAI企業"
+    ],
+    "products": [
+      "テックタッチ AI Hub"
+    ],
+    "publishedAt": "2026-03-09",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000406.000048939.html",
+        "title": "【3/26 ウェビナー開催】生成AIで建設システムを事業成長に繋げるオープンハウス・アーキテクトの取り組み事例",
+        "publisher": "テックタッチ株式会社",
+        "publishedAt": "2026-03-09",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3289-0001",
+    "code": "3289",
+    "name": "東急不動産ホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "統合報告書で、グループのデータを集めた基盤と生成AIを組み合わせて経営管理を高める方針を示す",
+    "summary": "統合報告書2025で、デジタル活用の次の鍵は生成AIだとし、客や取引先・物件などの社内の情報と社外の市場データを集めた「戦略的データ基盤」にAIを積極的に入れているとした。全社方針「DX」では、このデータ基盤と生成AIを組み合わせて課題を見える化し、経営管理を高めるとしている。",
+    "problem": "",
+    "approach": "デジタル活用の環境に投資し、使う人材も育てる。DX人材の育成の内容に生成AIの知識も入れている。",
+    "outcome": "",
+    "limitations": "方針の記載で、生成AIで動いている仕組みや効果は書かれていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）",
+      "経理・財務・IR"
+    ],
+    "useMain": "データ分析",
+    "uses": [
+      "データ分析"
+    ],
+    "audience": "社内の業務",
+    "scope": "グループ全体",
+    "stage": "方針・推進",
+    "policyTypes": [
+      "経営計画での方針",
+      "研修・人材育成"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-08",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.tokyu-fudosan-hd.co.jp/pdf/about/valuecreation/integratedreport_2025j.pdf",
+        "title": "WE ARE GREEN REPORT 2025（統合報告書2025）",
+        "publisher": "東急不動産ホールディングス",
+        "publishedAt": "2025-08",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3289-0002",
+    "code": "3289",
+    "name": "東急不動産ホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "ホームページで売買の質問に24時間答える生成AIのチャット「Tellus Talk」",
+    "summary": "子会社の東急リバブルが、電通デジタル・電通と共同で生成AIの対話型チャット「Tellus Talk」のβ版を作り、2025年3月27日から自社ホームページの購入・売却のページで出した。AIのキャラクターが客と対話し、当初は売買仲介の質問に答える。土台のLLMは Claude 3.5 Sonnet。",
+    "problem": "サイトの膨大な情報から客が必要な情報を探しきれないことがあった。売却相談の有人チャットは夜間などに人を置けず、チャットボットに切り替えていた。",
+    "approach": "長く蓄えてきたノウハウとデータを使った。",
+    "outcome": "",
+    "limitations": "β版。利用の数や効果は書かれていない。LLMは技術の進歩に応じて替える可能性がある。",
+    "areaMain": "顧客対応・問い合わせ",
+    "areas": [
+      "顧客対応・問い合わせ",
+      "営業・マーケティング"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "検索・質問への回答"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Anthropic",
+      "国内のAI企業"
+    ],
+    "products": [
+      "Tellus Talk",
+      "Claude 3.5 Sonnet"
+    ],
+    "publishedAt": "2025-03-27",
+    "startedAt": "2025-03",
+    "sources": [
+      {
+        "url": "https://www.livable.co.jp/corp/release/2025/20250327.html",
+        "title": "東急リバブル、生成AIを活用した対話型チャットサービスの提供を開始",
+        "publisher": "東急リバブル",
+        "publishedAt": "2025-03-27",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://www.tokyu-fudosan-hd.co.jp/pdf/about/valuecreation/integratedreport_2025j.pdf",
+        "title": "WE ARE GREEN REPORT 2025（統合報告書2025）",
+        "publisher": "東急不動産ホールディングス",
+        "publishedAt": "2025-08",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3291-0001",
+    "code": "3291",
+    "name": "飯田グループホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "働く時間を減らす取り組みの一つとして、生成AIを業務に使い始める",
+    "summary": "有価証券報告書の人的資本の取り組みで、労働時間を減らすため、生成AIの業務への活用を始めるなど、業務の流れの見直しとデジタルツールでの効率化を進めるとした。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "使っている製品、用途、部門、効果は書かれていない。翌年の報告書（2026年6月）でも同じ取り組みを続けると書いている。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "導入を発表",
+    "policyTypes": [
+      "経営計画での方針"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-06-27",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20250627/S100W7EN/20250627S100W7EN.pdf",
+        "title": "有価証券報告書 第12期（2024年4月〜2025年3月）",
+        "publisher": "飯田グループホールディングス",
+        "publishedAt": "2025-06-27",
+        "kind": "IR・経営資料"
+      },
+      {
+        "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260623/S100YID4/20260623S100YID4.pdf",
+        "title": "有価証券報告書 第13期（2025年4月〜2026年3月）",
+        "publisher": "飯田グループホールディングス",
+        "publishedAt": "2026-06-23",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3300-0001",
+    "code": "3300",
+    "name": "アンビション　ＤＸ　ホールディングス",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "部屋探しの客と生成AIのチャットで対話し、会話から客ごとのカルテを作る仕組みを試す",
+    "summary": "電通デジタルと、生成AIのチャットを使った不動産の営業の仕組みの試作品を作り、概念実証を始めた。部屋を探す人がAIと対話して物件を探して問い合わせ、その会話を要約して電通の生活者調査のデータと合わせ、人物像と客ごとのカルテを作り、物件の紹介から契約までを支える。",
+    "problem": "",
+    "approach": "電通デジタルの生成AIの営業サービス「∞AI Chat for Sales」を、自社開発の賃貸管理の仕組み「AMBITION Cloud」と組み合わせた。",
+    "outcome": "",
+    "limitations": "概念実証の開始の発表で、結果は書かれていない。不動産業界向けの営業の仕組みとしての試作品でもある。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "顧客対応・問い合わせ"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "要約・議事録"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "国内のAI企業"
+    ],
+    "products": [
+      "∞AI Chat for Sales",
+      "AMBITION Cloud"
+    ],
+    "publishedAt": "2024-07-03",
+    "startedAt": "2024-07",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/33000/140120240703543570.pdf",
+        "title": "不動産DX「AMBITION Cloud」、生成AIを活用した「∞AI Chat for Sales」とのPoC（概念実証）を開始",
+        "publisher": "アンビションDXホールディングス",
+        "publishedAt": "2024-07-03",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3300-0002",
+    "code": "3300",
+    "name": "アンビション　ＤＸ　ホールディングス",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "「Gemini 1.5」で社内の規定やマニュアルに答えるRAGのチャットボットを作り、使い始める",
+    "summary": "「Gemini 1.5」を通して社内の文書のデータベースを引くRAGの仕組みを作り、使い始めた。社内の規定や業務マニュアルについて質問すると、登録した文書から答えを作り、必要なら根拠の文書も示す。",
+    "problem": "大量の文書から必要な情報を探すのに時間がかかり、分からない点の質問が担当者に次々と来て仕事の効率が落ちていた。",
+    "approach": "文書のデータベースは Google Cloud Storage で管理する。新人の研修や日々の業務の教育・標準化に使う。",
+    "outcome": "",
+    "limitations": "利用の範囲や効果の数字は書かれていない。",
+    "areaMain": "総務・社内の問い合わせ・ナレッジ",
+    "areas": [
+      "総務・社内の問い合わせ・ナレッジ",
+      "人事・採用・育成"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "Google",
+      "自社開発"
+    ],
+    "products": [
+      "Gemini 1.5",
+      "Google Cloud Storage"
+    ],
+    "publishedAt": "2024-07-31",
+    "startedAt": "2024-07",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000132.000007782.html",
+        "title": "次世代AIモデル「Gemini 1.5」による多用途RAGソリューションを開発、利用開始",
+        "publisher": "株式会社アンビションDXホールディングス（PRTimes）",
+        "publishedAt": "2024-07-31",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3300-0003",
+    "code": "3300",
+    "name": "アンビション　ＤＸ　ホールディングス",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "外国人の内定者向けに、仕事の場面の会話から日本語の読解問題を生成AIで作る",
+    "summary": "外国人材の採用に力を入れる中で、生成AIで日本語の学習を支えている。仕事の場面を想定した会話から、内容をきちんと読み取れたかを問う問題とその答えを自動で作り、内定者が日本語と日本の商習慣を学べるようにしている。",
+    "problem": "外国人材が日本で活躍するには、言葉だけでなく商習慣や文化の理解が要る。",
+    "approach": "",
+    "outcome": "",
+    "limitations": "使っている生成AIの製品や、学んだ人数、効果は書かれていない。",
+    "areaMain": "人事・採用・育成",
+    "areas": [
+      "人事・採用・育成"
+    ],
+    "useMain": "文章の作成・下書き",
+    "uses": [
+      "文章の作成・下書き"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-06-20",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/33000/140120250620595014.pdf",
+        "title": "アンビションDXホールディングス、生成AIを活用した外国人材向け、日本語学習資料で異文化理解を促進",
+        "publisher": "株式会社アンビションDXホールディングス（TDnet）",
+        "publishedAt": "2025-06-20",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "3302-0001",
@@ -27610,6 +29214,508 @@
     "checkedAt": "2026-10-20",
     "firstVersion": "2026-10-21",
     "lastChangedVersion": "2026-10-21"
+  },
+  {
+    "id": "3452-0001",
+    "code": "3452",
+    "name": "ビーロット",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "全社方針",
+    "title": "外部の講師を招き、社長を含む全社員に生成AIの研修を行う",
+    "summary": "2025年7月に外部の講師を招いて全社員向けの生成AI研修を行った。有価証券報告書では、代表者を含む32名全員を対象に全5回のAI研修を行い、学んだことを日々の業務の見直しと効率化に生かしているとした。管理職にはより高度なAI研修を行う予定。",
+    "problem": "AIの進化を受け、全社のAIリテラシーを高め、業務で使うことが要ると考えた。",
+    "approach": "",
+    "outcome": "",
+    "limitations": "有価証券報告書は「AI研修」と書き、生成AIの研修であることは決算説明資料の記載による。研修で使った製品や業務での効果は書かれていない。",
+    "areaMain": "人事・採用・育成",
+    "areas": [
+      "人事・採用・育成",
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "方針・推進",
+    "policyTypes": [
+      "研修・人材育成"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-08-13",
+    "startedAt": "2025-07",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/34520/140120250813541047.pdf",
+        "title": "2025年12月期 第2四半期 決算説明資料",
+        "publisher": "ビーロット",
+        "publishedAt": "2025-08-13",
+        "kind": "IR・経営資料"
+      },
+      {
+        "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260326/S100XTWZ/20260326S100XTWZ.pdf",
+        "title": "有価証券報告書（2025年12月期）",
+        "publisher": "ビーロット",
+        "publishedAt": "2026-03-26",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3465-0001",
+    "code": "3465",
+    "name": "ケイアイスター不動産",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "社員の調査を踏まえ、生成AIを安全に使う社内の仕組みを作り、200人ほどで試す計画を発表",
+    "summary": "社員への生成AIの利用の調査を踏まえ、200人ほどを対象に実証を始める計画を発表した。部署に聞き取って使える業務を洗い出し、社内で安全に使える独自の仕組みを作って試しに業務に取り入れる。要約・調査・校正やマニュアルづくりの手間を減らすことと、行動規範「クレド」を覚えさせた生成AIでの営業のロールプレイなどの人材育成の二つを狙う。",
+    "problem": "調査では生成AIを知る社員は約84%、業務での活用に期待する人は99%いたが、具体的な使い方が見つかっていなかった。約60%が情報漏えいなどの懸念を挙げた。",
+    "approach": "社内のデジタル推進の組織（DCE）が中心になって開発する。社内のルールと教育も整える。この発表文自体も GPT-4 のAPIで書き、担当者が校正した。",
+    "outcome": "",
+    "limitations": "実証の開始の発表で、結果は書かれていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）",
+      "人事・採用・育成"
+    ],
+    "useMain": "要約・議事録",
+    "uses": [
+      "要約・議事録",
+      "文章の作成・下書き",
+      "対話での応対"
+    ],
+    "audience": "社内の業務",
+    "scope": "複数部署",
+    "stage": "計画・開発中",
+    "policyTypes": [],
+    "providers": [
+      "自社開発",
+      "OpenAI"
+    ],
+    "products": [
+      "GPT-4 API"
+    ],
+    "publishedAt": "2023-08-29",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000439.000029869.html",
+        "title": "生成AIに関する利用実態調査を実施 活用に向け実証実験を開始へ",
+        "publisher": "ケイアイスター不動産株式会社(PRTIMES)",
+        "publishedAt": "2023-08-29",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3465-0002",
+    "code": "3465",
+    "name": "ケイアイスター不動産",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "社内のIT関連の問い合わせに24時間答える生成AIのチャットボット「KEIAIサポート」",
+    "summary": "業務改革課が社内のFAQやマニュアルを覚えさせた生成AIのチャットボットを作り、試用版として使い始めた。クラウドストレージの同期の不具合、パソコンの不調、Web会議の音声などIT関連の困りごとに24時間答え、解決しなければ担当部署の問い合わせフォームに案内する。",
+    "problem": "事業の急な拡大でIT関連の問い合わせが増え、人が答えるまでに時間差が出ていた。",
+    "approach": "まずITインフラの分野から始め、社員の声を集めて答えの精度を上げ、労務・人事・総務へ広げる予定。社員向けの「生成AIリテラシー向上セミナー」も計画している。",
+    "outcome": "",
+    "limitations": "試用版の段階で、効果の数字は書かれていない。",
+    "areaMain": "総務・社内の問い合わせ・ナレッジ",
+    "areas": [
+      "総務・社内の問い合わせ・ナレッジ",
+      "ソフトウェア開発・IT"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答",
+      "対話での応対"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [
+      "KEIAIサポート（仮称）"
+    ],
+    "publishedAt": "2026-02-16",
+    "startedAt": "2026-02",
+    "sources": [
+      {
+        "url": "https://ki-group.co.jp/news/pdf/2026/02/2026.02.16_AI_DX.pdf",
+        "title": "社内DXの加速で生産性向上を実現 生成AIチャットボットの運用を開始",
+        "publisher": "ケイアイスター不動産",
+        "publishedAt": "2026-02-16",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000673.000029869.html",
+        "title": "社内DXの加速で生産性向上を実現 生成AIチャットボットの運用を開始",
+        "publisher": "ケイアイスター不動産株式会社(PRTIMES)",
+        "publishedAt": "2026-02-16",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3480-0001",
+    "code": "3480",
+    "name": "ジェイ・エス・ビー",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "中期経営計画で、生成AIと分析AIの活用を最重要課題の一つにし、AIシステムの開発に投資する",
+    "summary": "中期経営計画「GT02」（2023年11月〜2026年10月）の最重要課題として、人間性とテクノロジーの融合の項目に「AI(生成/分析)の活用」を挙げた。投資の配分では、新規事業・DXの投資に「AIシステム開発/システム会社のM&A(生成/分析AIの活用)」を入れている。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "方針と投資の枠の記載で、生成AIを使っている業務や効果は書かれていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "方針・推進",
+    "policyTypes": [
+      "経営計画での方針"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-01-23",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/34800/140120250123554116.pdf",
+        "title": "2024年10月期 決算説明資料",
+        "publisher": "株式会社ジェイ・エス・ビー(JPX適時開示)",
+        "publishedAt": "2025-01-23",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3489-0001",
+    "code": "3489",
+    "name": "フェイスネットワーク",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "Salesforce の「Agentforce」で、物件開発の膨大なデータの分析と選択を支える",
+    "summary": "2022年から基幹システムとして使う Salesforce に情報を集めてきた。その上で自律型AIエージェント「Agentforce」を使い、物件開発に関わる膨大なデータを分析して最適な選択を支える仕組みづくりに取り組んでいる。",
+    "problem": "",
+    "approach": "情報システムの担当者が、ワークショップで現場の意見を集めながら運用している。",
+    "outcome": "Agentforceによる業務の効率化と品質の向上の事例として、2025年11月のカンファレンスで発表した。",
+    "limitations": "効果の数字は書かれていない。",
+    "areaMain": "企画・商品開発",
+    "areas": [
+      "企画・商品開発"
+    ],
+    "useMain": "データ分析",
+    "uses": [
+      "データ分析",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "海外のその他の企業"
+    ],
+    "products": [
+      "Agentforce",
+      "Salesforce"
+    ],
+    "publishedAt": "2025-12-09",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000344.000026725.html",
+        "title": "業務効率化と業務品質の向上に向け「Agentforce」の導入によるAI活用を推進 ～「UpdataNOW25」でAIエージェントの活用事例セッションに登壇～",
+        "publisher": "株式会社フェイスネットワーク（PR TIMES）",
+        "publishedAt": "2025-12-09",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://faithnetwork.co.jp/news/p23452/",
+        "title": "業務効率化と業務品質の向上に向け「Agentforce」の導入によるAI活用を推進",
+        "publisher": "株式会社フェイスネットワーク",
+        "publishedAt": "2025-12-09",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3489-0002",
+    "code": "3489",
+    "name": "フェイスネットワーク",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "全社方針",
+    "title": "全社員約200名に、生成AIの仕組みやプロンプトを学ぶ「DX・AIリテラシー研修」を行う",
+    "summary": "社員のAIリテラシーと業務の効率を上げるため、外部の講師を招いて全社員約200名に対面のワークショップを行った。生成AIの基本的な仕組み、セキュリティ、プロンプトの工夫、自社の業務にAIを組み込むアイデア出しを扱い、部署をまたいだグループワークもした。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "研修のあとの使われ方や効果は書かれていない。",
+    "areaMain": "人事・採用・育成",
+    "areas": [
+      "人事・採用・育成",
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "方針・推進",
+    "policyTypes": [
+      "研修・人材育成"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2026-04-02",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000385.000026725.html",
+        "title": "全社員を対象とした「DX・AIリテラシー研修」を実施 ～社員のAIリテラシー向上と業務効率化を目的にDX推進体制を強化～",
+        "publisher": "株式会社フェイスネットワーク（PR TIMES）",
+        "publishedAt": "2026-04-02",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3490-0001",
+    "code": "3490",
+    "name": "アズ企画設計",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "物件の仕入れの管理に「TASUKI TECH LAND」を入れ、生成AIとOCRで物件概要書を読み取る",
+    "summary": "スプレッドシートにたまる物件情報の管理を見直すため、タスキのグループ会社の物件仕入管理サービス「TASUKI TECH LAND」を入れた。生成AIとOCRを組み合わせて形式のばらばらな物件概要書などを読み取り、入力を自動にするオプションも契約した。",
+    "problem": "営業の人員が増えて物件情報が集まる一方、スプレッドシートの情報を生かし切れず、動作が遅くなりデータが壊れるおそれも出ていた。",
+    "approach": "",
+    "outcome": "提供した会社は、生成AIのOCRで入力の手間を減らせる点を評価されたとしている。",
+    "limitations": "提供した会社の発表で、アズ企画設計の発表や効果の数字は無い。",
+    "areaMain": "物流・購買・SCM",
+    "areas": [
+      "物流・購買・SCM",
+      "営業・マーケティング"
+    ],
+    "useMain": "業務の自動化・AIエージェント",
+    "uses": [
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "国内のAI企業"
+    ],
+    "products": [
+      "TASUKI TECH LAND",
+      "生成AI-OCR読取"
+    ],
+    "publishedAt": "2023-12-01",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://tasukicorp.co.jp/news/15975/",
+        "title": "物件仕入管理サービス「TASUKI TECH LAND」アズ企画設計へのサービス提供のお知らせ",
+        "publisher": "株式会社タスキ",
+        "publishedAt": "2023-12-01",
+        "kind": "提供企業の導入事例"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000071.000051940.html",
+        "title": "物件仕入管理サービス「TASUKI TECH LAND」新機能「生成AI-OCR読取」を提供開始",
+        "publisher": "株式会社タスキホールディングス（PR TIMES）",
+        "publishedAt": "2023-11-21",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3491-0001",
+    "code": "3491",
+    "name": "ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "全社方針",
+    "title": "「AI不動産投資」への転換を掲げ、RENOSYで培った生成AIの活用をグループ横断で進める組織を作る",
+    "summary": "不動産投資サービス「RENOSY」のテクノロジー戦略を作り、AIをあらゆる場面で使って新しい顧客体験とコスト削減を進めるとした。決算説明資料で表明した「生成AI活用による不動産投資体験」につなげるもので、RENOSYで培った生成AIの活用をグループ横断で進める組織を、担当役員の下に作る予定とした。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "横断組織は作る予定の段階。出典の個別の取り組み（面談記録の自動化など）は「AI」とだけ書かれ、生成AIかどうか分からない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "グループ全体",
+    "stage": "方針・推進",
+    "policyTypes": [
+      "推進組織・体制",
+      "経営計画での方針"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-01-29",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.ga-tech.co.jp/news/5c8amfcf5hsznfsn/",
+        "title": "RENOSY、「ネット不動産投資」から「AI不動産投資」へ。テクノロジー戦略を策定",
+        "publisher": "株式会社GA technologies",
+        "publishedAt": "2025-01-29",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3491-0002",
+    "code": "3491",
+    "name": "ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "面談の前の情報からRAGを組み込んだLLMが提案内容を作る「面談支援AI」",
+    "summary": "RENOSYで、客の問い合わせ内容や面談で得た情報をAIが分析し、担当者の面談を支える「面談支援AI」を作って使い始めた。2万人を超えるオーナーなどとの面談の蓄積を統計的因果推論で分析し、その結果をもとに、RAGを組み込んだLLMが誤りを実用上問題のない程度まで抑えた提案内容を作る。",
+    "problem": "担当者の主観に左右されずに、一人ひとりの客に合った情報を出したい。",
+    "approach": "",
+    "outcome": "担当者から、客の実際の発言にもとづいて安心して提案できる、過去の面談をもとに客観的に準備できるという声が出ている。面談のあとの客への情報提供にもAIを使い始めている。",
+    "limitations": "効果の数字や使っているLLMは書かれていない。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング"
+    ],
+    "useMain": "文章の作成・下書き",
+    "uses": [
+      "文章の作成・下書き",
+      "データ分析"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "自社開発"
+    ],
+    "products": [
+      "面談支援AI"
+    ],
+    "publishedAt": "2025-09-10",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.ga-tech.co.jp/news/6q2t2s886o3raqps/",
+        "title": "AI不動産投資RENOSY、お客様との面談支援AIを開発、運用開始",
+        "publisher": "株式会社GA technologies",
+        "publishedAt": "2025-09-10",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "3491-0003",
+    "code": "3491",
+    "name": "ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "オーナーのマイページで、最寄駅の周りの情報を生成AIが要約し、良い点と悪い点を示す",
+    "summary": "RENOSYのマイページで、投資用不動産の周りの賃料相場、成約価格、推定入居率、人口、駅の乗降者数などを地図で見られる機能を出した。最寄駅の周りの情報はAIが整理・分析して要約し、良い点と悪い点を示す。この周辺情報は生成AIが作ったものだと注記している。",
+    "problem": "オーナーは周りの市場の動きを知る必要があるが、情報集めに手間がかかっていた。",
+    "approach": "国土交通省の不動産情報ライブラリなどの信頼できるデータを根拠にした。",
+    "outcome": "",
+    "limitations": "生成AIが作った情報には不正確なものが含まれる可能性があると断っている。効果の数字は書かれていない。",
+    "areaMain": "顧客対応・問い合わせ",
+    "areas": [
+      "顧客対応・問い合わせ",
+      "営業・マーケティング"
+    ],
+    "useMain": "要約・議事録",
+    "uses": [
+      "要約・議事録",
+      "データ分析"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-10-20",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.ga-tech.co.jp/news/b9ocwkv6c75uc5s2/",
+        "title": "AI不動産投資のRENOSY、物件の周辺情報アドバイス機能を提供開始",
+        "publisher": "株式会社GA technologies",
+        "publishedAt": "2025-10-20",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "3542-0001",
@@ -57426,6 +59532,198 @@
     "checkedAt": "2026-10-20",
     "firstVersion": "2026-10-21",
     "lastChangedVersion": "2026-10-21"
+  },
+  {
+    "id": "5527-0001",
+    "code": "5527",
+    "name": "ｐｒｏｐｅｒｔｙ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "マンション売買の「KAITRY」のLINEのAIチャットに GPT-4 を載せ、売買の相談に答える",
+    "summary": "中古マンションの買取・再販のサービス「KAITRY」のLINE公式アカウントのAIチャットに、2023年10月25日から GPT-4 を載せた。グループのマンション売買のノウハウや専門知識を覚えさせ、決まった受け答えではなく自然な文章で、マンション売買の質問に答える。",
+    "problem": "中古住宅の売買では、利用者と不動産会社の間に情報の差がある。",
+    "approach": "",
+    "outcome": "人を介さず24時間いつでも問い合わせができるようになる。",
+    "limitations": "利用の数や効果は書かれていない。",
+    "areaMain": "顧客対応・問い合わせ",
+    "areas": [
+      "顧客対応・問い合わせ",
+      "営業・マーケティング"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "検索・質問への回答"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "OpenAI"
+    ],
+    "products": [
+      "GPT-4",
+      "KAITRY"
+    ],
+    "publishedAt": "2023-10-25",
+    "startedAt": "2023-10",
+    "sources": [
+      {
+        "url": "https://pptc.co.jp/ir/press/20231025_2070/",
+        "title": "中古住宅に関わる「情報の非対称性」を解消│独自学習し「GPT-4」搭載で利便性向上『KAITRY』LINE公式アカウントで、気軽に相談",
+        "publisher": "株式会社property technologies",
+        "publishedAt": "2023-10-25",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "5537-0001",
+    "code": "5537",
+    "name": "ＡｌｂａＬｉｎｋ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "社内のマニュアルや規程を取り込んだAIチャットボット「アルバ君」で、社内の問い合わせに一次対応する",
+    "summary": "事業の拡大で増えた社内の問い合わせを減らすため、レバテックの支援を受けて、マニュアルや規程を取り込んだ社内のAIチャットボット「アルバ君」を作った。答えられない問い合わせは管理者に回し、回答の状況はスタンプで見えるようにした。支援の内容として、生成AIを使った業務の効率化の有効性を確かめたと書かれている。",
+    "problem": "人員の拡大でヘルプデスクの仕事が増えていたが、検証の企画や運用の設計を担う人材が社内にいなかった。",
+    "approach": "レバテックの4名の体制で概念実証として始め、回答の精度を上げる仕組みやマニュアルの更新の見直しを重ねて定着させた。",
+    "outcome": "導入から数か月で、バックオフィスが受け持つ社内の問い合わせの一次対応の割合が、年90%台から30%台に下がった。",
+    "limitations": "支援した会社の事例記事で、ページに日付が無い。使っている生成AIの製品は書かれていない。",
+    "areaMain": "総務・社内の問い合わせ・ナレッジ",
+    "areas": [
+      "総務・社内の問い合わせ・ナレッジ"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答",
+      "対話での応対"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [
+      "アルバ君"
+    ],
+    "publishedAt": "",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://levtech.jp/partner/guide/case/detail/490/",
+        "title": "レバテックの伴走型支援で社内AIチャットボット導入、問い合わせの一次対応率を90%→30%台に削減",
+        "publisher": "レバテック",
+        "publishedAt": "",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "5537-0002",
+    "code": "5537",
+    "name": "ＡｌｂａＬｉｎｋ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "マーケティング部が、動画広告の分析ツールを Claude Code につなぎ、別の業界の広告から手本を探して台本を作る",
+    "summary": "Meta広告とTikTok広告を新しく始めるにあたり、マーケティング部が動画広告の分析ツール「動画広告分析Pro」をMCPでAIエージェントの Claude Code につなぎ、車の買取など仕組みの似た別の業界の動画広告を手本として引き出し、競合の分析から台本づくりに使った。",
+    "problem": "空き家の買取の業界では参考にできる他社の動画広告が少なく、新しい媒体の型をつかめなかった。",
+    "approach": "",
+    "outcome": "人の手でやると5〜6時間かかっていた競合の分析から台本づくりまでの工程で、ゼロから考え始める必要がなくなったと担当者が話している。担当者の体感で、1回あたり約5時間の削減としている。",
+    "limitations": "ツールの提供会社の事例記事。約5時間の削減は担当者の体感で、導入前後の実測ではない。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "広報・コンテンツ制作"
+    ],
+    "useMain": "データ分析",
+    "uses": [
+      "データ分析",
+      "文章の作成・下書き",
+      "アイデア出し"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Anthropic"
+    ],
+    "products": [
+      "Claude Code",
+      "動画広告分析Pro（DPro）"
+    ],
+    "publishedAt": "2026-09-09",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://kashika-20mile.com/dpro/articles/case-albalink-mcp-adjacent-industry/",
+        "title": "【事例】参考にできる競合が、業界の中で見つからない｜隣の業界から勝ち筋を引いてくるMCPの使い方(株式会社AlbaLink様)",
+        "publisher": "動画広告分析Pro(可視化/20Mile)",
+        "publishedAt": "2026-09-09",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "5537-0003",
+    "code": "5537",
+    "name": "ＡｌｂａＬｉｎｋ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "kind": "活用事例",
+    "title": "マーケティング部が、自社メディアの記事の執筆に ChatGPT を使えないか各自で試す",
+    "summary": "採用サイトの社員紹介で、自社メディアを担当するマーケティング部の社員が、執筆の効率を上げるため ChatGPT を記事の執筆に生かせないかという話が出て、各自が試した結果を共有しながらアイデアを出し合っていると話している。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "社員紹介の記事の中の話で、ページに日付が無い。結果や効果は書かれていない。",
+    "areaMain": "広報・コンテンツ制作",
+    "areas": [
+      "広報・コンテンツ制作"
+    ],
+    "useMain": "文章の作成・下書き",
+    "uses": [
+      "文章の作成・下書き"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "OpenAI"
+    ],
+    "products": [
+      "ChatGPT"
+    ],
+    "publishedAt": "",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://albalink.co.jp/recruit/workers/jin-nagata/",
+        "title": "永田 仁｜採用情報｜株式会社AlbaLink(アルバリンク)",
+        "publisher": "株式会社AlbaLink",
+        "publishedAt": "",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "5563-0001",
@@ -93912,7 +96210,7 @@
     "stage": "導入を発表",
     "policyTypes": [],
     "providers": [
-      "非公表"
+      "海外のその他の企業"
     ],
     "products": [
       "Agentforce"
@@ -93930,7 +96228,7 @@
     ],
     "checkedAt": "2026-10-19",
     "firstVersion": "2026-10-19",
-    "lastChangedVersion": "2026-10-19"
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "8053-0002",
@@ -111487,6 +113785,985 @@
     "lastChangedVersion": "2026-10-19"
   },
   {
+    "id": "8801-0002",
+    "code": "8801",
+    "name": "三井不動産",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "全従業員約2,500人が使う社内専用の生成AIチャット「&Chat」を作り、アイデアソンで使い方を広げる",
+    "summary": "アルサーガパートナーズと共同で、Azure OpenAI Service の GPT-4 を使う社内専用のチャット「&Chat」を作り、2023年8月から全従業員約2,500人を対象に運用を始めた。要約や翻訳、アイデア出しに使え、17種のプロンプト集を載せた。2024年10月には社内のデータとつながる環境として内製で作り直した。",
+    "problem": "社員が生成AIを安心して業務に使える環境が要った。",
+    "approach": "入力した情報を社外に送らない社内専用の環境にした。社内データとの連携の第1弾としてITマニュアルを読み込ませた。全社で活用のアイデアを募るアイデアソンを開いている。",
+    "outcome": "3回のアイデアソンで663件のアイデアが集まった。2024年10〜11月の回で選ばれた新リース会計の調査とシミュレーション資料づくりは、若手5人で約4週間かかる見通しの作業を生成AIで行い、合計100時間分の削減と試算した。",
+    "limitations": "利用率や全体の効果の数字は書かれていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "要約・議事録",
+    "uses": [
+      "要約・議事録",
+      "翻訳",
+      "アイデア出し"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "全社展開",
+    "policyTypes": [
+      "全社への導入"
+    ],
+    "providers": [
+      "Microsoft",
+      "OpenAI",
+      "自社開発"
+    ],
+    "products": [
+      "&Chat",
+      "Azure OpenAI Service",
+      "GPT-4"
+    ],
+    "publishedAt": "2023-10-10",
+    "startedAt": "2023-08",
+    "sources": [
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2023/1010/",
+        "title": "全従業員を対象に、自社特化型AIチャットツール「&Chat」の運用開始",
+        "publisher": "三井不動産株式会社",
+        "publishedAt": "2023-10-10",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2024/1209/",
+        "title": "生成AI活用/DXビジネス人材育成の取り組みで2024年度「IT賞(マネジメント領域)」を受賞",
+        "publisher": "三井不動産株式会社",
+        "publishedAt": "2024-12-09",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03028/120900006/",
+        "title": "生成AIの定着に挑む三井不動産、切り札は663件の活用策が生まれた「アイデアソン」",
+        "publisher": "日経BP",
+        "publishedAt": "2024-12-11",
+        "kind": "報道"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8801-0003",
+    "code": "8801",
+    "name": "三井不動産",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "住まいの情報サイトのAIチャットボットや、子どもとの対話から思い出の新聞を作る「AI東京ドームシティ新聞」など、客向けにも生成AIを使う",
+    "summary": "グループのDX方針「DX VISION 2030」のAI・人材の取り組みの説明で、客向けのサービスにも生成AIを使っているとした。住まいの情報サイト「三井でみつけて すまいとくらしウェブ」へのAIチャットボットの搭載や、東京ドームシティの屋内キッズ施設で、遊んだ感想を生成AIと話すと見出しと記事が自動でできる「AI東京ドームシティ新聞」を挙げている。",
+    "problem": "",
+    "approach": "2024年度中にRAGの環境を内製で作り、2030年度までに生成AIと従来のAIを組み合わせたDXを進めるとしている。",
+    "outcome": "",
+    "limitations": "AI東京ドームシティ新聞は2024年8月12〜31日の予定の提供。利用の数や効果、使う生成AIの製品は書かれていない。",
+    "areaMain": "顧客対応・問い合わせ",
+    "areas": [
+      "顧客対応・問い合わせ",
+      "広報・コンテンツ制作"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "文章の作成・下書き"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "グループ全体",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [
+      "AI東京ドームシティ新聞"
+    ],
+    "publishedAt": "2024-08-05",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2024/0805/",
+        "title": "新グループDX方針「DX VISION 2030」を策定",
+        "publisher": "三井不動産株式会社",
+        "publishedAt": "2024-08-05",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8801-0004",
+    "code": "8801",
+    "name": "三井不動産",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "全社員約2,000人に ChatGPT Enterprise を入れ、150名の「AI推進リーダー」と社長AIエージェントなどの独自のAIで使い方を広げる",
+    "summary": "2025年10月1日から ChatGPT Enterprise を全社員約2,000人に入れた。全社85部門から選んだ約150名の「AI推進リーダー」を中心に、約3か月で約500件のカスタムGPTが動いている。Microsoft Azure 上の内製の開発環境では、社長の考え方を再現した「社長AIエージェント」を全社で試しに使い始め、文字の指示からPowerPointの資料を作る「資料自動生成AI」は全社で使い始めた。",
+    "problem": "",
+    "approach": "全社員向けの ChatGPT Enterprise の研修に延べ1,300人が参加した。カスタムGPTは物件情報の参照・要約、経理処理の補助、プレスリリースの下書きなどに使う。",
+    "outcome": "DX本部長の考えを再現したエージェントで資料を事前に確かめるようにし、DX本部員の資料の作成・修正の時間を平均約30%減らした。",
+    "limitations": "全社で業務時間を10%以上減らすのは今後の目標。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "文章の作成・下書き",
+    "uses": [
+      "文章の作成・下書き",
+      "要約・議事録",
+      "検索・質問への回答"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "全社展開",
+    "policyTypes": [
+      "全社への導入",
+      "推進組織・体制",
+      "研修・人材育成"
+    ],
+    "providers": [
+      "OpenAI",
+      "Microsoft",
+      "自社開発"
+    ],
+    "products": [
+      "ChatGPT Enterprise",
+      "カスタムGPT",
+      "社長AIエージェント",
+      "資料自動生成AI"
+    ],
+    "publishedAt": "2025-12-23",
+    "startedAt": "2025-10",
+    "sources": [
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2025/1223/",
+        "title": "社長AIエージェントなど独自AI開発と、全部門で150名のAI推進リーダーを設置",
+        "publisher": "三井不動産株式会社",
+        "publishedAt": "2025-12-23",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8801-0005",
+    "code": "8801",
+    "name": "三井不動産",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "約200棟のオフィスビルの危機管理センターで、通信が切れても動く小規模言語モデルの災害対策の仕組みを試す",
+    "summary": "日立と共同で、生成AIの一つである小規模言語モデル（SLM）を載せたオフラインの災害対策支援の仕組みを作り、検証を始めた。被災の状況を入れると、ビルごとの膨大なマニュアルから対応を取り出し、優先順位を付けて初動を示す。",
+    "problem": "大きな災害では通信が止まるおそれがあり、宿直の社員の習熟度に左右されずに初動を判断できる支えが要る。",
+    "approach": "社内のサーバーでも実用に耐える精度にするため、日立の業務特化型の言語モデルとAIエージェントのサービスを使い、ビル運営と災害対応の知見を組み込んだ。",
+    "outcome": "",
+    "limitations": "検証の段階で、本格稼働をめざす。日立の商品として他のビル管理会社への提供もめざす。",
+    "areaMain": "製造・品質・保守",
+    "areas": [
+      "製造・品質・保守",
+      "法務・審査・リスク"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "国内のAI企業"
+    ],
+    "products": [
+      "オフライン型災害対策支援システム"
+    ],
+    "publishedAt": "2026-04-15",
+    "startedAt": "2026-04",
+    "sources": [
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/0415_02/",
+        "title": "小規模言語モデル（SLM）を活用したオフライン型災害対策支援システムの開発・検証について",
+        "publisher": "三井不動産株式会社・株式会社日立製作所",
+        "publishedAt": "2026-04-15",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8801-0006",
+    "code": "8801",
+    "name": "三井不動産",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "日本橋のビルで、カメラ・設備・センサーのデータを集め、生成AIで検索・要約して設備管理を楽にする実証",
+    "summary": "「日本橋一丁目三井ビルディング」で、キヤノンマーケティングジャパン・MODE・Imageousと設備管理の実証を始めた。中央監視の約5,000点の設備データ、アナログメーターのカメラ映像、分電盤のセンサーのデータをクラウドで一つにまとめ、生成AIでデータを検索・要約して、異常の早い把握や遠隔での点検を支えられるかを確かめる。",
+    "problem": "設備管理は現地の巡回と目視が中心で、設備の状態を全体で把握しにくい。",
+    "approach": "通知と自動で作る定時レポートをもとに、対話で関連データを呼び出す。三井不動産は実証の場を出し、評価を担う。",
+    "outcome": "",
+    "limitations": "実証の開始の発表で、結果は書かれていない。使う生成AIの製品も書かれていない。",
+    "areaMain": "製造・品質・保守",
+    "areas": [
+      "製造・品質・保守",
+      "店舗・現場運営"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答",
+      "要約・議事録",
+      "データ分析"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2026-05-12",
+    "startedAt": "2026-05",
+    "sources": [
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/0512_01/",
+        "title": "「日本橋一丁目三井ビルディング」における映像・IoT・生成AIを活用した設備管理効率化の実証実験について",
+        "publisher": "三井不動産株式会社",
+        "publishedAt": "2026-05-12",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8802-0001",
+    "code": "8802",
+    "name": "三菱地所",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "全社データ分析基盤「SoDA」に、Gemini CLI と Claude Code でデータ分析アプリを作れる開発環境を用意する",
+    "summary": "ナウキャストが、三菱地所の Google Cloud ベースの全社データ分析基盤「SoDA」の上に、ブラウザだけで使える開発環境を作った。Google の「Gemini CLI」と Anthropic の「Claude Code」を標準で使え、モデルは Vertex AI 経由で出す。社員は自然な言葉で指示してデータ分析のアプリを作り、社内に公開できる。",
+    "problem": "ダッシュボードを内製するとデータの加工に手間がかかり、社員が各自の端末で生成AIの開発環境を作るには専門知識が要るうえ、セキュリティの心配もあった。",
+    "approach": "データを端末に持ち出さないクラウドの開発環境にし、公開したアプリにはIAP認証をかけた。公開のときに脆弱性とコードの検査を自動でかけ、生成AIのトークン量とクラウドの費用を見られるようにした。",
+    "outcome": "",
+    "limitations": "構築した会社の発表。使っている人数や作られたアプリの数、効果は書かれていない。",
+    "areaMain": "ソフトウェア開発・IT",
+    "areas": [
+      "ソフトウェア開発・IT",
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "コード生成",
+    "uses": [
+      "コード生成",
+      "データ分析"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "Google",
+      "Anthropic"
+    ],
+    "products": [
+      "SoDA",
+      "Gemini CLI",
+      "Claude Code",
+      "Vertex AI"
+    ],
+    "publishedAt": "2026-02-18",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000565.000012138.html",
+        "title": "ナウキャスト、三菱地所の全社データ分析基盤「SoDA」に生成AI駆動型のアプリケーション開発環境を構築",
+        "publisher": "Finatextホールディングス",
+        "publishedAt": "2026-02-18",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8802-0002",
+    "code": "8802",
+    "name": "三菱地所",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "統合報告書で、生成AIで業務効率化・データ分析・意思決定支援などの使い道を広く開発するとする",
+    "summary": "統合報告書2025の新事業創出機能グループの担当役員メッセージで、生成AIを使った業務の効率化、データ分析、見える化、意思決定の支援など幅広い使い道の開発に取り組み、グループ全体のDXを進めるとした。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "方針の記載で、個別の使い道や効果は書かれていない。資料に発行日の記載を確かめられなかった。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "データ分析",
+    "uses": [
+      "データ分析"
+    ],
+    "audience": "社内の業務",
+    "scope": "グループ全体",
+    "stage": "方針・推進",
+    "policyTypes": [
+      "経営計画での方針"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.mec.co.jp/assets/img/annual/integratedreport2025j_p.pdf",
+        "title": "統合報告書2025",
+        "publisher": "三菱地所",
+        "publishedAt": "2025",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8804-0001",
+    "code": "8804",
+    "name": "東京建物",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "AI-OCRと生成AIを組み合わせ、形式がばらばらの物件情報の書類から登録内容を取り出す",
+    "summary": "子会社の東京建物不動産販売がトランスコスモスと、AI-OCRと生成AIを組み合わせて物件情報の登録を効率化する仕組みを作った。手書きを含むさまざまな形式の書類をAI-OCRで文字にし、生成AIが必要な情報を取り出して要約し、入力の大半を自動にする。地図の情報も自動で取る。",
+    "problem": "物件情報の登録の書類は形式が多く手書きもあり、決まった書式に直すのに手間がかかっていた。",
+    "approach": "不動産業界の帳票に合わせたAI-OCRと、業界向けに調整した生成AIを組み合わせた。",
+    "outcome": "",
+    "limitations": "削減できた工数は書かれていない。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング"
+    ],
+    "useMain": "業務の自動化・AIエージェント",
+    "uses": [
+      "業務の自動化・AIエージェント",
+      "要約・議事録"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2024-03-12",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.ttfuhan.co.jp/company/release/_pdf_/240312.pdf",
+        "title": "東京建物不動産販売、トランスコスモスと AI-OCR と生成 AI を組み合わせた物件情報登録のスキームを構築",
+        "publisher": "東京建物不動産販売株式会社",
+        "publishedAt": "2024-03-12",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8830-0001",
+    "code": "8830",
+    "name": "住友不動産",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "お客様センターで「PKSHA Speech Insight」を使い、通話を生成AIで要約して後処理をそろえる",
+    "summary": "住宅の問い合わせを24時間受けるお客様センターに、2024年10月にPKSHAのオペレーター支援AI「PKSHA Speech Insight」を入れ、2025年6月から音声データを要約する「属性要約オプション」を本格的に使い始めた。通話を文字にし、独自のアルゴリズムと生成AIで要約する。",
+    "problem": "問い合わせが年々増え、人手中心の運用から抜け出す必要があった。通話のあとの手入力が負担で、知識の蓄積も進んでいなかった。",
+    "approach": "問い合わせの内容を分類・集計し、傾向の分析と知識の蓄積にも使う。",
+    "outcome": "新人から中堅まで、通話のあとの後処理がそろい、記録の水準と業務の品質が上がった。",
+    "limitations": "提供した会社の発表で、削減した時間などの数字は書かれていない。記録からのFAQの自動生成や、客が自分で解決できる窓口への展開は検討中。",
+    "areaMain": "顧客対応・問い合わせ",
+    "areas": [
+      "顧客対応・問い合わせ"
+    ],
+    "useMain": "要約・議事録",
+    "uses": [
+      "要約・議事録",
+      "データ分析"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "国内のAI企業"
+    ],
+    "products": [
+      "PKSHA Speech Insight"
+    ],
+    "publishedAt": "2025-09-30",
+    "startedAt": "2024-10",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000223.000022705.html",
+        "title": "住友不動産がPKSHA Speech Insightを導入 ～不動産業界初、生成AIでオペレーター業務を変革～",
+        "publisher": "株式会社PKSHA Technology",
+        "publishedAt": "2025-09-30",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8844-0001",
+    "code": "8844",
+    "name": "コスモスイニシア",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "不動産広告の審査に生成AIの「neoAI Chat」を使い、審査の時間をおよそ半分にする",
+    "summary": "2024年10月にRAGを使う生成AIのツールを入れ、不動産広告の審査に使っている。物件の概要などの情報が漏れなく正しく書かれているか、徒歩の所要時間の計算が合っているか、禁止用語や表記揺れが無いかを確かめ、2025年3月からは不適切な表現の代わりの案も出す。ツールは neoAI の「neoAI Chat」で、ChatGPT や Claude などのモデルを使い分けられる。",
+    "problem": "広告は法令と社内の表記・ブランドのルールに合わせる必要があり、目視での確認は時間がかかり漏れの心配もあった。",
+    "approach": "3か月の試用を経て導入した。ブランドとして適切かの判断は避け、正しいデータとの照合などAIに向く所に絞った。",
+    "outcome": "審査にかかる時間がおよそ半分になった。",
+    "limitations": "ブランドの観点での判断や提案への広げ方は今後の課題。",
+    "areaMain": "法務・審査・リスク",
+    "areas": [
+      "法務・審査・リスク",
+      "広報・コンテンツ制作"
+    ],
+    "useMain": "チェック・審査",
+    "uses": [
+      "チェック・審査"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "国内のAI企業",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "products": [
+      "neoAI Chat"
+    ],
+    "publishedAt": "",
+    "startedAt": "2024-10",
+    "sources": [
+      {
+        "url": "https://www.cigr.co.jp/company/digitalization/",
+        "title": "Digitalization | 株式会社コスモスイニシア",
+        "publisher": "株式会社コスモスイニシア",
+        "publishedAt": "",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10622/",
+        "title": "生成AIで不動産広告の審査時間を半減、修正案の代替表現も自動出力―コスモスイニシア",
+        "publisher": "日経xTECH",
+        "publishedAt": "2025-05-13",
+        "kind": "報道"
+      },
+      {
+        "url": "https://www.fujifilm.com/fb/ja/solutions/case-studies/cigr",
+        "title": "不動産広告の審査に生成AIを活用―neoAI Chat導入で審査時間を半減",
+        "publisher": "富士フイルムビジネスイノベーションジャパン",
+        "publishedAt": "2025-08",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8844-0002",
+    "code": "8844",
+    "name": "コスモスイニシア",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "新築物件の資料請求の画面で、生成AIが新築・リノベーションを問わず似たおすすめ物件を選ぶ",
+    "summary": "自社サイトの新築物件のエントリーフォームで、検討中の物件に近いおすすめの物件を、新築かリノベーションか、マンションか一戸建てかを問わず生成AIが選び、最大3件を示す「AIレコメンド機能」を入れた。一緒に資料を請求できる。",
+    "problem": "多くの人は新築か中古か、マンションか一戸建てかを先に絞って探すため、希望の地域で条件に合う物件に出会えず諦めることがある。",
+    "approach": "",
+    "outcome": "4物件のフォームに入れ、70件以上の物件から選んで示す。",
+    "limitations": "効果の数字や使う生成AIの製品は書かれていない。対象のフォームを順に増やす予定。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング"
+    ],
+    "useMain": "データ分析",
+    "uses": [
+      "データ分析",
+      "検索・質問への回答"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2025-10-16",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.cigr.co.jp/newsrelease/2025/10/airecommendation/",
+        "title": "生成AI搭載「AIレコメンド機能」をエントリーフォームに導入",
+        "publisher": "株式会社コスモスイニシア",
+        "publishedAt": "2025-10-16",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8844-0003",
+    "code": "8844",
+    "name": "コスモスイニシア",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "全社方針",
+    "title": "Microsoft 365 Copilot を全社に入れ、月間アクティブユーザー率97%に。部門のアンバサダーと社内の共有サイトで定着させる",
+    "summary": "生成AIの活用が欠かせなくなるとして、2024年から試用や部門をまたぐ検証を進め、日常的に使う Microsoft 365 との相性と社内の情報を安全に使える点から、Microsoft 365 Copilot を全社に入れた。各部門に推進役のアンバサダーを置き、使い方を共有する社内のコミュニティサイトも開いた。",
+    "problem": "",
+    "approach": "2023年にデジタル推進部門を作り、事業部門の社員が兼任する体制にした。兼任者は生成AIなどのツールを部門に広げる窓口も務める。「生成AI研修」も行っている。",
+    "outcome": "月間アクティブユーザー率は97%（2026年7月時点）。",
+    "limitations": "ページに発表日が無い。用途ごとの効果は書かれていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "全社展開",
+    "policyTypes": [
+      "全社への導入",
+      "推進組織・体制",
+      "研修・人材育成"
+    ],
+    "providers": [
+      "Microsoft"
+    ],
+    "products": [
+      "Microsoft 365 Copilot"
+    ],
+    "publishedAt": "",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.cigr.co.jp/company/digitalization/",
+        "title": "Digitalization | 株式会社コスモスイニシア",
+        "publisher": "株式会社コスモスイニシア",
+        "publishedAt": "",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8848-0001",
+    "code": "8848",
+    "name": "レオパレス２１",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "全従業員約4,000名が使える社内の生成AIチャット「LeoAI Chat」で、規約やマニュアルにも答える",
+    "summary": "Azure OpenAI Service を使って社内で作った生成AIのチャット「LeoAI Chat」を2023年11月に入れ、全従業員約4,000名が使えるようにした。2024年4月の改良で、社内の規約、業務マニュアル、過去の事例やFAQを覚えさせ、仕事に要る答えを直接返せるようにした。",
+    "problem": "規約やマニュアルを調べるには、社内ポータルからファイルを探して必要な所を見つける必要があった。",
+    "approach": "社員のデジタルリテラシーの教育と生成AIの利用のガイドラインづくりも進めた。",
+    "outcome": "使っている人は平均で1人あたり月約8時間の仕事を減らした。",
+    "limitations": "削減時間は使っている人の平均。2024年中に社内の業務データの学習も進める予定とした。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）",
+      "総務・社内の問い合わせ・ナレッジ"
+    ],
+    "useMain": "文章の作成・下書き",
+    "uses": [
+      "文章の作成・下書き",
+      "要約・議事録",
+      "検索・質問への回答"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "全社展開",
+    "policyTypes": [
+      "全社への導入",
+      "社内ルール・ガイドライン"
+    ],
+    "providers": [
+      "Microsoft",
+      "OpenAI",
+      "自社開発"
+    ],
+    "products": [
+      "LeoAI Chat",
+      "Azure OpenAI Service"
+    ],
+    "publishedAt": "2023-11-07",
+    "startedAt": "2023-11",
+    "sources": [
+      {
+        "url": "https://www.leopalace21.co.jp/news/2023/1107.html",
+        "title": "企業版ChatGPTを活用した「LeoAI Chat」を運用開始",
+        "publisher": "株式会社レオパレス21",
+        "publishedAt": "2023-11-07",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000643.000005429.html",
+        "title": "社内向け生成AIチャットシステム「LeoAI Chat」をバージョンアップ",
+        "publisher": "株式会社レオパレス21",
+        "publishedAt": "2024-04-10",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8860-0001",
+    "code": "8860",
+    "name": "フジ住宅",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "DX戦略で生成AIによる社内の情報検索を進め、生成AIの利用回数を月11.2万回から50万回に増やす目標を置く",
+    "summary": "DXのページで、中期経営計画のDX戦略の柱の一つ「定量データに基づく経営」に、生成AIで社内の情報の抽出・整理を自動にし速くすることを挙げた。指標として生成AIのトーク数（月）を置き、2025年度の実績は112,000回、2028年度の目標は500,000回とした。",
+    "problem": "",
+    "approach": "部門をまたぐ「DX推進プロジェクトチーム」を置き、各部門の推進リーダーが進める。今後はAIエージェントでの事務の支援なども挙げている。",
+    "outcome": "生成AIのトーク数は月112,000回（2025年度の実績）。",
+    "limitations": "使っている生成AIの製品や使っている人の数は書かれていない。ページに日付が無い。",
+    "areaMain": "総務・社内の問い合わせ・ナレッジ",
+    "areas": [
+      "総務・社内の問い合わせ・ナレッジ",
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "本番運用",
+    "policyTypes": [
+      "経営計画での方針",
+      "推進組織・体制"
+    ],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.fuji-jutaku.co.jp/corporate/dx/",
+        "title": "DX推進",
+        "publisher": "フジ住宅",
+        "publishedAt": "",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8860-0002",
+    "code": "8860",
+    "name": "フジ住宅",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "和歌山大学との共同研究で、生成AIで図面づくりを自動にする研究をする",
+    "summary": "DX戦略の建設DXの項目で、和歌山大学との共同研究により、生成AIを使った図面作成の自動化に取り組むとしている。和歌山大学とは2021年に、紀陽銀行も加えて、AIで土地利用計画図を自動で作る共同研究を始めると発表している。",
+    "problem": "土地を買うときに、法令や地形を考えて宅地の数と面積を見積もる土地利用計画図を作って判断している。",
+    "approach": "",
+    "outcome": "",
+    "limitations": "研究の中身や進み具合は書かれていない。2021年の発表は「AI」とだけ書き、生成AIの明記はDXのページによる。",
+    "areaMain": "設計・エンジニアリング",
+    "areas": [
+      "設計・エンジニアリング",
+      "研究開発"
+    ],
+    "useMain": "画像・動画・デザインの生成",
+    "uses": [
+      "画像・動画・デザインの生成"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "計画・開発中",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.fuji-jutaku.co.jp/corporate/dx/",
+        "title": "DX推進",
+        "publisher": "フジ住宅",
+        "publishedAt": "",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://www.atpress.ne.jp/news/286104",
+        "title": "紀陽銀行・和歌山大学・フジ住宅、AIを活用した土地利用計画図作成の自動化に関する共同研究を開始",
+        "publisher": "アットプレス",
+        "publishedAt": "2021-11-24",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8887-0001",
+    "code": "8887",
+    "name": "シーラホールディングス",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "CAIOが作った対話式AI「GOD-GPT」を社内で使う",
+    "summary": "ChatGPTの活用の例としてテレビ番組で紹介されたことのお知らせで、CAIOが開発した対話式AI「GOD-GPT」を社内で使い、仕事の効率を上げて創造的な仕事に使う時間を増やしているとした。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "テレビ放送のお知らせの中の短い紹介で、仕組みの中身や効果は書かれていない。GOD-GPTが ChatGPT を使うかは明記されていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "自社開発"
+    ],
+    "products": [
+      "GOD-GPT"
+    ],
+    "publishedAt": "2023-03-17",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://syla.jp/news/20230317",
+        "title": "【シーラテクノロジーズグループ】TBSテレビ「news23」でTV放送されました",
+        "publisher": "株式会社シーラ",
+        "publishedAt": "2023-03-17",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8897-0001",
+    "code": "8897",
+    "name": "ＭＩＲＡＲＴＨホールディングス",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "全社方針",
+    "title": "Google Workspace とつながる「Gemini」を全社で使い、ワークショップで利用率を69%に上げる",
+    "summary": "グループで進めるDXの一環として、全社に入れるグループウェア「Google Workspace」とつながる生成AI「Gemini」の導入と活用を進めている。資料の読み込みや精査の手間を減らし、社員の生産性を上げるのが狙い。入力した情報や社内資料がAIの学習に使われない環境であることも決め手だった。",
+    "problem": "データの多くがアナログで管理され、グループの会社の間の情報の連携も不足していた。",
+    "approach": "経営層は Google を訪ねて事例に触れ、社員向けには Google と共同で Gemini の実務での使い方のワークショップを開き、さらに規模を広げた「生成AI活用ゼミ」を2日間開いた。",
+    "outcome": "ゼミには合わせて180名が参加した。Gemini の利用率は直近4か月で約51%から69%に上がり、月に1,000回以上使う人も出ている。",
+    "limitations": "社員の紹介記事の形での説明。利用率の母数は書かれていない。今後グループ会社全体に広げる。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "要約・議事録",
+    "uses": [
+      "要約・議事録",
+      "検索・質問への回答",
+      "アイデア出し"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "全社展開",
+    "policyTypes": [
+      "全社への導入",
+      "研修・人材育成"
+    ],
+    "providers": [
+      "Google"
+    ],
+    "products": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "publishedAt": "2025-12-08",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://mirarth.co.jp/letter/vol12.html",
+        "title": "想い定期便 Vol.12 一人ひとりが新たな価値を創出できる環境を整備。生成AI「Gemini」の活用を推進し、従業員の生産性向上を目指すDX。",
+        "publisher": "MIRARTHホールディングス株式会社",
+        "publishedAt": "2025-12-08",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8914-0001",
+    "code": "8914",
+    "name": "エリアリンク",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "データ基盤を整えた上で、Gemini に聞くだけで自社の物件のデータを引き出せる形をめざす",
+    "summary": "社内外のデータを BigQuery に集めた上で、生成AIの活用を進めようとしている。将来は Gemini に必要な情報を入れるだけで自社のトランクルームのデータを引き出せる形にしたいとし、巡回清掃の写真付き報告書をAIで確かめる、営業がワンクリックで詳しいデータを示す、といった構想も進めている。",
+    "problem": "データはあったが、担当者ごとに構造が違い、顧客や収益の分析に使いにくかった。",
+    "approach": "2024年末から2025年にかけて、BigQuery を土台にAI活用を前提としたデータ基盤を整え、Tableau と Looker Studio で物件ごとの異変をつかめるようにした。",
+    "outcome": "",
+    "limitations": "外部データの提供会社の取材記事。Gemini の活用は構想の段階。記事は、AIが議事録や提案書の作成など周辺業務の効率化にも使われていることを示唆するが、生成AIかどうかは書いていない。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "総務・社内の問い合わせ・ナレッジ"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答",
+      "データ分析"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "計画・開発中",
+    "policyTypes": [],
+    "providers": [
+      "Google"
+    ],
+    "products": [
+      "Gemini",
+      "BigQuery"
+    ],
+    "publishedAt": "2026-06-04",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://pig-data.jp/pigup/real-estate/arealink/",
+        "title": "80人で業界を動かす。エリアリンクのDXは、なぜ一歩先を行くのか",
+        "publisher": "PigData(株式会社インディゴデータ)",
+        "publishedAt": "2026-06-04",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8927-0001",
+    "code": "8927",
+    "name": "明豊エンタープライズ",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "本社の研究ラボの会議室に ChatGPT Plus と音声認識を入れ、会議の記録・要約・議事録づくりを自動にする",
+    "summary": "本社の会議室にIoT機器を入れた研究ラボ「Smart Office Well」を2024年1月31日に開き、ChatGPT Plus と音声認識の「AmiVoice」を入れて、会議の記録・要約・議事録の自動生成などで業務の効率化をめざす。",
+    "problem": "",
+    "approach": "環境センサーで室内の環境を自動で整え、顔認証の入室管理も入れた。他の業種や企業と組んだ実証も計画している。",
+    "outcome": "",
+    "limitations": "研究ラボでの取り組みで、効果の数字は書かれていない。",
+    "areaMain": "総務・社内の問い合わせ・ナレッジ",
+    "areas": [
+      "総務・社内の問い合わせ・ナレッジ"
+    ],
+    "useMain": "要約・議事録",
+    "uses": [
+      "要約・議事録"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "OpenAI"
+    ],
+    "products": [
+      "ChatGPT Plus",
+      "AmiVoice"
+    ],
+    "publishedAt": "2024-01-31",
+    "startedAt": "2024-01",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000035.000097499.html",
+        "title": "明豊エンタープライズ 本社に研究ラボ「Smart Office Well」を開設しIoT機器、顔認証プラットフォーム「FreeiD」を導入",
+        "publisher": "株式会社明豊エンタープライズ(PRTIMES)",
+        "publishedAt": "2024-01-31",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://iotnews.jp/smart-building/242299/",
+        "title": "明豊エンタープライズ、IoTと顔認証プラットフォームを活用した研究ラボを開設",
+        "publisher": "IoTNEWS",
+        "publishedAt": "2024-01-31",
+        "kind": "報道"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
     "id": "8929-0001",
     "code": "8929",
     "name": "青山財産ネットワークス",
@@ -111537,6 +114814,128 @@
     "checkedAt": "2026-10-19",
     "firstVersion": "2026-10-19",
     "lastChangedVersion": "2026-10-19"
+  },
+  {
+    "id": "8929-0002",
+    "code": "8929",
+    "name": "青山財産ネットワークス",
+    "industry33": "不動産業",
+    "market": "スタンダード",
+    "kind": "全社方針",
+    "title": "Microsoft 365 Copilot を全社の業務環境に入れ、議事録や資料づくりなど業務ごとのAIエージェントを作る",
+    "summary": "顧客と話す時間を増やすため、現場が主導するDX・AI活用のプロジェクトを本格的に始めた。Microsoft 365 Copilot を全社の業務環境に組み込み、議事録の生成、財産の分析、資料の作成、レビュー、社内の検索など業務の手順ごとにAIエージェントを作り、段階的に入れている。エージェントの構築には電通総研の支援を受け、Copilot Studio や Microsoft Foundry を使う。",
+    "problem": "財産コンサルティングは個別性・専門性が高く、コンサルタント一人ひとりの負担や若手の早い自立が課題だった。",
+    "approach": "2024年に全社横断の「DX推進室」を作った。エージェントは仕事を分けて受け持つものと、それらをまとめて動かすものの3層で設計した。顧客との対話と提案の検討の時間をKPIの一つにしている。",
+    "outcome": "2025年度に8体のAIエージェントを開発中で、2027年度末までに約300体を作る予定。",
+    "limitations": "議事録の生成、CRMへの転記、社内ファイルの検索などは段階的な導入・試験運用の段階。効果の数字は書かれていない。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）",
+      "営業・マーケティング"
+    ],
+    "useMain": "業務の自動化・AIエージェント",
+    "uses": [
+      "業務の自動化・AIエージェント",
+      "要約・議事録",
+      "文章の作成・下書き"
+    ],
+    "audience": "社内の業務",
+    "scope": "全社",
+    "stage": "本番運用",
+    "policyTypes": [
+      "全社への導入",
+      "推進組織・体制"
+    ],
+    "providers": [
+      "Microsoft",
+      "自社開発"
+    ],
+    "products": [
+      "Microsoft 365 Copilot",
+      "Copilot Studio",
+      "Microsoft Foundry"
+    ],
+    "publishedAt": "2026-05-28",
+    "startedAt": "2024",
+    "sources": [
+      {
+        "url": "https://www.azn.co.jp/news/20260528-1278.html",
+        "title": "現場主導によるDX・AI活用プロジェクトを本格始動",
+        "publisher": "株式会社青山財産ネットワークス",
+        "publishedAt": "2026-05-28",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://www.dentsusoken.com/news/release/2026/0401.html",
+        "title": "電通総研の「AIエージェント構築支援サービス」を青山財産ネットワークスが採用し\"コンサルタント×AI\"の共創を加速",
+        "publisher": "株式会社電通総研",
+        "publishedAt": "2026-04-01",
+        "kind": "提供企業の導入事例"
+      },
+      {
+        "url": "https://www2.jpx.co.jp/disc/89290/140120260206550384.pdf",
+        "title": "2025年12月期 決算短信",
+        "publisher": "株式会社青山財産ネットワークス",
+        "publishedAt": "2026-02-06",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
+  },
+  {
+    "id": "8934-0001",
+    "code": "8934",
+    "name": "サンフロンティア不動産",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "ビル管理で、テナント企業の動きを法人データで見張り、近づくべき理由を生成AIが要約して担当者に知らせる",
+    "summary": "都心を中心に約550棟で受けるプロパティマネジメントの業務に、ナウキャストの法人データベースと生成AIを使う仕組みを入れた。テナント企業の従業員数の推移や求人の活発さなどの公開情報を見張って事業の段階の変化を自動で見つけ、急な増員などテナントに提案しに行く根拠を生成AIが要約して担当者に知らせる。",
+    "problem": "ビル管理は賃料の回収や修繕など守りの仕事が中心で、テナントの経営やオフィスの需要の変化をつかみにくかった。",
+    "approach": "「管理・対応型」から、テナントの成長に合わせて提案する形への転換をめざす。",
+    "outcome": "",
+    "limitations": "支援した会社の発表で、効果の数字は書かれていない。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "店舗・現場運営"
+    ],
+    "useMain": "要約・議事録",
+    "uses": [
+      "要約・議事録",
+      "データ分析"
+    ],
+    "audience": "社内の業務",
+    "scope": "1部署・1業務",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2026-05-26",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20260526/fy36b0/140120260526547724.pdf",
+        "title": "ナウキャスト、法人データベースと生成AIを活用し、サンフロンティア不動産のプロパティマネジメント高度化を支援",
+        "publisher": "株式会社Finatextホールディングス(TDnet)",
+        "publishedAt": "2026-05-26",
+        "kind": "提供企業の導入事例"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000603.000012138.html",
+        "title": "ナウキャスト、法人データベースと生成AIを活用し、サンフロンティア不動産のプロパティマネジメント高度化を支援",
+        "publisher": "株式会社Finatextホールディングス(PRTIMES)",
+        "publishedAt": "2026-05-26",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "firstVersion": "2026-10-22",
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "9001-0001",
@@ -111772,7 +115171,7 @@
     "stage": "導入を発表",
     "policyTypes": [],
     "providers": [
-      "国内のAI企業"
+      "海外のその他の企業"
     ],
     "products": [
       "Adobe Express"
@@ -111790,7 +115189,7 @@
     ],
     "checkedAt": "2026-09-28",
     "firstVersion": "2026-09-29",
-    "lastChangedVersion": "2026-09-29"
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "9003-0003",
@@ -114011,7 +117410,7 @@
     "stage": "本番運用",
     "policyTypes": [],
     "providers": [
-      "非公表"
+      "海外のその他の企業"
     ],
     "products": [
       "Allganize",
@@ -114037,7 +117436,7 @@
     ],
     "checkedAt": "2026-09-28",
     "firstVersion": "2026-09-29",
-    "lastChangedVersion": "2026-09-29"
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "9023-0003",
@@ -116596,7 +119995,7 @@
     "stage": "本番運用",
     "policyTypes": [],
     "providers": [
-      "非公表"
+      "海外のその他の企業"
     ],
     "products": [
       "生成AIアシスタント（日本IBM共同開発）"
@@ -116621,7 +120020,7 @@
     ],
     "checkedAt": "2026-09-28",
     "firstVersion": "2026-09-29",
-    "lastChangedVersion": "2026-10-21"
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "9104-0003",
@@ -118264,7 +121663,7 @@
     "stage": "導入を発表",
     "policyTypes": [],
     "providers": [
-      "非公表"
+      "海外のその他の企業"
     ],
     "products": [
       "Oracle Fusion Cloud Applications",
@@ -118290,7 +121689,7 @@
     ],
     "checkedAt": "2026-09-28",
     "firstVersion": "2026-09-29",
-    "lastChangedVersion": "2026-09-29"
+    "lastChangedVersion": "2026-10-22"
   },
   {
     "id": "9211-0001",

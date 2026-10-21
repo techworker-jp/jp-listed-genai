@@ -286,17 +286,22 @@
     "name": "ｒｏｂｏｔ　ｈｏｍｅ",
     "industry33": "不動産業",
     "market": "スタンダード",
-    "stage": "検討・計画",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2025-03-19",
     "sources": [
       {
         "url": "https://www.robothome.co.jp/news/en/article/22461/",
         "title": "一般社団法人生成AI活用普及協会（GUGA） 法人会員へ加入のお知らせ",
         "publishedAt": "2025-03-19"
+      },
+      {
+        "url": "https://corp.robothome.jp/news/press/22649",
+        "title": "robot homeグループのrh labo、AWS主催「第8回 AWSジャパン 生成AI Frontier Meetup」に登壇決定 ― 生成AIによるゴミ事象検知システムの実用化事例を紹介",
+        "publishedAt": "2026-08-18"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -1309,16 +1314,26 @@
     "industry33": "不動産業",
     "market": "プライム",
     "stage": "使っている・導入した",
-    "firstPublishedAt": "2026-03-06",
+    "firstPublishedAt": "2024-02-01",
     "sources": [
+      {
+        "url": "https://www.kentaku.co.jp/corporate/csr/torikumi/dx/20240201_dk-chat.html",
+        "title": "大東建託グループ専用ChatGPT「DK Chat powered by ChatGPT」の利用を開始しました！",
+        "publishedAt": "2024-02-01"
+      },
+      {
+        "url": "https://www.kentaku.co.jp/news/release/2024/release_aikacho_250328.html",
+        "title": "人工知能を活用した独自システム「生成型AI課長」を4月から導入",
+        "publishedAt": "2025-03-28"
+      },
       {
         "url": "https://www.jiji.com/jc/article?g=eco&k=2026030501195",
         "title": "大東建託の生成AI活用（AI社長）に関する記事",
         "publishedAt": "2026-03-06"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 3,
     "yuhoYears": [
       2025
     ]
@@ -3635,6 +3650,26 @@
     "yuhoYears": []
   },
   {
+    "code": "2391",
+    "name": "プラネット",
+    "industry33": "サービス業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-10-21",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z91A",
+        "title": "有価証券報告書－第41期(2025/08/01－2026/07/31)",
+        "publishedAt": "2026-10-21"
+      }
+    ],
+    "checkedAt": "2026-10-22",
+    "caseCount": 1,
+    "yuhoYears": [
+      2025
+    ]
+  },
+  {
     "code": "2408",
     "name": "ＫＧ情報",
     "industry33": "サービス業",
@@ -5572,10 +5607,15 @@
         "url": "https://tsukuruba.com/news/post-2542",
         "title": "ツクルバ、「GitHub Copilot」の利用環境を全エンジニアに提供開始、エンジニアの生産性向上を目指す",
         "publishedAt": "2023-03-30"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000177.000043247.html",
+        "title": "ツクルバ、開発AIエージェントを全エンジニアに導入、非コーディング領域も含めた積極活用により、開発組織全体の生産性を向上",
+        "publishedAt": "2025-09-02"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
     "yuhoYears": []
   },
   {
@@ -5583,17 +5623,22 @@
     "name": "ＳＲＥホールディングス",
     "industry33": "不動産業",
     "market": "プライム",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2023-10-31",
     "sources": [
       {
         "url": "https://prtimes.jp/main/html/rd/p/000000037.000068060.html",
         "title": "査定組込型AIチャットボットの開発に関するお知らせ",
         "publishedAt": "2023-10-31"
+      },
+      {
+        "url": "https://www2.jpx.co.jp/disc/29800/140120260805509517.pdf",
+        "title": "2027年3月期 第1四半期 決算説明資料",
+        "publishedAt": "2026-08-05"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 3,
     "yuhoYears": [
       2025
     ]
@@ -5612,8 +5657,8 @@
         "publishedAt": "2026-08-21"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
     "yuhoYears": []
   },
   {
@@ -5625,13 +5670,18 @@
     "firstPublishedAt": "2026-09-03",
     "sources": [
       {
+        "url": "https://ir.arrplanner.co.jp/ja/ir/news/auto_20260903531077/pdfFile.pdf",
+        "title": "全社規模での「AIエージェント」運用開始！ChatGPT WorkおよびClaude Codeを導入",
+        "publishedAt": "2026-09-03"
+      },
+      {
         "url": "https://prtimes.jp/main/html/rd/p/000000157.000073788.html",
         "title": "全社規模での「AIエージェント」運用開始！ChatGPTWorkおよびClaude Codeを導入",
         "publishedAt": "2026-09-03"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -5646,10 +5696,15 @@
         "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20250226582260/",
         "title": "ヤマイチエステート[2984]：生成AI技術を活用した企業情報発信の開始について",
         "publishedAt": "2025-02-26"
+      },
+      {
+        "url": "https://www2.jpx.co.jp/disc/29840/140120250226582260.pdf",
+        "title": "生成AI技術を活用した企業情報発信の開始について",
+        "publishedAt": "2025-02-26"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -5664,10 +5719,15 @@
         "url": "https://www2.jpx.co.jp/disc/29980/140120230629514929.pdf",
         "title": "事業計画及び成長可能性に関する事項",
         "publishedAt": "2023-06-30"
+      },
+      {
+        "url": "https://www2.jpx.co.jp/disc/29980/140120250624597380.pdf",
+        "title": "事業計画及び成長可能性に関する事項",
+        "publishedAt": "2025-06-24"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -6713,13 +6773,28 @@
         "publishedAt": "2023-11-29"
       },
       {
+        "url": "https://prtimes.jp/main/html/rd/p/000000648.000025694.html",
+        "title": "LIFULLと共同開発の生成AIを活用した対話型チャットサービス「ノムコムAIアドバイザー」の提供を開始",
+        "publishedAt": "2024-07-30"
+      },
+      {
+        "url": "https://insightedge.jp/projects/8969/",
+        "title": "野村不動産×Insight Edgeが挑んだ、土地の魅力を最大化する「網羅的視点」をAIで再現 マルチAIエージェント",
+        "publishedAt": "2026-06-01"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000428.000048939.html",
+        "title": "野村不動産、経費精算を生成AIで効率化。「テックタッチ AI Hub」で複数税区分・適格事業者番号の有無などの判定・明細化もAIがリアルタイムに実行。",
+        "publishedAt": "2026-06-16"
+      },
+      {
         "url": "https://www.pkshatech.com/news/20260930/",
         "title": "野村不動産HD、約10,000名への全社依頼を「PKSHA AIバックオフィス」で自動配信・進捗管理",
         "publishedAt": "2026-09-30"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 1,
+    "checkedAt": "2026-10-20",
+    "caseCount": 4,
     "yuhoYears": []
   },
   {
@@ -6727,17 +6802,22 @@
     "name": "三重交通グループホールディングス",
     "industry33": "不動産業",
     "market": "プライム",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2024-11-07",
     "sources": [
       {
         "url": "https://www.macnica.co.jp/public-relations/news/2024/146380/",
         "title": "四日市中央通りにおける魅力的なまちなかの実現を目指して本年度で5回目となる自動運転EVバスを活用したモビリティ実証実験と四日市版MaaS実証実験を同時実施",
         "publishedAt": "2024-11-07"
+      },
+      {
+        "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20251105/fm0x06/140120251104586966.pdf",
+        "title": "三重交通グループ 統合報告書2025 INTEGRATED REPORT",
+        "publishedAt": "2025-11-05"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -6769,13 +6849,18 @@
     "firstPublishedAt": "2025-05-20",
     "sources": [
       {
+        "url": "https://prtimes.jp/main/html/rd/p/000000018.000048991.html",
+        "title": "日本初、生成AIで自宅価格を即推定。売却検討時、LINEで気軽に相談。ウィル、新サービス開始",
+        "publishedAt": "2025-05-20"
+      },
+      {
         "url": "https://www.wills.co.jp/corp/news/1675/",
         "title": "新サービス『AIウィルくんのマンション査定 BETA(LINE)』を公開しました。",
         "publishedAt": "2025-05-20"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -6823,13 +6908,23 @@
     "firstPublishedAt": "2024-12-19",
     "sources": [
       {
+        "url": "https://zeals.ai/jp/news/20241219/",
+        "title": "ジールス、接客AIエージェントを新築分譲マンション「Duo Hills」を手がけるフージャースコーポレーションにLINE上で提供開始",
+        "publishedAt": "2024-12-19"
+      },
+      {
         "url": "https://zeals.ai/news/20241219",
         "title": "ジールス、接客AIエージェントを新築分譲マンション「Duo Hills」を手がけるフージャースコーポレーションにLINE上で提供開始",
         "publishedAt": "2024-12-19"
+      },
+      {
+        "url": "https://www.hoosiers.co.jp/files/csr/dx_report_2026.pdf",
+        "title": "DX Report 2026",
+        "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
     "yuhoYears": []
   },
   {
@@ -6841,13 +6936,23 @@
     "firstPublishedAt": "2023-07-11",
     "sources": [
       {
+        "url": "https://openhouse-group.co.jp/news/release/pdf/20230711_1.pdf",
+        "title": "オープンハウスグループ、生成AI活用の実証実験を開始 DX支援企業のアジアクエストが技術アドバイザーとして支援",
+        "publishedAt": "2023-07-11"
+      },
+      {
         "url": "https://prtimes.jp/main/html/rd/p/000000380.000024241.html",
         "title": "オープンハウスグループ、生成AI活用の実証実験を開始　DX支援企業のアジアクエストが技術アドバイザーとして支援",
         "publishedAt": "2023-07-11"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000406.000048939.html",
+        "title": "【3/26 ウェビナー開催】生成AIで建設システムを事業成長に繋げるオープンハウス・アーキテクトの取り組み事例",
+        "publishedAt": "2026-03-09"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
     "yuhoYears": []
   },
   {
@@ -6855,17 +6960,22 @@
     "name": "東急不動産ホールディングス",
     "industry33": "不動産業",
     "market": "プライム",
-    "stage": "検討・計画",
-    "firstPublishedAt": "2025-08",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2025-03-27",
     "sources": [
+      {
+        "url": "https://www.livable.co.jp/corp/release/2025/20250327.html",
+        "title": "東急リバブル、生成AIを活用した対話型チャットサービスの提供を開始",
+        "publishedAt": "2025-03-27"
+      },
       {
         "url": "https://www.tokyu-fudosan-hd.co.jp/pdf/about/valuecreation/integratedreport_2025j.pdf",
         "title": "WE ARE GREEN REPORT 2025（統合報告書2025）",
         "publishedAt": "2025-08"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
     "yuhoYears": [
       2024,
       2025
@@ -6885,8 +6995,8 @@
         "publishedAt": "2025-06-27"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": [
       2024,
       2025
@@ -6904,10 +7014,20 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000132.000007782.html",
         "title": "次世代AIモデル「Gemini 1.5」による多用途RAGソリューションを開発、利用開始",
         "publishedAt": "2024-07-31"
+      },
+      {
+        "url": "https://www2.jpx.co.jp/disc/33000/140120240703543570.pdf",
+        "title": "不動産DX「AMBITION Cloud」、生成AIを活用した「∞AI Chat for Sales」とのPoC（概念実証）を開始",
+        "publishedAt": "2024-07-03"
+      },
+      {
+        "url": "https://www2.jpx.co.jp/disc/33000/140120250620595014.pdf",
+        "title": "アンビションDXホールディングス、生成AIを活用した外国人材向け、日本語学習資料で異文化理解を促進",
+        "publishedAt": "2025-06-20"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 3,
     "yuhoYears": []
   },
   {
@@ -7610,8 +7730,8 @@
         "publishedAt": "2025-08-13"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -7644,10 +7764,33 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000439.000029869.html",
         "title": "生成AIに関する利用実態調査を実施 活用に向け実証実験を開始へ",
         "publishedAt": "2023-08-29"
+      },
+      {
+        "url": "https://ki-group.co.jp/news/pdf/2026/02/2026.02.16_AI_DX.pdf",
+        "title": "社内DXの加速で生産性向上を実現 生成AIチャットボットの運用を開始",
+        "publishedAt": "2026-02-16"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
+    "yuhoYears": []
+  },
+  {
+    "code": "3480",
+    "name": "ジェイ・エス・ビー",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2025-01-23",
+    "sources": [
+      {
+        "url": "https://www2.jpx.co.jp/disc/34800/140120250123554116.pdf",
+        "title": "2024年10月期 決算説明資料",
+        "publishedAt": "2025-01-23"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -7662,10 +7805,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000344.000026725.html",
         "title": "業務効率化と業務品質の向上に向け「Agentforce」の導入によるAI活用を推進 ～「UpdataNOW25」でAIエージェントの活用事例セッションに登壇～",
         "publishedAt": "2025-12-09"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000385.000026725.html",
+        "title": "全社員を対象とした「DX・AIリテラシー研修」を実施 ～社員のAIリテラシー向上と業務効率化を目的にDX推進体制を強化～",
+        "publishedAt": "2026-04-02"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
     "yuhoYears": []
   },
   {
@@ -7682,8 +7830,8 @@
         "publishedAt": "2023-12-01"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -7698,10 +7846,20 @@
         "url": "https://www.ga-tech.co.jp/news/5c8amfcf5hsznfsn/",
         "title": "RENOSY、「ネット不動産投資」から「AI不動産投資」へ。テクノロジー戦略を策定",
         "publishedAt": "2025-01-29"
+      },
+      {
+        "url": "https://www.ga-tech.co.jp/news/6q2t2s886o3raqps/",
+        "title": "AI不動産投資RENOSY、お客様との面談支援AIを開発、運用開始",
+        "publishedAt": "2025-09-10"
+      },
+      {
+        "url": "https://www.ga-tech.co.jp/news/b9ocwkv6c75uc5s2/",
+        "title": "AI不動産投資のRENOSY、物件の周辺情報アドバイス機能を提供開始",
+        "publishedAt": "2025-10-20"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 3,
     "yuhoYears": [
       2024,
       2025
@@ -17510,6 +17668,24 @@
     ]
   },
   {
+    "code": "5527",
+    "name": "ｐｒｏｐｅｒｔｙ　ｔｅｃｈｎｏｌｏｇｉｅｓ",
+    "industry33": "不動産業",
+    "market": "グロース",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2023-10-25",
+    "sources": [
+      {
+        "url": "https://pptc.co.jp/ir/press/20231025_2070/",
+        "title": "中古住宅に関わる「情報の非対称性」を解消│独自学習し「GPT-4」搭載で利便性向上『KAITRY』LINE公式アカウントで、気軽に相談",
+        "publishedAt": "2023-10-25"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
+    "yuhoYears": []
+  },
+  {
     "code": "5533",
     "name": "エリッツホールディングス",
     "industry33": "不動産業",
@@ -17539,10 +17715,20 @@
         "url": "https://levtech.jp/partner/guide/case/detail/490/",
         "title": "株式会社AlbaLink導入事例（社内AIチャットボット「アルバ君」）",
         "publishedAt": "2025-11-14"
+      },
+      {
+        "url": "https://kashika-20mile.com/dpro/articles/case-albalink-mcp-adjacent-industry/",
+        "title": "【事例】参考にできる競合が、業界の中で見つからない｜隣の業界から勝ち筋を引いてくるMCPの使い方(株式会社AlbaLink様)",
+        "publishedAt": "2026-09-09"
+      },
+      {
+        "url": "https://albalink.co.jp/recruit/workers/jin-nagata/",
+        "title": "永田 仁｜採用情報｜株式会社AlbaLink(アルバリンク)",
+        "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 3,
     "yuhoYears": []
   },
   {
@@ -31840,13 +32026,33 @@
         "publishedAt": "2023-10-10"
       },
       {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2024/0805/",
+        "title": "新グループDX方針「DX VISION 2030」を策定",
+        "publishedAt": "2024-08-05"
+      },
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2025/1223/",
+        "title": "社長AIエージェントなど独自AI開発と、全部門で150名のAI推進リーダーを設置",
+        "publishedAt": "2025-12-23"
+      },
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/0415_02/",
+        "title": "小規模言語モデル（SLM）を活用したオフライン型災害対策支援システムの開発・検証について",
+        "publishedAt": "2026-04-15"
+      },
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/0512_01/",
+        "title": "「日本橋一丁目三井ビルディング」における映像・IoT・生成AIを活用した設備管理効率化の実証実験について",
+        "publishedAt": "2026-05-12"
+      },
+      {
         "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1001/",
         "title": "三井不動産とestie 不動産事業におけるAI・DX推進に向けた戦略的パートナーシップの基本合意書を締結",
         "publishedAt": "2026-10-01"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 1,
+    "checkedAt": "2026-10-20",
+    "caseCount": 6,
     "yuhoYears": []
   },
   {
@@ -31855,16 +32061,44 @@
     "industry33": "不動産業",
     "market": "プライム",
     "stage": "使っている・導入した",
-    "firstPublishedAt": "2026-02-18",
+    "firstPublishedAt": "2025",
     "sources": [
+      {
+        "url": "https://www.mec.co.jp/assets/img/annual/integratedreport2025j_p.pdf",
+        "title": "統合報告書2025",
+        "publishedAt": "2025"
+      },
       {
         "url": "https://news.infoseek.co.jp/article/prtimes_000000565_000012138/",
         "title": "三菱地所の全社データ分析基盤「SoDA」に生成AI駆動アプリケーション開発環境を構築",
         "publishedAt": "2026-02-18"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000565.000012138.html",
+        "title": "ナウキャスト、三菱地所の全社データ分析基盤「SoDA」に生成AI駆動型のアプリケーション開発環境を構築",
+        "publishedAt": "2026-02-18"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
+    "yuhoYears": []
+  },
+  {
+    "code": "8804",
+    "name": "東京建物",
+    "industry33": "不動産業",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2024-03-12",
+    "sources": [
+      {
+        "url": "https://www.ttfuhan.co.jp/company/release/_pdf_/240312.pdf",
+        "title": "東京建物不動産販売、トランスコスモスと AI-OCR と生成 AI を組み合わせた物件情報登録のスキームを構築",
+        "publishedAt": "2024-03-12"
+      }
+    ],
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -31881,8 +32115,8 @@
         "publishedAt": "2025-09-30"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -31897,10 +32131,20 @@
         "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10622/",
         "title": "生成AIで不動産広告の審査時間を半減、修正案の代替表現も自動出力―コスモスイニシア",
         "publishedAt": "2025-05-13"
+      },
+      {
+        "url": "https://www.cigr.co.jp/newsrelease/2025/10/airecommendation/",
+        "title": "生成AI搭載「AIレコメンド機能」をエントリーフォームに導入",
+        "publishedAt": "2025-10-16"
+      },
+      {
+        "url": "https://www.cigr.co.jp/company/digitalization/",
+        "title": "Digitalization | 株式会社コスモスイニシア",
+        "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 3,
     "yuhoYears": []
   },
   {
@@ -31917,8 +32161,8 @@
         "publishedAt": "2023-11-07"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -31953,8 +32197,8 @@
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
     "yuhoYears": [
       2025
     ]
@@ -31973,8 +32217,8 @@
         "publishedAt": "2023-03-17"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -31991,8 +32235,8 @@
         "publishedAt": "2025-12-08"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -32027,8 +32271,8 @@
         "publishedAt": "2026-06-04"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -32061,10 +32305,15 @@
         "url": "https://iotnews.jp/smart-building/242299/",
         "title": "明豊エンタープライズ、IoTと顔認証プラットフォームを活用した研究ラボを開設",
         "publishedAt": "2024-01-31"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000035.000097499.html",
+        "title": "明豊エンタープライズ 本社に研究ラボ「Smart Office Well」を開設しIoT機器、顔認証プラットフォーム「FreeiD」を導入",
+        "publishedAt": "2024-01-31"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
@@ -32081,13 +32330,18 @@
         "publishedAt": "2026-02-13"
       },
       {
+        "url": "https://www.azn.co.jp/news/20260528-1278.html",
+        "title": "現場主導によるDX・AI活用プロジェクトを本格始動",
+        "publishedAt": "2026-05-28"
+      },
+      {
         "url": "https://prtimes.jp/main/html/rd/p/000000056.000089580.html",
         "title": "財産コンサルティングの暗黙知を、個人の経験から組織の共通資産へ 青山財産ネットワークス、現場社員14名が実業務のAIエージェント7件を開発",
         "publishedAt": "2026-10-08"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 1,
+    "checkedAt": "2026-10-20",
+    "caseCount": 2,
     "yuhoYears": [
       2025
     ]
@@ -32104,10 +32358,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000603.000012138.html",
         "title": "ナウキャスト、法人データベースと生成AIを活用し、サンフロンティア不動産のプロパティマネジメント高度化を支援",
         "publishedAt": "2026-05-26"
+      },
+      {
+        "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20260526/fy36b0/140120260526547724.pdf",
+        "title": "ナウキャスト、法人データベースと生成AIを活用し、サンフロンティア不動産のプロパティマネジメント高度化を支援",
+        "publishedAt": "2026-05-26"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 0,
+    "checkedAt": "2026-10-20",
+    "caseCount": 1,
     "yuhoYears": []
   },
   {
