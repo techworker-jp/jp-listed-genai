@@ -125185,12 +125185,12 @@
     "industry33": "情報・通信業",
     "market": "プライム",
     "kind": "活用事例",
-    "title": "携帯の料金プラン「povo2.0」のアプリで、GPT-4oやPerplexityのモデルを無料で使える「povo AI」を出す",
-    "summary": "KDDIと沖縄セルラー電話は2025年7月23日から、すべてのpovo2.0の利用者に、ChatGPTとPerplexityのモデルをアプリから使える「povo AI」を無料で出した。GPT-4oやPerplexity Sonar Proなどを回数の制限なく使え、アプリで使い方の例を選ぶだけで使える。",
+    "title": "携帯の料金プラン「povo2.0」のアプリで、ChatGPTのモデルや画像生成を無料で使える「povo AI」を出し、使えるモデルを広げる",
+    "summary": "KDDIと沖縄セルラー電話は2025年7月23日から、povo2.0の全利用者に、ChatGPTとPerplexityのモデルをアプリで無料で使える「povo AI」を出した。2026年10月22日には「ChatGPT 5.5」系の3つのモデルを回数の制限なしで足し、画像生成モデル「Nano Banana 2」も1日3回まで使えるようにした。",
     "problem": "",
-    "approach": "",
+    "approach": "提供開始の後も、使えるAIモデルを入れ替えている。2026年10月にはChatGPT 5.5系と画像生成を足し、提供が終わる古いモデル（o3-mini・GPT-3.5、のちにGPT-5とPerplexity Sonar）を外す予定を示した。",
     "outcome": "",
-    "limitations": "提供開始の発表で、利用の数値は書かれていない。沖縄セルラー電話（9436）と共同の提供で、同社の旧版の事例もここにまとめた。",
+    "limitations": "提供とモデル追加の発表で、利用の数値は書かれていない。沖縄セルラー電話（9436）と共同の提供で（2026年10月の発表はKDDI Digital Lifeも連名）、同社の旧版の事例もここにまとめた。利用には別にpovo2.0のデータ容量が要る。",
     "areaMain": "企画・商品開発",
     "areas": [
       "企画・商品開発"
@@ -125198,19 +125198,24 @@
     "useMain": "検索・質問への回答",
     "uses": [
       "検索・質問への回答",
-      "文章の作成・下書き"
+      "文章の作成・下書き",
+      "画像・動画・デザインの生成"
     ],
     "audience": "顧客向けの製品・サービス",
     "scope": "1部署・1業務",
     "stage": "本番運用",
     "policyTypes": [],
     "providers": [
-      "OpenAI"
+      "OpenAI",
+      "Google",
+      "海外のその他の企業"
     ],
     "products": [
       "povo AI",
       "GPT-4o",
-      "Perplexity Sonar Pro"
+      "Perplexity Sonar Pro",
+      "ChatGPT 5.5",
+      "Nano Banana 2"
     ],
     "publishedAt": "2025-07-23",
     "startedAt": "2025-07",
@@ -125221,11 +125226,25 @@
         "publisher": "KDDI・沖縄セルラー電話（povo2.0）",
         "publishedAt": "2025-07-23",
         "kind": "当事者の発表"
+      },
+      {
+        "url": "https://povo.jp/news/newsrelease/20261022_01/",
+        "title": "「povo AI」に「ChatGPT 5.5」シリーズを追加、「Nano Banana 2」による画像生成も1日3回まで利用可能に",
+        "publisher": "KDDI・沖縄セルラー・KDDI Digital Life（povo2.0）",
+        "publishedAt": "2026-10-22",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://ai.watch.impress.co.jp/docs/news/2150360.html",
+        "title": "povo2.0ユーザーは無料「povo AI」に「ChatGPT 5.5」シリーズを追加",
+        "publisher": "AI Watch（Impress）",
+        "publishedAt": "2026-10-22",
+        "kind": "報道"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-23",
     "firstVersion": "2026-10-21",
-    "lastChangedVersion": "2026-10-21"
+    "lastChangedVersion": "2026-10-23"
   },
   {
     "id": "9434-0001",
