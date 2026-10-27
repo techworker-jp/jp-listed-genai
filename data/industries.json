@@ -352,15 +352,15 @@
   {
     "industry33": "卸売業",
     "listed": 281,
-    "surveyed": 256,
-    "disclosed": 101,
-    "rate": 39.5,
-    "ciLow": 33.7,
-    "ciHigh": 45.6,
+    "surveyed": 257,
+    "disclosed": 102,
+    "rate": 39.7,
+    "ciLow": 33.9,
+    "ciHigh": 45.8,
     "disclosedUse": 74,
-    "rateUse": 28.9,
-    "ciLowUse": 23.7,
-    "ciHighUse": 34.7,
+    "rateUse": 28.8,
+    "ciLowUse": 23.6,
+    "ciHighUse": 34.6,
     "reference": false
   },
   {

@@ -925,10 +925,15 @@
         "url": "https://toyokeizai.net/articles/-/847881",
         "title": "生成AI時代､｢AIの価値最大化｣に必要な視点 KPMGと鹿島建設が考える｢AI活用｣の本質",
         "publishedAt": "2025-01-27"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000003.000107687.html",
+        "title": "協栄情報、生成AIの導入から本番運用までを支援する技術力と実績が認められ、「AWS AI Services コンピテンシー」を取得",
+        "publishedAt": "2026-10-26"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 3,
+    "checkedAt": "2026-10-27",
+    "caseCount": 4,
     "yuhoYears": [
       2025
     ]
@@ -7600,7 +7605,7 @@
         "publishedAt": "2026-09"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-27",
     "caseCount": 1,
     "yuhoYears": []
   },
@@ -10563,10 +10568,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000227.000031718.html",
         "title": "生成AIを活用した独自の「テレマーケティングAIアシスタント」を開発",
         "publishedAt": "2024-04-18"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100Z9X4",
+        "title": "有価証券報告書－第18期(2025/08/01－2026/07/31)",
+        "publishedAt": "2026-10-26"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 2,
+    "checkedAt": "2026-10-27",
+    "caseCount": 3,
     "yuhoYears": []
   },
   {
@@ -26371,6 +26381,24 @@
     "yuhoYears": []
   },
   {
+    "code": "7599",
+    "name": "ＩＤＯＭ",
+    "industry33": "卸売業",
+    "market": "プライム",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-10-26",
+    "sources": [
+      {
+        "url": "https://idom-inc.com/news/press/20261026-38731.html",
+        "title": "IDOM、「Gulliver AX宣言」を発表 SalesforceとDatabricksを全面採用、AIエージェントとデータ活用で「まちのクルマ屋」の顧客体験を進化",
+        "publishedAt": "2026-10-26"
+      }
+    ],
+    "checkedAt": "2026-10-27",
+    "caseCount": 1,
+    "yuhoYears": []
+  },
+  {
     "code": "7603",
     "name": "ジーイエット",
     "industry33": "小売業",
@@ -34191,7 +34219,7 @@
         "publishedAt": "2026-05-20"
       }
     ],
-    "checkedAt": "2026-10-19",
+    "checkedAt": "2026-10-27",
     "caseCount": 2,
     "yuhoYears": [
       2024,

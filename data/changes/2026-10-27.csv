@@ -1,0 +1,6 @@
+﻿版,事例ID,区分,変わった列,統合先の事例ID
+2026-10-27,1812-0004,追加,,
+2026-10-27,3418-0001,変更,checked_at;outcome;source_count;sources_detail,
+2026-10-27,4014-0003,追加,,
+2026-10-27,7599-0001,追加,,
+2026-10-27,9324-0002,変更,approach;areas;checked_at;limitations;outcome;policy_types;source_count;sources_detail;summary;timing_note;use_main;uses,
