@@ -9332,7 +9332,7 @@
         "publishedAt": "2026-04-06"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-30",
     "caseCount": 1,
     "yuhoYears": []
   },
@@ -12444,16 +12444,21 @@
     "industry33": "情報・通信業",
     "market": "プライム",
     "stage": "使っている・導入した",
-    "firstPublishedAt": "",
+    "firstPublishedAt": "2026-10-28",
     "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZAGH",
+        "title": "半期報告書－第11期(2026/04/01－2027/03/31)",
+        "publishedAt": "2026-10-28"
+      },
       {
         "url": "https://recruit.simplex.holdings/organization/competency/generative-ai/",
         "title": "生成AIコンピテンシー｜シンプレクスグループ採用情報",
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 1,
+    "checkedAt": "2026-10-30",
+    "caseCount": 2,
     "yuhoYears": [
       2025
     ]
@@ -14866,13 +14871,23 @@
         "publishedAt": "2026-10-07"
       },
       {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020887/",
+        "title": "「LINE」に食事写真を送るだけでAIがカロリーや栄養素を分析 「Agent i」の新領域、「食事管理」エージェントを提供開始",
+        "publishedAt": "2026-10-28"
+      },
+      {
         "url": "https://www.lycorp.co.jp/ja/news/release/020891/",
         "title": "Agent i 、子育てのやるべきことをAIがサポートする「子育て」エージェントを提供開始",
         "publishedAt": "2026-10-14"
+      },
+      {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020929/",
+        "title": "Yahoo!ショッピング、「お得」を重視するAI利用傾向を踏まえ、 「AIベスト提案」を提供開始",
+        "publishedAt": "2026-10-28"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 6,
+    "checkedAt": "2026-10-30",
+    "caseCount": 8,
     "yuhoYears": [
       2025
     ]
@@ -15204,13 +15219,18 @@
         "publishedAt": "2025-04-11"
       },
       {
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/latest-examples-of-generative-ai-applications-from-121-companies-released",
+        "title": "最新生成 AI 活用事例 121 社を一挙公開！ AI エージェントの本格活用が広がる（2026 年 10 月更新）",
+        "publishedAt": "2026-10-27"
+      },
+      {
         "url": "https://www.cyberagent.co.jp/service/ai/aicreative/",
         "title": "AIクリエイティブ | 株式会社サイバーエージェント",
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 3,
+    "checkedAt": "2026-10-30",
+    "caseCount": 4,
     "yuhoYears": [
       2023,
       2024,
@@ -31617,7 +31637,7 @@
         "publishedAt": "2026-10-20"
       }
     ],
-    "checkedAt": "2026-10-24",
+    "checkedAt": "2026-10-30",
     "caseCount": 2,
     "yuhoYears": []
   },
@@ -34758,10 +34778,15 @@
         "url": "https://aws.amazon.com/jp/blogs/news/esg-decision-support-with-amazon-bedrock-agentcore/",
         "title": "Amazon Bedrock AgentCore で ESG 対応の意思決定を支援 – 人の判断を記憶する AI エージェント",
         "publishedAt": "2026-10-14"
+      },
+      {
+        "url": "https://iret.media/210349",
+        "title": "Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話",
+        "publishedAt": "2026-10-27"
       }
     ],
-    "checkedAt": "2026-10-23",
-    "caseCount": 4,
+    "checkedAt": "2026-10-30",
+    "caseCount": 5,
     "yuhoYears": [
       2023,
       2024,

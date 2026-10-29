@@ -33422,7 +33422,7 @@
     "title": "社内テストに全社員が受かってから生成AIを社内で使い始め、中期計画で社員の半分以上をAIエンジニアにする目標を掲げる",
     "summary": "2024年にAIのプロジェクトチームをつくり、社内のガイドラインを整え、AIの利活用の社内テストに全社員が合格したのを確かめたうえで、社内でAIを使えるようにした。社内での導入例に日報の自動要約アプリがある。中期経営計画「DCX 2030」では、生成AIをフルに使う方針のもと、全社員の半分以上をAIエンジニアに育てることを掲げた。",
     "problem": "",
-    "approach": "",
+    "approach": "2026年10月の有価証券報告書でも、生成AIを使いこなすエンジニアの育成と、生産性を上げるための生成AIの利活用の拡大を方針に挙げた。",
     "outcome": "",
     "limitations": "AIの活用で作業工数の8割削減、AIエンジニアの比率を今の2%から半分以上へ、はいずれも目標。",
     "areaMain": "全社共通（業務を特定しない）",
@@ -33456,11 +33456,18 @@
         "publisher": "ログミーファイナンス（会社提供の決算説明会）",
         "publishedAt": "2026-04-06",
         "kind": "IR・経営資料"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZA4D",
+        "title": "有価証券報告書－第50期(2025/08/01－2026/07/31)",
+        "publisher": "大和コンピューター（EDINET）",
+        "publishedAt": "2026-10-27",
+        "kind": "IR・経営資料"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-30",
     "firstVersion": "2026-10-21",
-    "lastChangedVersion": "2026-10-21"
+    "lastChangedVersion": "2026-10-30"
   },
   {
     "id": "3817-0001",
@@ -42596,6 +42603,50 @@
     "lastChangedVersion": "2026-10-21"
   },
   {
+    "id": "4373-0002",
+    "code": "4373",
+    "name": "シンプレクス・ホールディングス",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "生成AIを使うことを前提にした開発の体制へ切り替えるため、研究開発費を大きく増やす",
+    "summary": "2026年度の中間期に、生成AIを使う前提の開発体制へ移る取り組みを進め、開発のノウハウを標準化して社内に広げることや、開発の基盤を高めることに研究開発費を投じた。",
+    "problem": "",
+    "approach": "中間期の研究開発費は1,880百万円で、前年同期の556百万円から238.3％増えた。",
+    "outcome": "",
+    "limitations": "半期報告書の業績の説明の中の一文で、使う生成AIの製品、対象の範囲、効果は書かれていない。",
+    "areaMain": "ソフトウェア開発・IT",
+    "areas": [
+      "ソフトウェア開発・IT"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "不明",
+    "stage": "計画・開発中",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2026-10-28",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZAGH",
+        "title": "半期報告書－第11期(2026/04/01－2027/03/31)",
+        "publisher": "シンプレクス・ホールディングス（EDINET）",
+        "publishedAt": "2026-10-28",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-10-30",
+    "firstVersion": "2026-10-30",
+    "lastChangedVersion": "2026-10-30"
+  },
+  {
     "id": "4374-0001",
     "code": "4374",
     "name": "ＲＯＢＯＴ　ＰＡＹＭＥＮＴ",
@@ -50549,6 +50600,109 @@
     "lastChangedVersion": "2026-10-21"
   },
   {
+    "id": "4689-0007",
+    "code": "4689",
+    "name": "ＬＩＮＥヤフー",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "Yahoo!ショッピングで、生成AIの商品比較を、価格・お届け・評価ごとの順位で示す「AIベスト提案」に変える",
+    "summary": "Yahoo!ショッピングで、生成AIで似た商品を比べて1つを薦める「AIおまかせ比較」を刷新し、条件に合う商品を「価格」「お届け」「評価」「ベスト」の目的別の順位で示す「AIベスト提案」を順に出し始めた。価格はクーポン・ポイント・送料を加味して利用者ごとに計算する。",
+    "problem": "同じ商品でも店やクーポン・ポイントでお得さが変わり、比べる点が多い。従来の機能は抽象的な観点も含めて1商品を薦めるため、最もお得な商品になるとは限らなかった。",
+    "approach": "AI機能の使われ方を分析し、利用者の3人に1人がお得な日を知らせる機能を使い、比較の軸の31%がお得さに関するものだったことを踏まえて作り直した。OpenAIのAPIを使う。",
+    "outcome": "",
+    "limitations": "提供開始の発表で、新しい機能の利用の数値は書かれていない。端末によっては表示されない。生成AIの出力の正確さは保証しないと書いている。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答",
+      "データ分析"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "不明",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "OpenAI"
+    ],
+    "products": [
+      "Yahoo!ショッピング"
+    ],
+    "publishedAt": "2026-10-28",
+    "startedAt": "2026-10",
+    "sources": [
+      {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020929/",
+        "title": "Yahoo!ショッピング、「お得」を重視するAI利用傾向を踏まえ、 「AIベスト提案」を提供開始",
+        "publisher": "LINEヤフー",
+        "publishedAt": "2026-10-28",
+        "kind": "当事者の発表"
+      }
+    ],
+    "checkedAt": "2026-10-30",
+    "firstVersion": "2026-10-30",
+    "lastChangedVersion": "2026-10-30"
+  },
+  {
+    "id": "4689-0008",
+    "code": "4689",
+    "name": "ＬＩＮＥヤフー",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "「Agent i」で、食事の写真や短い文を送ると栄養を分析して助言する食事管理のエージェントを提供",
+    "summary": "利用者向けのAIエージェント「Agent i」に「食事管理」の領域を加えた。LINEのトークから食事の写真や「卵」のような短い文を送るとカロリーや栄養素を分析し、年齢や目的に応じた助言や次の食事の提案、日次・週次の振り返りを出す。",
+    "problem": "健康や食生活への関心は高いが、忙しくて時間がないことが食習慣の改善の妨げになっている。",
+    "approach": "市販の商品名が入力されたときは、AIがWebでカロリーを調べて記録する。前の記録を参照して「昨日と同じ」のような入力にも応じる。中のモデルは Google の Gemini 系の基盤か OpenAI のAPI。",
+    "outcome": "",
+    "limitations": "提供開始の発表で、利用の数値は書かれていない。13歳未満は使わないよう求めている。生成AIの出力の正確さは保証しないと書いている。",
+    "areaMain": "顧客対応・問い合わせ",
+    "areas": [
+      "顧客対応・問い合わせ"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "データ分析",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "不明",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "Google",
+      "OpenAI"
+    ],
+    "products": [
+      "Agent i"
+    ],
+    "publishedAt": "2026-10-28",
+    "startedAt": "2026-10",
+    "sources": [
+      {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020887/",
+        "title": "「LINE」に食事写真を送るだけでAIがカロリーや栄養素を分析 「Agent i」の新領域、「食事管理」エージェントを提供開始",
+        "publisher": "LINEヤフー",
+        "publishedAt": "2026-10-28",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://ai.watch.impress.co.jp/docs/news/2151974.html",
+        "title": "LINEヤフー、LINEに食事写真を送るだけでAIがカロリーや栄養素を分析",
+        "publisher": "AI Watch",
+        "publishedAt": "2026-10-28",
+        "kind": "報道"
+      }
+    ],
+    "checkedAt": "2026-10-30",
+    "firstVersion": "2026-10-30",
+    "lastChangedVersion": "2026-10-30"
+  },
+  {
     "id": "4694-0001",
     "code": "4694",
     "name": "ビー・エム・エル",
@@ -51449,6 +51603,55 @@
     "checkedAt": "2026-10-20",
     "firstVersion": "2026-10-21",
     "lastChangedVersion": "2026-10-21"
+  },
+  {
+    "id": "4751-0004",
+    "code": "4751",
+    "name": "サイバーエージェント",
+    "industry33": "サービス業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "ABEMAの広告の窓口に、広告代理店の質問に答え、広告メニューを選ぶAIチャットガイドを作る",
+    "summary": "AbemaTVは、広告代理店から届く質問に応じる「QA エージェント」と、配信したい内容から合う広告メニューを選ぶ「提案エージェント」の2つを持つAIのチャットガイドを作った。",
+    "problem": "",
+    "approach": "GoogleのAgent Development Kit（ADK）を使って作った。",
+    "outcome": "想定で約3か月かかる実装を約2か月で終えた。",
+    "limitations": "Google Cloudの事例集の紹介文（1文）が出典で、使い始めた時期、利用の数値、使う生成AIのモデルは書かれていない。",
+    "areaMain": "営業・マーケティング",
+    "areas": [
+      "営業・マーケティング",
+      "顧客対応・問い合わせ"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "検索・質問への回答",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "顧客向けの製品・サービス",
+    "scope": "1部署・1業務",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "Google"
+    ],
+    "products": [
+      "Agent Development Kit"
+    ],
+    "publishedAt": "2026-10-27",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/latest-examples-of-generative-ai-applications-from-121-companies-released",
+        "title": "最新生成 AI 活用事例 121 社を一挙公開！ AI エージェントの本格活用が広がる（2026 年 10 月更新）",
+        "publisher": "Google Cloud 公式ブログ",
+        "publishedAt": "2026-10-27",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-10-30",
+    "firstVersion": "2026-10-30",
+    "lastChangedVersion": "2026-10-30"
   },
   {
     "id": "4752-0001",
@@ -111858,11 +112061,18 @@
         "publisher": "ITmedia エンタープライズ",
         "publishedAt": "2026-10-23",
         "kind": "報道"
+      },
+      {
+        "url": "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621",
+        "title": "日本取引所、金融市場の取引システム運用監視にAIを導入 精度97％を実現した方法",
+        "publisher": "キーマンズネット",
+        "publishedAt": "2026-10-28",
+        "kind": "報道"
       }
     ],
-    "checkedAt": "2026-10-24",
+    "checkedAt": "2026-10-30",
     "firstVersion": "2026-10-21",
-    "lastChangedVersion": "2026-10-24"
+    "lastChangedVersion": "2026-10-30"
   },
   {
     "id": "8698-0001",
@@ -125423,6 +125633,72 @@
     "checkedAt": "2026-10-23",
     "firstVersion": "2026-10-21",
     "lastChangedVersion": "2026-10-23"
+  },
+  {
+    "id": "9433-0005",
+    "code": "9433",
+    "name": "ＫＤＤＩ",
+    "industry33": "情報・通信業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "社員の生成AIの使い方を広報がGeminiで聞き取って毎日発信し、113件の事例を特設サイトにまとめる",
+    "summary": "KDDIアイレットの広報が、社員のAIの使い方をGeminiのGemで質問形式に聞き取り、画像生成AIで図解、AIで投稿文を作って2026年3月から平日毎日発信した。7月末までの113件を、ツールや分野で探せる特設サイトで公開した。",
+    "problem": "使い方を自由記述で聞くと、エンジニアとそれ以外で書く中身に差が出て、形もそろわないと考えた。毎日の図解をデザイナーに頼むのも難しかった。",
+    "approach": "聞き取りは、Geminiで作った「インタビュー Gem」が作業の前後の時間やコツを深掘りする。図解はプロンプトを作るGemを挟んでから「Nano Banana」で作り、見た目をそろえた。",
+    "outcome": "113件のうちエンジニア以外が50件（約44%）で、経理の領収書の確認、内部監査の稟議データの確認、司会の台本づくりなどがある。まとめのページでは平均の時間削減率が60%を超える。",
+    "limitations": "事例は2026年1月〜7月に社内で集めたもの。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）",
+      "広報・コンテンツ制作",
+      "ソフトウェア開発・IT",
+      "経理・財務・IR",
+      "法務・審査・リスク"
+    ],
+    "useMain": "文章の作成・下書き",
+    "uses": [
+      "文章の作成・下書き",
+      "画像・動画・デザインの生成",
+      "コード生成",
+      "データ分析",
+      "チェック・審査",
+      "アイデア出し"
+    ],
+    "audience": "社内の業務",
+    "scope": "複数部署",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Google",
+      "Anthropic"
+    ],
+    "products": [
+      "Gemini",
+      "Nano Banana",
+      "NotebookLM",
+      "Claude Code"
+    ],
+    "publishedAt": "2026-10-27",
+    "startedAt": "2026-03",
+    "sources": [
+      {
+        "url": "https://iret.media/210349",
+        "title": "Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話",
+        "publisher": "KDDIアイレット（iret.media）",
+        "publishedAt": "2026-10-27",
+        "kind": "当事者の発表"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
+        "title": "KDDI傘下、社内のAI活用事例113件を無料公開 「Gemini Notebook」で稟議データのチェック支援も",
+        "publisher": "ITmedia AI＋",
+        "publishedAt": "2026-10-29",
+        "kind": "報道"
+      }
+    ],
+    "checkedAt": "2026-10-30",
+    "firstVersion": "2026-10-30",
+    "lastChangedVersion": "2026-10-30"
   },
   {
     "id": "9434-0001",
