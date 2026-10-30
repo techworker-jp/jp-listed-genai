@@ -33044,17 +33044,22 @@
     "name": "神戸電鉄",
     "industry33": "陸運業",
     "market": "スタンダード",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2025-08-13",
     "sources": [
       {
         "url": "https://prtimes.jp/main/html/rd/p/000000008.000159477.html",
         "title": "【駅構内にAIアート!?】神戸電鉄 × kAIga Maker（絵画メーカー）",
         "publishedAt": "2025-08-13"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000007.000122421.html",
+        "title": "神戸電鉄、感性AIの生成AIプラットフォーム「AI-Hub」を本格導入",
+        "publishedAt": "2026-10-30"
       }
     ],
-    "checkedAt": "2026-09-28",
-    "caseCount": 1,
+    "checkedAt": "2026-10-31",
+    "caseCount": 2,
     "yuhoYears": []
   },
   {

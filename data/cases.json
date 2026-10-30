@@ -119002,6 +119002,72 @@
     "lastChangedVersion": "2026-09-29"
   },
   {
+    "id": "9046-0002",
+    "code": "9046",
+    "name": "神戸電鉄",
+    "industry33": "陸運業",
+    "market": "スタンダード",
+    "kind": "活用事例",
+    "title": "7月からの試用を経て、感性AIの生成AI基盤「AI-Hub」を10部署・約130人で本格導入",
+    "summary": "神戸電鉄は2026年7月に感性AIの法人向け生成AI基盤「AI-Hub」を試し始め、10月に本格的な導入に移った。専用の利用環境を用意し、使う予定の10部署・約130人に向けて対面の講習を開いた。文書づくり、要約や整理、企画のアイデア出し、画像づくりに使う予定。",
+    "problem": "生成AIを業務で続けて使うには、入力した情報の扱いに配慮した環境と、社員が生成AIの特性や注意点を理解することが要るとしている。",
+    "approach": "まず試用で準備し、感性AIが神戸電鉄専用の環境を整えた。2026年9月24日・25日に、利用予定者向けの対面講習を計5回開き、生成AIの考え方とAI-Hubの操作を教えた。導入後も感性AIが問い合わせ対応などで定着を支える。鉄道会社とスタートアップをつなぐTRIPの仲介で実現した。",
+    "outcome": "",
+    "limitations": "用途は予定として書かれており、使った結果は出典に無い。神戸電鉄の公式サイトのニュースリリースには見当たらず、主な出典は提供会社の感性AIが神戸電鉄と連名で出した発表。",
+    "areaMain": "全社共通（業務を特定しない）",
+    "areas": [
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "文章の作成・下書き",
+    "uses": [
+      "文章の作成・下書き",
+      "要約・議事録",
+      "アイデア出し",
+      "画像・動画・デザインの生成"
+    ],
+    "audience": "社内の業務",
+    "scope": "複数部署",
+    "stage": "導入を発表",
+    "policyTypes": [],
+    "providers": [
+      "国内のAI企業",
+      "OpenAI",
+      "Google",
+      "Anthropic"
+    ],
+    "products": [
+      "AI-Hub"
+    ],
+    "publishedAt": "2026-10-30",
+    "startedAt": "2026-07",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000007.000122421.html",
+        "title": "神戸電鉄、感性AIの生成AIプラットフォーム「AI-Hub」を本格導入",
+        "publisher": "感性AI株式会社",
+        "publishedAt": "2026-10-30",
+        "kind": "提供企業の導入事例"
+      },
+      {
+        "url": "https://www.kansei-ai.com/post/ai-hub-shintetsu",
+        "title": "神戸電鉄が生成AIプラットフォーム「AI-Hub」を本格導入",
+        "publisher": "感性AI株式会社",
+        "publishedAt": "",
+        "kind": "提供企業の導入事例"
+      },
+      {
+        "url": "https://ai.watch.impress.co.jp/docs/news/2152654.html",
+        "title": "神戸電鉄、感性AIの「AI-Hub」を10部署130名に本格導入",
+        "publisher": "AI Watch（インプレス）",
+        "publishedAt": "2026-10-30",
+        "kind": "報道"
+      }
+    ],
+    "checkedAt": "2026-10-31",
+    "firstVersion": "2026-10-31",
+    "lastChangedVersion": "2026-10-31"
+  },
+  {
     "id": "9048-0001",
     "code": "9048",
     "name": "名古屋鉄道",
