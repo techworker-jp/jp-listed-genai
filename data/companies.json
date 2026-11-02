@@ -12659,10 +12659,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000550.000026386.html",
         "title": "メルカリ、OpenAI「ChatGPT」上で「メルカリ」の商品検索・出品準備が可能に",
         "publishedAt": "2026-06-23"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/business/articles/2611/02/news032.html",
+        "title": "その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記",
+        "publishedAt": "2026-11-02"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 3,
+    "checkedAt": "2026-11-03",
+    "caseCount": 4,
     "yuhoYears": [
       2025
     ]
@@ -19567,16 +19572,21 @@
     "industry33": "機械",
     "market": "プライム",
     "stage": "試している",
-    "firstPublishedAt": "",
+    "firstPublishedAt": "2026-11-02",
     "sources": [
+      {
+        "url": "https://monoist.itmedia.co.jp/mn/articles/2611/02/news033.html",
+        "title": "オークマ、工作機械と対話するAIエージェント　熟練者不足の現場支援：JIMTOF2026",
+        "publishedAt": "2026-11-02"
+      },
       {
         "url": "https://www.okuma-saiyou.jp/staff/ozaki/",
         "title": "Oさん｜社員インタビュー｜採用情報 オークマ株式会社",
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 1,
+    "checkedAt": "2026-11-03",
+    "caseCount": 2,
     "yuhoYears": []
   },
   {
@@ -23356,10 +23366,15 @@
         "url": "https://cogmo.iact.co.jp/news/20260825",
         "title": "川崎重工への「Cogmo Enterprise 生成AI」導入成果を発表",
         "publishedAt": "2026-08-25"
+      },
+      {
+        "url": "https://www.khi.co.jp/pressrelease/news_261102-1.pdf",
+        "title": "川崎重工とリコー、AIで設計業務の知識資産活用を推進する戦略的パートナーシップを構築",
+        "publishedAt": "2026-11-02"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 3,
+    "checkedAt": "2026-11-03",
+    "caseCount": 4,
     "yuhoYears": []
   },
   {
