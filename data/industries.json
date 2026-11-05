@@ -455,10 +455,10 @@
     "rate": 56.6,
     "ciLow": 51.9,
     "ciHigh": 61.1,
-    "disclosedUse": 194,
-    "rateUse": 43.9,
-    "ciLowUse": 39.3,
-    "ciHighUse": 48.6,
+    "disclosedUse": 195,
+    "rateUse": 44.1,
+    "ciLowUse": 39.6,
+    "ciHighUse": 48.8,
     "reference": false
   }
 ]

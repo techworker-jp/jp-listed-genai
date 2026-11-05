@@ -14765,17 +14765,22 @@
     "name": "フジ・メディア・ホールディングス",
     "industry33": "情報・通信業",
     "market": "プライム",
-    "stage": "試している",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2026-05-12",
     "sources": [
       {
         "url": "https://www.fujimediahd.co.jp/pdf/MeEGpRKSe2rb4R3g.pdf",
         "title": "Group Vision 2026-2030 Ver.1.0",
         "publishedAt": "2026-05-12"
+      },
+      {
+        "url": "https://www.fujitv.co.jp/company/news/261105.html",
+        "title": "フジテレビがAI活用の実験場「AI Sandbox」を設置",
+        "publishedAt": "2026-11-05"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 1,
+    "checkedAt": "2026-11-06",
+    "caseCount": 2,
     "yuhoYears": [
       2025
     ]
@@ -19332,7 +19337,7 @@
     "name": "アサンテ",
     "industry33": "サービス業",
     "market": "プライム",
-    "stage": "検討・計画",
+    "stage": "使っている・導入した",
     "firstPublishedAt": "2026-05-13",
     "sources": [
       {
@@ -19346,7 +19351,7 @@
         "publishedAt": "2026-05-12"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-11-06",
     "caseCount": 1,
     "yuhoYears": [
       2025
@@ -24575,13 +24580,18 @@
         "publishedAt": "2025-07-09"
       },
       {
+        "url": "https://aws.amazon.com/jp/blogs/news/how-toyota-built-basispilot-an-ai-assisted-sap-operations-platform-on-aws/",
+        "title": "トヨタはいかにして BasisPilot を構築したか – AWS 上の AI アシスト型 SAP 運用プラットフォーム",
+        "publishedAt": "2026-11-05"
+      },
+      {
         "url": "https://aws.amazon.com/jp/solutions/case-studies/toyota-jp-case-study/",
         "title": "AWS 導入事例：トヨタ自動車株式会社",
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 6,
+    "checkedAt": "2026-11-06",
+    "caseCount": 7,
     "yuhoYears": []
   },
   {
@@ -34765,10 +34775,15 @@
         "url": "https://engineers.ntt.com/entry/202608-aicozy2/entry",
         "title": "社長の考えをいつでも聞ける!AIコジーを社内公開",
         "publishedAt": "2026-09-07"
+      },
+      {
+        "url": "https://group.ntt/jp/newsrelease/2026/11/05/pdf/261105aa.pdf",
+        "title": "医学書院、NTT、NTTドコモビジネス、医療現場での「信頼できるAI」の実現に向け、Ubieと医療AI情報プラットフォームの共同実証を開始",
+        "publishedAt": "2026-11-05"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 6,
+    "checkedAt": "2026-11-06",
+    "caseCount": 7,
     "yuhoYears": []
   },
   {
@@ -34803,10 +34818,15 @@
         "url": "https://iret.media/210349",
         "title": "Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話",
         "publishedAt": "2026-10-27"
+      },
+      {
+        "url": "https://cloud.google.com/blog/ja/topics/customers/how-kddi-optimized-rag-performance-with-agent-development-kit",
+        "title": "KDDI のコンシューマー向け RAG アプリ「Buffmee」: 高速化と信頼性向上を実現した舞台裏",
+        "publishedAt": "2026-11-05"
       }
     ],
-    "checkedAt": "2026-10-30",
-    "caseCount": 5,
+    "checkedAt": "2026-11-06",
+    "caseCount": 6,
     "yuhoYears": [
       2023,
       2024,
