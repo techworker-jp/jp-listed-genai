@@ -99740,12 +99740,12 @@
     "industry33": "その他金融業",
     "market": "プライム",
     "kind": "全社方針",
-    "title": "AIで会社を変える「CSAX戦略」で、ChatGPT Enterprise を全社員に広げる",
-    "summary": "2025年9月19日の説明会で、AIで会社を変える「CSAX戦略」を出した。2025年6月末から8月初めに315名で ChatGPT Enterprise を試し、効果を確かめたうえで全社員に広げる。AIのコールセンターの開発も進める。",
+    "title": "AIで会社を変える「CSAX戦略」で、ChatGPT Enterprise を全社員約3600人に配り、9割超が毎月使う",
+    "summary": "2025年9月19日の説明会で「CSAX戦略」を出し、同年9月1日から国内の全社員約3600人に ChatGPT Enterprise を配った。315名での試しを経て広げたもの。いまは Gemini・Microsoft Copilot・Claude Code・OpenAI Codex なども用途で使い分ける。",
     "problem": "",
     "approach": "",
-    "outcome": "試した315名の平均で、1人あたり年に170時間ほど減らせる見込みになった。営業は月26.7時間。投資に対する効果は954%と見込む。案件ごとの作業は60%減らせそうだという。2027年度までに、2019年比で累計300万時間の業務を減らす目標を置く。",
-    "limitations": "数字は試しの参加者での見込み。AIのコールセンターは開発中で、関連の仕組みは翌年9月に切り替える予定。",
+    "outcome": "試した315名の平均で、1人あたり年に170時間ほど減らせる見込みになった。営業は月26.7時間。投資に対する効果は954%と見込む。2026年3月時点で月1回以上使う社員は91.7%、のちに96%に達したという。2027年までに、2019年比で累計300万時間の業務を減らす目標を置く。",
+    "limitations": "時間の数字は試しの参加者での見込み。2026年6月、月150万クレジットの利用枠を月半ば（6月15日）で使い切り、速い応答のモード以外が使えなくなった。重い機能は必要なときだけ使うよう社内で呼びかけ、月内に使い続けられるようになった。AIのコールセンターは開発中。",
     "areaMain": "全社共通（業務を特定しない）",
     "areas": [
       "全社共通（業務を特定しない）",
@@ -99759,15 +99759,22 @@
     ],
     "audience": "社内の業務",
     "scope": "全社",
-    "stage": "導入を発表",
+    "stage": "全社展開",
     "policyTypes": [
       "全社への導入"
     ],
     "providers": [
-      "OpenAI"
+      "OpenAI",
+      "Google",
+      "Microsoft",
+      "Anthropic"
     ],
     "products": [
-      "ChatGPT Enterprise"
+      "ChatGPT Enterprise",
+      "Gemini",
+      "Microsoft Copilot",
+      "Claude Code",
+      "OpenAI Codex"
     ],
     "publishedAt": "2025-09-19",
     "startedAt": "2025-06",
@@ -99778,11 +99785,18 @@
         "publisher": "株式会社クレディセゾン",
         "publishedAt": "2025-09-19",
         "kind": "IR・経営資料"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/business/articles/2611/04/news010.html",
+        "title": "全社員3600人にChatGPTを配ったら、月半ばで「トークン枯渇」　クレディセゾンは想定外の事態をどう乗り切った？",
+        "publisher": "ITmedia ビジネスオンライン",
+        "publishedAt": "2026-11-04",
+        "kind": "報道"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-11-05",
     "firstVersion": "2026-10-21",
-    "lastChangedVersion": "2026-10-21"
+    "lastChangedVersion": "2026-11-05"
   },
   {
     "id": "8255-0001",
