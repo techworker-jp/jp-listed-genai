@@ -30189,6 +30189,61 @@
     "lastChangedVersion": "2026-10-21"
   },
   {
+    "id": "3591-0002",
+    "code": "3591",
+    "name": "ワコールホールディングス",
+    "industry33": "繊維製品",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "Copilot Studioで人事の規定に答えるAIエージェントの試作品を作り、試験導入へ進む",
+    "summary": "ワコールのIT戦略本部と人事部門が、2026年7〜9月の約2か月でMicrosoft Copilot Studioを使い、就業規則などの人事の規定を探して社員の質問に答えるAIエージェントの最小限の試作品（MVP）を作った。支援はBeyont。",
+    "problem": "人事の規定が複数の文書に分かれて社員が目当ての記載を見つけにくく、人事担当者には月に数百件ほどの問い合わせが来ていた。部門の業務に合わせたAIエージェントを作った社内の例も無かった。",
+    "approach": "個人の評価など個人情報に関わる質問には答えず窓口を案内し、答えられない質問は推測せず人事へつなぐ作りにした。社内の言葉の解釈を足し、人事部門の確認と手直しを何度か回した。",
+    "outcome": "評価用に用意した33問のうち27問が、人事部門の目視の確認で合格した。権限の付け方や保守など、全社に広げる前に決める運用の課題がはっきりし、共通の運用ルールの整理を始めた。",
+    "limitations": "出典は支援したBeyontの発表と事例記事で、ワコール自身の発表は見つからなかった。問い合わせ件数は人事担当者の体感とされる。今後はまず試験導入し、全社展開は運用ルールを整えてからの予定。",
+    "areaMain": "総務・社内の問い合わせ・ナレッジ",
+    "areas": [
+      "総務・社内の問い合わせ・ナレッジ",
+      "人事・採用・育成"
+    ],
+    "useMain": "検索・質問への回答",
+    "uses": [
+      "検索・質問への回答",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "社内の業務",
+    "scope": "複数部署",
+    "stage": "実証・試行",
+    "policyTypes": [],
+    "providers": [
+      "Microsoft"
+    ],
+    "products": [
+      "Microsoft Copilot Studio"
+    ],
+    "publishedAt": "2026-11-06",
+    "startedAt": "2026-07",
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000221.000035215.html",
+        "title": "Beyont、ワコールの「人事規定検索支援AIエージェント」を約2ヶ月で構築",
+        "publisher": "Beyont（PR TIMES）",
+        "publishedAt": "2026-11-06",
+        "kind": "提供企業の導入事例"
+      },
+      {
+        "url": "https://www.skillupai.com/private-training/success_stories/wacoal/",
+        "title": "人事規定の「どこに書いてあるかわからない」をAIエージェントで解消──約2ヶ月のMVP開発で部門業務に根ざしたユースケースを創出",
+        "publisher": "Beyont（スキルアップAI）",
+        "publishedAt": "2026-11-05",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-11-08",
+    "firstVersion": "2026-11-08",
+    "lastChangedVersion": "2026-11-08"
+  },
+  {
     "id": "3598-0001",
     "code": "3598",
     "name": "山喜",
@@ -33744,7 +33799,7 @@
     "problem": "",
     "approach": "",
     "outcome": "",
-    "limitations": "生産性の向上などの効果は期待として書かれている。",
+    "limitations": "生産性の向上などの効果は期待として書かれている。半期報告書でも効果の数字は書かれていない。",
     "areaMain": "ソフトウェア開発・IT",
     "areas": [
       "ソフトウェア開発・IT"
@@ -33755,7 +33810,7 @@
     ],
     "audience": "社内の業務",
     "scope": "全社",
-    "stage": "導入を発表",
+    "stage": "本番運用",
     "policyTypes": [],
     "providers": [
       "Anthropic",
@@ -33776,11 +33831,18 @@
         "publisher": "アドソル日進（PR TIMES）",
         "publishedAt": "2026-06-18",
         "kind": "当事者の発表"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZC7R",
+        "title": "半期報告書－第52期(2026/04/01－2027/03/31)",
+        "publisher": "アドソル日進",
+        "publishedAt": "2026-11-06",
+        "kind": "IR・経営資料"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-11-08",
     "firstVersion": "2026-10-21",
-    "lastChangedVersion": "2026-10-21"
+    "lastChangedVersion": "2026-11-08"
   },
   {
     "id": "3845-0001",
