@@ -4739,10 +4739,15 @@
         "url": "https://tech.askul.co.jp/entry/2025/09/25/095012",
         "title": "GitHub Copilot Agentで始めるAI駆動開発のすすめ",
         "publishedAt": "2025-09-25"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000552.000021550.html",
+        "title": "BtoB通販サービス「ASKUL」、ChatGPTのプラグイン機能に対応、連携を開始",
+        "publishedAt": "2026-11-05"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 4,
+    "checkedAt": "2026-11-10",
+    "caseCount": 5,
     "yuhoYears": []
   },
   {
@@ -17533,6 +17538,24 @@
     "yuhoYears": []
   },
   {
+    "code": "5423",
+    "name": "東京製鐵",
+    "industry33": "鉄鋼",
+    "market": "プライム",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-11-09",
+    "sources": [
+      {
+        "url": "https://aws.amazon.com/jp/blogs/news/tokyo-steel-kiro-case-study/",
+        "title": "東京製鐵株式会社が挑む、一人ひとりの生産性向上への道 ― AI コーディングツール Kiro の全社導入で、スタッフが自ら業務システムを内製する文化へ",
+        "publishedAt": "2026-11-09"
+      }
+    ],
+    "checkedAt": "2026-11-10",
+    "caseCount": 1,
+    "yuhoYears": []
+  },
+  {
     "code": "542A",
     "name": "ビタブリッドジャパン",
     "industry33": "化学",
@@ -27933,10 +27956,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000154.000070957.html",
         "title": "AIがお客様ごとの「最適な購買」を導き出す。消耗品購買最適化診断ツール「サプナビ」にAI機能を搭載し運用開始",
         "publishedAt": "2026-10-06"
+      },
+      {
+        "url": "https://kn.itmedia.co.jp/kn/article/2611/09/2000002973/",
+        "title": "コクヨが開発部門の「資料散乱」をAIでゼロに 「Notion」をどう使ったか？",
+        "publishedAt": "2026-11-09"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 4,
+    "checkedAt": "2026-11-10",
+    "caseCount": 5,
     "yuhoYears": [
       2025
     ]
@@ -28052,13 +28080,18 @@
         "publishedAt": "2026-07-14"
       },
       {
+        "url": "https://www.itmedia.co.jp/business/articles/2611/09/news013.html",
+        "title": "ファミマ、AIで新作スイーツを開発 「最初は使えない案も多かったが……」データと指示をどう改善？",
+        "publishedAt": "2026-11-09"
+      },
+      {
         "url": "https://www.itochu.co.jp/ja/about/dx/ai/index.html",
         "title": "生成AI活用｜伊藤忠商事株式会社",
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 3,
+    "checkedAt": "2026-11-10",
+    "caseCount": 4,
     "yuhoYears": [
       2024,
       2025
@@ -30982,10 +31015,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000941.000007957.html",
         "title": "【SBI証券】生成AIを活用したチャットサービス提供開始のお知らせ",
         "publishedAt": "2026-09-09"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000067.000034194.html",
+        "title": "セカンドサイトアナリティカ、SBI証券のミドル・バックオフィス領域でAIエージェントを活用した業務自動化を支援",
+        "publishedAt": "2026-11-09"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 4,
+    "checkedAt": "2026-11-10",
+    "caseCount": 5,
     "yuhoYears": [
       2025
     ]
@@ -31640,7 +31678,7 @@
         "publishedAt": "2025"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-11-10",
     "caseCount": 3,
     "yuhoYears": [
       2023,
