@@ -33256,7 +33256,7 @@
         "publishedAt": "2026-10-06"
       }
     ],
-    "checkedAt": "2026-10-19",
+    "checkedAt": "2026-11-11",
     "caseCount": 4,
     "yuhoYears": [
       2025
@@ -34898,10 +34898,15 @@
         "url": "https://www.softbank.jp/sbnews/entry/20251204_01",
         "title": "わずか2カ月半で250万超のAIエージェントを作成。全社員が身につけた“AIを使うチカラ”",
         "publishedAt": "2025-12-04"
+      },
+      {
+        "url": "https://www.softbank.jp/sbnews/entry/20260616_01",
+        "title": "高度化するサイバー攻撃を先端AIで防御。ソフトバンクがOpenAIの技術を活用した「Patching as a Service」を発表",
+        "publishedAt": "2026-06-16"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 3,
+    "checkedAt": "2026-11-11",
+    "caseCount": 4,
     "yuhoYears": []
   },
   {
@@ -35279,10 +35284,15 @@
         "url": "https://www.energia.co.jp/assets/press/2025/p20260126.pdf",
         "title": "NTT版LLM(大規模言語モデル)「tsuzumi 2」を活用した電力業務特化型LLMの構築および検証を開始",
         "publishedAt": "2026-01-26"
+      },
+      {
+        "url": "https://exawizards.com/archives/33261",
+        "title": "エクサウィザーズグループのExa Frontier Edge、中国電力の水力発電計画業務システムにおいてAI駆動開発による再構築を推進",
+        "publishedAt": "2026-11-10"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 3,
+    "checkedAt": "2026-11-11",
+    "caseCount": 4,
     "yuhoYears": []
   },
   {
