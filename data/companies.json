@@ -14904,10 +14904,15 @@
         "url": "https://www.lycorp.co.jp/ja/news/release/020929/",
         "title": "Yahoo!ショッピング、「お得」を重視するAI利用傾向を踏まえ、 「AIベスト提案」を提供開始",
         "publishedAt": "2026-10-28"
+      },
+      {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020971/",
+        "title": "Yahoo!ショッピング、商品の到着予定や配送状況をわかりやすく伝える「AIお届け情報」を提供開始",
+        "publishedAt": "2026-11-11"
       }
     ],
-    "checkedAt": "2026-10-30",
-    "caseCount": 8,
+    "checkedAt": "2026-11-12",
+    "caseCount": 9,
     "yuhoYears": [
       2025
     ]
@@ -19851,16 +19856,21 @@
     "industry33": "サービス業",
     "market": "プライム",
     "stage": "試している",
-    "firstPublishedAt": "",
+    "firstPublishedAt": "2026-11-11",
     "sources": [
+      {
+        "url": "https://www.bell24.co.jp/ja/news/bell24/20261111-2/",
+        "title": "ベルシステム24、先進AI技術を活用し、ヒトとAIが協働するコンタクトセンターの実現を加速",
+        "publishedAt": "2026-11-11"
+      },
       {
         "url": "https://gai.bell24.co.jp/ja/index.html",
         "title": "コンタクトセンター生成AI活用共創プログラム「生成AI Co-Creation Lab.」",
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 1,
+    "checkedAt": "2026-11-12",
+    "caseCount": 2,
     "yuhoYears": [
       2023
     ]
