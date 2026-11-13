@@ -14055,10 +14055,15 @@
         "url": "https://www.santen.com/ja/news/2025/2025_2/20251001",
         "title": "生成AIツール「Microsoft 365 Copilot」をグローバル全社に導入",
         "publishedAt": "2025-10-01"
+      },
+      {
+        "url": "https://ai.watch.impress.co.jp/docs/news/2156284.html",
+        "title": "参天製薬、Copilot活用で4,000超のAIエージェントを創出",
+        "publishedAt": "2026-11-13"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 2,
+    "checkedAt": "2026-11-14",
+    "caseCount": 3,
     "yuhoYears": []
   },
   {
@@ -29459,17 +29464,22 @@
     "name": "アクシアル　リテイリング",
     "industry33": "小売業",
     "market": "プライム",
-    "stage": "検討・計画",
-    "firstPublishedAt": "",
+    "stage": "使っている・導入した",
+    "firstPublishedAt": "2026-11-12",
     "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZAMV",
+        "title": "半期報告書－第76期(2026/04/01－2027/03/31)",
+        "publishedAt": "2026-11-12"
+      },
       {
         "url": "https://www2.jpx.co.jp/disc/82550/140120260601557658.pdf",
         "title": "2026年3月期 決算説明会資料",
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 1,
+    "checkedAt": "2026-11-14",
+    "caseCount": 2,
     "yuhoYears": []
   },
   {
@@ -31686,10 +31696,15 @@
         "url": "https://www.sompo-hd.com/ir/data/disclosure/hd/online2025/group/digital-data-ai/cdo-message/",
         "title": "グループＣＤＯメッセージ",
         "publishedAt": "2025"
+      },
+      {
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/sompo-systems-streamlines-maintenance-through-knowledge-graphs-and-ai-development",
+        "title": "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化",
+        "publishedAt": "2026-11-12"
       }
     ],
-    "checkedAt": "2026-11-10",
-    "caseCount": 3,
+    "checkedAt": "2026-11-14",
+    "caseCount": 4,
     "yuhoYears": [
       2023,
       2024,
@@ -33535,10 +33550,15 @@
         "url": "https://ai-keiei.shift-ai.co.jp/interview-f7-jrkyushu/",
         "title": "JR九州に聞く プログラミング未経験者がAIでアプリを作る組織はどう生まれたか",
         "publishedAt": "2026-04-28"
+      },
+      {
+        "url": "https://workspace.google.com/blog/ja/customer-stories/jr-kyushu-implements-google-workspace-with-gemini",
+        "title": "JR九州: Google Workspace with Gemini を導入し、業務の内製化とサービス品質の底上げを目指す",
+        "publishedAt": "2026-10-30"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 2,
+    "checkedAt": "2026-11-14",
+    "caseCount": 3,
     "yuhoYears": []
   },
   {

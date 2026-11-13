@@ -371,10 +371,10 @@
     "rate": 39.5,
     "ciLow": 34,
     "ciHigh": 45.1,
-    "disclosedUse": 98,
-    "rateUse": 33.3,
-    "ciLowUse": 28.2,
-    "ciHighUse": 38.9,
+    "disclosedUse": 99,
+    "rateUse": 33.7,
+    "ciLowUse": 28.5,
+    "ciHighUse": 39.3,
     "reference": false
   },
   {

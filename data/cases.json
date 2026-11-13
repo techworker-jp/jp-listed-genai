@@ -47955,6 +47955,56 @@
     "lastChangedVersion": "2026-10-21"
   },
   {
+    "id": "4536-0003",
+    "code": "4536",
+    "name": "参天製薬",
+    "industry33": "医薬品",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "社員が自分の手でAIエージェントを4,000個以上作り、MR向けに医師役と面談を練習する「フィールドコーチ」を配る",
+    "summary": "参天製薬は2025年10月に全従業員へ Microsoft Copilot を入れたあと、2026年初めにはプログラムを書かずにエージェントを作れる場を用意した。2026年11月時点で社内のエージェントは4,000を超え、9割5分以上は現場の社員が Agent Builder で作った。営業の教育担当は、MRがiPadに音声で話しかけ、医師役のAIと面談を練習できる「フィールドコーチ」を作った。",
+    "problem": "医師の働き方改革でMRが医師と会える時間が減り、覚える製品知識は増えた。医師の役を上司や同僚に頼む練習は時間を取りにくく、知識の定着にも差が出ていた。",
+    "approach": "2025年11月にアンバサダーの制度を始め、約180人の推進役と組織変革のチームが研修や伴走を担う。現場が作るエージェントは Microsoft 365 内のデータと上げた資料だけを参照し、システム連携やコードを伴うものはIT部門が別に作る。フィールドコーチは教育用の社内資料・添付文書などだけを参照し、薬の提案や医療の判断はさせない。",
+    "outcome": "直近1か月で約700のエージェントが動く。フィールドコーチは5月の新製品に合わせて約300人のMRに配り、アンケートで約7割が満足と答えた。Copilot の全社導入から1年で週の利用率は85%、1人1日61分の時間が生まれたという。",
+    "limitations": "日本マイクロソフトの記者説明会を伝えた報道による。参天製薬の公式の発表は見つからなかった。",
+    "areaMain": "人事・採用・育成",
+    "areas": [
+      "人事・採用・育成",
+      "営業・マーケティング",
+      "全社共通（業務を特定しない）"
+    ],
+    "useMain": "対話での応対",
+    "uses": [
+      "対話での応対",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "社内の業務",
+    "scope": "複数部署",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Microsoft"
+    ],
+    "products": [
+      "Microsoft Copilot",
+      "Agent Builder"
+    ],
+    "publishedAt": "2026-11-13",
+    "startedAt": "2026",
+    "sources": [
+      {
+        "url": "https://ai.watch.impress.co.jp/docs/news/2156284.html",
+        "title": "参天製薬、Copilot活用で4,000超のAIエージェントを創出",
+        "publisher": "Impress AI Watch",
+        "publishedAt": "2026-11-13",
+        "kind": "報道"
+      }
+    ],
+    "checkedAt": "2026-11-14",
+    "firstVersion": "2026-11-14",
+    "lastChangedVersion": "2026-11-14"
+  },
+  {
     "id": "4540-0001",
     "code": "4540",
     "name": "ツムラ",
@@ -100316,6 +100366,50 @@
     "lastChangedVersion": "2026-10-21"
   },
   {
+    "id": "8255-0002",
+    "code": "8255",
+    "name": "アクシアル　リテイリング",
+    "industry33": "小売業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "店舗と部門の現場まで生成AIを使うことを広げ、数字に基づく販売計画と管理を進める",
+    "summary": "2026年4〜9月の半期報告書で、各店舗・各部門が目標の営業利益を確保するための科学的なマネジメントの手法とあわせて、生成AIの活用を現場まで浸透させ、数値を根拠にした販売計画と管理の水準の向上を図ったと記した。",
+    "problem": "",
+    "approach": "",
+    "outcome": "",
+    "limitations": "半期報告書の経営成績の説明の一文で、使った製品・具体的な用途・利用者数・効果の数字は書かれていない。",
+    "areaMain": "店舗・現場運営",
+    "areas": [
+      "店舗・現場運営"
+    ],
+    "useMain": "特定しない（用途の記載なし）",
+    "uses": [
+      "特定しない（用途の記載なし）"
+    ],
+    "audience": "社内の業務",
+    "scope": "複数部署",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "非公表"
+    ],
+    "products": [],
+    "publishedAt": "2026-11-12",
+    "startedAt": "",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZAMV",
+        "title": "半期報告書－第76期(2026/04/01－2027/03/31)",
+        "publisher": "アクシアル リテイリング株式会社",
+        "publishedAt": "2026-11-12",
+        "kind": "IR・経営資料"
+      }
+    ],
+    "checkedAt": "2026-11-14",
+    "firstVersion": "2026-11-14",
+    "lastChangedVersion": "2026-11-14"
+  },
+  {
     "id": "8267-0001",
     "code": "8267",
     "name": "イオン",
@@ -112648,6 +112742,59 @@
     "lastChangedVersion": "2026-10-21"
   },
   {
+    "id": "8630-0004",
+    "code": "8630",
+    "name": "ＳＯＭＰＯホールディングス",
+    "industry33": "保険業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "保険の基幹システムの保守に、Claude Code などを安全に使える開発環境を配り、コードの関係をグラフにしてAIエージェントで影響を調べる検証をする",
+    "summary": "損保ジャパンの個人保険の基幹システム「SOMPO-MIRAI」を保守するSOMPOシステムズは、Java のコードとデータ項目の定義を Spanner Graph でつなぎ、AIエージェントに障害時の影響範囲を調べさせる検証を Google Cloud と行った。Claude Code などを使える開発環境も整え、2026年10月から社内に配る。",
+    "problem": "影響調査は有識者の経験と勘に頼り、アプリの構造を知らない基盤のエンジニアにはコードを追うのが難しかった。AIに毎回コード全体を読ませるとトークンがかさみ、単純なRAGでは依存関係を正確に捉えられないと考えた。",
+    "approach": "前の案件では Gemini Code Assist を実装と単体テストに使った。グラフ化には Google Cloud の Java 解析ツールを Claude Code で手直しした。開発環境は Cloud Workstations で Google Cloud の中に閉じ、Claude などは Gemini platform を通して呼ぶ。6月から希望チームに先行提供し、10月に AI活用推進室を正式に置いた。",
+    "outcome": "Gemini Code Assist で工数を20〜25%減らした。影響調査にかかる時間は約1週間（40時間）が1日以内（4〜8時間）になる見通しが立った。開発環境は40チーム・約330台で使われている。",
+    "limitations": "グラフでの影響調査は検証の段階で、時間の短縮は見通し。コードの変更をグラフに取り込む仕組みや設計書との対応づけは今後の課題。提供企業（Google Cloud）の導入事例による。",
+    "areaMain": "ソフトウェア開発・IT",
+    "areas": [
+      "ソフトウェア開発・IT"
+    ],
+    "useMain": "コード生成",
+    "uses": [
+      "コード生成",
+      "検索・質問への回答",
+      "業務の自動化・AIエージェント"
+    ],
+    "audience": "社内の業務",
+    "scope": "複数部署",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Google",
+      "Anthropic"
+    ],
+    "products": [
+      "Gemini Code Assist",
+      "Claude Code",
+      "Gemini platform",
+      "Spanner Graph",
+      "Cloud Workstations"
+    ],
+    "publishedAt": "2026-11-12",
+    "startedAt": "2026-06",
+    "sources": [
+      {
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/sompo-systems-streamlines-maintenance-through-knowledge-graphs-and-ai-development",
+        "title": "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化",
+        "publisher": "Google Cloud 公式ブログ",
+        "publishedAt": "2026-11-12",
+        "kind": "提供企業の導入事例"
+      }
+    ],
+    "checkedAt": "2026-11-14",
+    "firstVersion": "2026-11-14",
+    "lastChangedVersion": "2026-11-14"
+  },
+  {
     "id": "8697-0001",
     "code": "8697",
     "name": "日本取引所グループ",
@@ -121580,6 +121727,64 @@
     "checkedAt": "2026-09-28",
     "firstVersion": "2026-09-29",
     "lastChangedVersion": "2026-10-21"
+  },
+  {
+    "id": "9142-0003",
+    "code": "9142",
+    "name": "九州旅客鉄道",
+    "industry33": "陸運業",
+    "market": "プライム",
+    "kind": "活用事例",
+    "title": "Google Workspace with Gemini を入れ、IT部門でない社員が業務アプリやランディングページを自分たちで作る",
+    "summary": "JR九州は2025年9月に Google Workspace with Gemini を約30名で試し、11月に既存の生成AIと並べて使う方針を決め、運用の開始時に約400名分のアカウントを入れた。運輸部ではプログラミングの経験がない担当者が、車両のデータを可視化するアプリと勤務シフトを作るアプリを Gemini に書かせて作った。営業部はランディングページの案作りやSEOに使う。",
+    "problem": "現場からの業務改善の要望をIT部門だけでは受けきれず、外部に頼むと費用と時間がかかっていた。営業部にはエンジニアを専任で置いていなかった。",
+    "approach": "2023年5月に生成AIのガイドラインを作り、導入の窓口を1つにまとめた。部署ごとに全員が参加する勉強会を開き、同じ部署の使い方を紹介して利用を広げた。安全管理や保守点検の手書きの報告書などを Gemini Notebook にまとめ、参照できるようにした部署もある。",
+    "outcome": "2つのアプリは Streamlit（Python）で組み、9割を超えるコードを Gemini に書かせて2〜3か月で仕上げた（外部に頼めば半年から1年かかる見込みだった）。観光列車のページのSEOのスコアは約40点から約70点に上がった。業務での定量的な効果はまだ測っていない。",
+    "limitations": "提供企業（Google）の導入事例と報道による。",
+    "areaMain": "ソフトウェア開発・IT",
+    "areas": [
+      "ソフトウェア開発・IT",
+      "営業・マーケティング",
+      "総務・社内の問い合わせ・ナレッジ"
+    ],
+    "useMain": "コード生成",
+    "uses": [
+      "コード生成",
+      "画像・動画・デザインの生成",
+      "検索・質問への回答"
+    ],
+    "audience": "社内の業務",
+    "scope": "複数部署",
+    "stage": "本番運用",
+    "policyTypes": [],
+    "providers": [
+      "Google"
+    ],
+    "products": [
+      "Google Workspace with Gemini",
+      "Gemini Notebook"
+    ],
+    "publishedAt": "2026-10-30",
+    "startedAt": "2025-09",
+    "sources": [
+      {
+        "url": "https://workspace.google.com/blog/ja/customer-stories/jr-kyushu-implements-google-workspace-with-gemini",
+        "title": "JR九州: Google Workspace with Gemini を導入し、業務の内製化とサービス品質の底上げを目指す",
+        "publisher": "Google Workspace ブログ",
+        "publishedAt": "2026-10-30",
+        "kind": "提供企業の導入事例"
+      },
+      {
+        "url": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
+        "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発　2～3カ月で完成させた方法",
+        "publisher": "ITmedia（キーマンズネット）",
+        "publishedAt": "2026-11-13",
+        "kind": "報道"
+      }
+    ],
+    "checkedAt": "2026-11-14",
+    "firstVersion": "2026-11-14",
+    "lastChangedVersion": "2026-11-14"
   },
   {
     "id": "9143-0001",
