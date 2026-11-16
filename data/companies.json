@@ -8959,7 +8959,7 @@
         "publishedAt": "2025-09-12"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-11-17",
     "caseCount": 1,
     "yuhoYears": []
   },
@@ -12674,10 +12674,15 @@
         "url": "https://www.itmedia.co.jp/business/articles/2611/02/news032.html",
         "title": "その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記",
         "publishedAt": "2026-11-02"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
+        "title": "メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？",
+        "publishedAt": "2026-11-16"
       }
     ],
-    "checkedAt": "2026-11-03",
-    "caseCount": 4,
+    "checkedAt": "2026-11-17",
+    "caseCount": 5,
     "yuhoYears": [
       2025
     ]
@@ -15310,10 +15315,15 @@
         "url": "https://corp.rakuten.co.jp/news/press/2025/0730_01.html",
         "title": "楽天がエージェント型AIツール「Rakuten AI」の本格提供を開始し、楽天モバイルの「Rakuten Link」に搭載",
         "publishedAt": "2025-07-30"
+      },
+      {
+        "url": "https://ai.watch.impress.co.jp/docs/news/2156648.html",
+        "title": "「人間がAIを制御しなければならない」楽天・三木谷氏、大量失業とサイバー攻撃に警戒感",
+        "publishedAt": "2026-11-16"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 2,
+    "checkedAt": "2026-11-17",
+    "caseCount": 3,
     "yuhoYears": [
       2023,
       2024,
@@ -25277,7 +25287,7 @@
         "publishedAt": "2025-06-02"
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-11-17",
     "caseCount": 1,
     "yuhoYears": [
       2025
@@ -31701,10 +31711,15 @@
         "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/sompo-systems-streamlines-maintenance-through-knowledge-graphs-and-ai-development",
         "title": "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化",
         "publishedAt": "2026-11-12"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000499.000033386.html",
+        "title": "GVA TECH、ＳＯＭＰＯの法務AIエージェント改善プロジェクトを「法務AIコンサルティング」で支援",
+        "publishedAt": "2026-11-16"
       }
     ],
-    "checkedAt": "2026-11-14",
-    "caseCount": 4,
+    "checkedAt": "2026-11-17",
+    "caseCount": 5,
     "yuhoYears": [
       2023,
       2024,
@@ -32919,10 +32934,15 @@
         "url": "https://prtimes.jp/main/html/rd/p/000000287.000030192.html",
         "title": "西武鉄道株式会社が「exaBase 生成AI」を導入",
         "publishedAt": "2024-09-24"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/business/articles/2611/16/news029.html",
+        "title": "西武HD、株主総会の質問にAIが「5秒」で回答生成　精度約9割を実現した裏側とは",
+        "publishedAt": "2026-11-16"
       }
     ],
-    "checkedAt": "2026-10-19",
-    "caseCount": 2,
+    "checkedAt": "2026-11-17",
+    "caseCount": 3,
     "yuhoYears": []
   },
   {
