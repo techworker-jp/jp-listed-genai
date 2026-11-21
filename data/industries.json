@@ -338,15 +338,15 @@
   {
     "industry33": "情報・通信業",
     "listed": 606,
-    "surveyed": 407,
-    "disclosed": 313,
-    "rate": 76.9,
+    "surveyed": 408,
+    "disclosed": 314,
+    "rate": 77,
     "ciLow": 72.6,
-    "ciHigh": 80.7,
+    "ciHigh": 80.8,
     "disclosedUse": 255,
-    "rateUse": 62.7,
-    "ciLowUse": 57.9,
-    "ciHighUse": 67.2,
+    "rateUse": 62.5,
+    "ciLowUse": 57.7,
+    "ciHighUse": 67.1,
     "reference": false
   },
   {

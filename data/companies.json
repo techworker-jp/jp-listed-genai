@@ -14919,10 +14919,20 @@
         "url": "https://www.lycorp.co.jp/ja/news/release/020971/",
         "title": "Yahoo!ショッピング、商品の到着予定や配送状況をわかりやすく伝える「AIお届け情報」を提供開始",
         "publishedAt": "2026-11-11"
+      },
+      {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020992/",
+        "title": "LINE MUSICとLINEヤフーのAIエージェント「Agent i」が連携、あなた好みのプレイリストを提案する新機能「AI PlayList」を導入開始",
+        "publishedAt": "2026-11-17"
+      },
+      {
+        "url": "https://www.lycorp.co.jp/ja/news/release/020994/",
+        "title": "Yahoo!ショッピング、「ブラックフライデー」のおトクな買い方をAIが提案する「あなただけのAIおトクスケジュール」を提供開始",
+        "publishedAt": "2026-11-19"
       }
     ],
-    "checkedAt": "2026-11-12",
-    "caseCount": 9,
+    "checkedAt": "2026-11-21",
+    "caseCount": 11,
     "yuhoYears": [
       2025
     ]
@@ -16020,10 +16030,15 @@
         "url": "https://www.businessinsider.jp/article/2608-shiseido-ai-ambassadors-program/",
         "title": "資生堂が130人の「AIアンバサダー」を置いても直面した壁。次の一手は「魚ではなく釣り方を教える」考え方",
         "publishedAt": "2026-08-05"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003336/",
+        "title": "「おもてなし以外」はAIで――多忙化する美容部員、資生堂はGeminiでどう変えたか",
+        "publishedAt": "2026-11-20"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 5,
+    "checkedAt": "2026-11-21",
+    "caseCount": 6,
     "yuhoYears": [
       2023,
       2024,
@@ -17488,10 +17503,15 @@
         "url": "https://www.microsoft.com/ja-jp/customers/story/23624-nippon-steel-corporation-microsoft-365-copilot",
         "title": "日本製鉄、DXを加速。Microsoft 365 Copilotを戦略的導入し、段階的拡大で生産性と効率化の成果を最大化",
         "publishedAt": "2025-05-22"
+      },
+      {
+        "url": "https://exawizards.com/?p=33352",
+        "title": "「エクサベース IRアシスタント」、グローバル展開と脱炭素を進める 日本製鉄に導入",
+        "publishedAt": "2026-11-17"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 1,
+    "checkedAt": "2026-11-21",
+    "caseCount": 2,
     "yuhoYears": [
       2025
     ]
@@ -20241,7 +20261,7 @@
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-11-21",
     "caseCount": 2,
     "yuhoYears": [
       2024,
@@ -21326,10 +21346,15 @@
         "url": "https://www.mitsubishielectric.co.jp/investors/data/integrated-report/pdf/2025/integrated-report2025-jp.pdf",
         "title": "統合報告書2025",
         "publishedAt": "2025"
+      },
+      {
+        "url": "https://www.salesforce.com/jp/news/press-releases/2026/11/18/mitsubishi-electric-customer-news/",
+        "title": "三菱電機、グローバルでのデジタル基盤の高度化に向けSalesforceと包括契約を締結、Agentforceを採用",
+        "publishedAt": "2026-11-18"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 4,
+    "checkedAt": "2026-11-21",
+    "caseCount": 5,
     "yuhoYears": [
       2025
     ]
@@ -28110,13 +28135,18 @@
         "publishedAt": "2026-11-09"
       },
       {
+        "url": "https://www.itmedia.co.jp/business/articles/2611/20/news042.html",
+        "title": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ AI推進で経営陣を動かした「定量の匂い」とは？",
+        "publishedAt": "2026-11-20"
+      },
+      {
         "url": "https://www.itochu.co.jp/ja/about/dx/ai/index.html",
         "title": "生成AI活用｜伊藤忠商事株式会社",
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-11-10",
-    "caseCount": 4,
+    "checkedAt": "2026-11-21",
+    "caseCount": 5,
     "yuhoYears": [
       2024,
       2025
@@ -29462,7 +29492,7 @@
         "publishedAt": "2025-09-19"
       }
     ],
-    "checkedAt": "2026-11-05",
+    "checkedAt": "2026-11-21",
     "caseCount": 2,
     "yuhoYears": [
       2023,
@@ -29529,10 +29559,15 @@
         "url": "https://engineer-recruiting.aeon.info/aeon-tech-hub/interview_AEONNEXT_CRE",
         "title": "「めんどくさい」が原動力。非エンジニアが生成AIと挑む、現場主導のオペレーション改善最前線",
         "publishedAt": "2026-06-23"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000352.000023180.html",
+        "title": "まいばすけっと、「AIプラストーク」で、社内コールセンターの新人教育時間を月間122時間削減",
+        "publishedAt": "2026-11-17"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 7,
+    "checkedAt": "2026-11-21",
+    "caseCount": 8,
     "yuhoYears": []
   },
   {
@@ -30224,6 +30259,11 @@
         "publishedAt": "2026-08-05"
       },
       {
+        "url": "https://www.salesforce.com/jp/news/press-releases/2026/11/17/fukuoka-financial-group-customer-news/",
+        "title": "ふくおかフィナンシャルグループ、 Agentforceを傘下3行で展開し、営業変革を推進",
+        "publishedAt": "2026-11-17"
+      },
+      {
         "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/pwc0220/",
         "title": "ふくおかフィナンシャルグループが「審査サポートAI」で目指す融資DXの姿",
         "publishedAt": ""
@@ -30234,8 +30274,8 @@
         "publishedAt": ""
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 13,
+    "checkedAt": "2026-11-21",
+    "caseCount": 14,
     "yuhoYears": []
   },
   {
@@ -31540,10 +31580,15 @@
         "url": "https://www.nikkei.com/article/DGXZRSP694773_R30C25A7000000/",
         "title": "大和証券グループ本社、日本マイクロソフトと戦略的枠組みに関する契約を締結（プレスリリース）",
         "publishedAt": "2025-07-31"
+      },
+      {
+        "url": "https://www.dir.co.jp/release/2026/2026112001.html",
+        "title": "AIエージェントによるオンチェーン取引の実証実験に成功 ～人の承認を経た取引実行と事後検証可能な取引記録を実現～",
+        "publishedAt": "2026-11-20"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 6,
+    "checkedAt": "2026-11-21",
+    "caseCount": 7,
     "yuhoYears": [
       2025
     ]
@@ -34521,6 +34566,24 @@
       }
     ],
     "checkedAt": "2026-10-20",
+    "caseCount": 1,
+    "yuhoYears": []
+  },
+  {
+    "code": "9360",
+    "name": "鈴与シンワート",
+    "industry33": "情報・通信業",
+    "market": "スタンダード",
+    "stage": "検討・計画",
+    "firstPublishedAt": "2026-11-10",
+    "sources": [
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZE7Y",
+        "title": "半期報告書－第80期(2026/04/01－2027/03/31)",
+        "publishedAt": "2026-11-10"
+      }
+    ],
+    "checkedAt": "2026-11-21",
     "caseCount": 1,
     "yuhoYears": []
   },
