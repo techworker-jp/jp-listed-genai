@@ -11649,10 +11649,15 @@
         "url": "https://developers.wonderpla.net/entry/2026/08/26/110022",
         "title": "[Unity] PSD から実用的な Prefab を生成する Claude Code Skills 設計",
         "publishedAt": "2026-08-26"
+      },
+      {
+        "url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100ZJG5",
+        "title": "有価証券報告書－第14期(2025/09/01－2026/08/31)",
+        "publishedAt": "2026-11-24"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 1,
+    "checkedAt": "2026-11-25",
+    "caseCount": 2,
     "yuhoYears": []
   },
   {
@@ -22091,10 +22096,15 @@
         "url": "https://aws.amazon.com/jp/blogs/news/nec-claude-code-bedrock-coe-anthropic/",
         "title": "約 3 万人のAIネイティブエンジニア体制へ ― NEC は Claude Code をどう全社展開しているのか？ CoE・チャンピオン制度による取り組み",
         "publishedAt": "2026-10-20"
+      },
+      {
+        "url": "https://aws.amazon.com/jp/blogs/news/nec-kiro-spec-driven-development/",
+        "title": "開発の市民化：Kiro で全社利用のシステム開発に挑む",
+        "publishedAt": "2026-11-24"
       }
     ],
-    "checkedAt": "2026-10-21",
-    "caseCount": 2,
+    "checkedAt": "2026-11-25",
+    "caseCount": 3,
     "yuhoYears": [
       2023,
       2025
@@ -34670,10 +34680,15 @@
         "url": "https://www.nhk.or.jp/bunken-blog/100/675539.html",
         "title": "AI活用で負担軽減 \"勝負どころ\"に注力～TBSの試み（前編）～ #613",
         "publishedAt": "2025-12-17"
+      },
+      {
+        "url": "https://ai.watch.impress.co.jp/docs/news/2158705.html",
+        "title": "フリップの誤字から災害時の画面まで、テレビ局が番組制作に取り入れるAI",
+        "publishedAt": "2026-11-24"
       }
     ],
-    "checkedAt": "2026-10-20",
-    "caseCount": 3,
+    "checkedAt": "2026-11-25",
+    "caseCount": 4,
     "yuhoYears": [
       2025
     ]
